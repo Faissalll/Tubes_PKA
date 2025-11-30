@@ -1,166 +1,166 @@
 day,session,start,end,room,kode_mk,nama,paralel,sks,dosen
-Senin,1,08:00,10:30,R1,TE201426,Sistem Komunikasi,1,4,Dosen TE-Echo
-Senin,1,08:00,10:30,R1,IF201413,Sistem Basis Data,2,3,Dosen IF-Delta
-Senin,1,08:00,10:30,R11,BD201423,Manajemen Produk,2,3,Dosen BD-Charlie
-Senin,1,08:00,10:30,R13,TE201413,Medan Elektromagnetik,1,4,Dosen TE-November
-Senin,1,08:00,10:30,R15,BD201422,Manajemen Bisnis Proses,1,3,Dosen BD-Delta
-Senin,1,08:00,10:30,R16,IF201402,Matematika Diskrit,2,3,Dosen IF-Charlie
-Senin,1,08:00,10:30,R17,SI201540,Komputasi Awan,1,3,Dosen SI-Echo
-Senin,1,08:00,10:30,R18,BD201406,Manajemen Pemasaran,3,3,Dosen BD-India
-Senin,1,08:00,10:30,R2,BD201431,Metodologi Penelitian Bisnis Umum,2,4,Dosen BD-Golf
-Senin,1,08:00,10:30,R3,BD201421,Manajemen Keuangan,1,3,Dosen BD-Bravo
-Senin,1,08:00,10:30,R5,BD201418,Pemasaran Digital,1,3,Dosen BD-Hotel
-Senin,1,08:00,10:30,R8,SI201425,Manajemen Layanan Teknologi Informasi,1,3,Dosen SI-India
-Senin,2,10:30,12:00,R10,TE201403,Matematika Diskrit,3,2,Dosen TE-Oscar
-Senin,2,10:30,12:00,R12,TE201415,Arsitektur dan Organisasi Sistem Komputer,1,2,Dosen TE-Charlie
-Senin,2,10:30,12:00,R3,BD201409,Manajemen Perubahan dan Transformasi Digital,2,2,Dosen BD-Foxtrot
-Senin,2,10:30,12:00,R8,TE201551,Kapita Selekta,1,2,Dosen TE-Bravo
-Senin,3,13:00,15:30,R1,TE201414,Rangkaian Elektronika II,2,3,Dosen TE-Uniform
-Senin,3,13:00,15:30,R10,IF201512,Teknologi IoT,1,3,Dosen IF-Kilo
-Senin,3,13:00,15:30,R11,SI201546,Perencanaan Sumberdaya Perusahaan,1,3,Dosen SI-India
-Senin,3,13:00,15:30,R12,SI201424,Keamanan Sistem Informasi,1,3,Dosen SI-Charlie
-Senin,3,13:00,15:30,R13,SI201425,Manajemen Layanan Teknologi Informasi,2,3,Dosen SI-India
-Senin,3,13:00,15:30,R16,BD201506,Manajemen Risiko Bisnis,1,3,Dosen BD-Bravo
-Senin,3,13:00,15:30,R17,TE201425,Desain Sistem Pengaturan,1,3,Dosen TE-Juliet
-Senin,3,13:00,15:30,R3,IF201412,Teori Graf dan Otomata,1,3,Dosen IF-Foxtrot
-Senin,3,13:00,15:30,R4,IF201404,Pemrograman Berorientasi Objek,3,3,Dosen IF-Delta
-Senin,3,13:00,15:30,R8,SI201411,Kecerdasan Bisnis,1,3,Dosen SI-Oscar
-Senin,4,15:30,17:00,R2,IF201426,Startup Digital Lanjut,2,2,Dosen IF-Delta
-Senin,4,15:30,17:00,R3,BD201432,Information Security,1,2,Dosen BD-Alpha
-Senin,4,15:30,17:00,R9,TE201404,Material Teknik Elektro,1,2,Dosen TE-Delta
-Selasa,1,08:00,10:30,R11,BD201411,Pengembangan UI/UX,2,3,Dosen BD-Bravo
-Selasa,1,08:00,10:30,R13,BD201429,Manajemen Strategi,1,3,Dosen BD-Delta
-Selasa,1,08:00,10:30,R14,TE201416,Sinyal dan Sistem,2,3,Dosen TE-Romeo
-Selasa,1,08:00,10:30,R16,SI201411,Kecerdasan Bisnis,2,3,Dosen SI-Oscar
-Selasa,1,08:00,10:30,R17,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,2,3,Dosen SI-Lima
-Selasa,1,08:00,10:30,R2,BD201410,Akuntansi Manajemen,1,3,Dosen BD-Echo
-Selasa,1,08:00,10:30,R3,BD201507,Internet of Things,1,3,Dosen BD-Charlie
-Selasa,1,08:00,10:30,R4,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,1,3,Dosen SI-Alpha
-Selasa,1,08:00,10:30,R5,TE201427,Sistem Mikroprosesor dan Mikrokontroler,1,3,Dosen TE-Charlie
-Selasa,1,08:00,10:30,R5,IF201403,Sistem Digital,2,3,Dosen IF-Kilo
-Selasa,1,08:00,10:30,R7,TE201416,Sinyal dan Sistem,1,3,Dosen TE-Romeo
-Selasa,1,08:00,10:30,R8,IF201510,Manajemen Proyek TIK,1,3,Dosen IF-Alpha
-Selasa,2,10:30,12:00,R1,SI201632,Kerja Praktek,1,2,Dosen SI-Hotel
-Selasa,2,10:30,12:00,R10,TE201415,Arsitektur dan Organisasi Sistem Komputer,2,2,Dosen TE-Charlie
-Selasa,2,10:30,12:00,R17,TE201559,Kualitas Daya Listrik,1,2,Dosen TE-Juliet
-Selasa,2,10:30,12:00,R3,SI201733,Proposal Tugas Akhir,1,2,Dosen SI-Papa
-Selasa,3,13:00,15:30,R1,BD201419,Manajemen Rantai Pasok,1,3,Dosen BD-Alpha
-Selasa,3,13:00,15:30,R11,BD201408,Sistem Informasi Akuntansi,2,3,Dosen BD-Charlie
-Selasa,3,13:00,15:30,R13,SI201423,Perencanaan Arsitektur Teknologi Informasi,1,3,Dosen SI-India
-Selasa,3,13:00,15:30,R15,IF201511,Tata Kelola Teknologi Informasi,1,3,Dosen IF-Foxtrot
-Selasa,3,13:00,15:30,R17,SI201422,Sistem Cerdas Pendukung Keputusan,2,3,Dosen SI-Foxtrot
-Selasa,3,13:00,15:30,R18,SI201415,Rekayasa Perangkat Lunak,2,4,Dosen SI-Mike
-Selasa,3,13:00,15:30,R3,TE201412,Rangkaian Listrik II,1,3,Dosen TE-November
-Selasa,3,13:00,15:30,R3,TE201577,Jaringan Akses Nirkabel,1,3,Dosen TE-Foxtrot
-Selasa,3,13:00,15:30,R3,BD201422,Manajemen Bisnis Proses,2,3,Dosen BD-Delta
-Selasa,3,13:00,15:30,R4,IF201415,Analisis dan Perancangan Perangkat Lunak,1,3,Dosen IF-India
-Selasa,3,13:00,15:30,R6,SI201422,Sistem Cerdas Pendukung Keputusan,1,3,Dosen SI-Foxtrot
-Selasa,3,13:00,15:30,R7,BD201431,Metodologi Penelitian Bisnis Umum,1,4,Dosen BD-Golf
-Selasa,3,13:00,15:30,R9,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,1,3,Dosen SI-Lima
-Selasa,4,15:30,17:00,R12,SI201426,Inovasi dan Transformasi Digital,1,2,Dosen SI-Kilo
-Selasa,4,15:30,17:00,R14,TE201569,Sistem Pengendalian Mesin Listrik,1,2,Dosen TE-Foxtrot
-Selasa,4,15:30,17:00,R2,TE201428,Kecerdasan Buatan,1,2,Dosen TE-Victor
-Rabu,1,08:00,10:30,R1,IF201505,Deep Learning,1,3,Dosen IF-Alpha
-Rabu,1,08:00,10:30,R10,IF201403,Sistem Digital,1,3,Dosen IF-Kilo
-Rabu,1,08:00,10:30,R11,IF201513,Pemrograman Permainan Digital,1,3,Dosen IF-Golf
-Rabu,1,08:00,10:30,R14,TE201576,Teknologi Kendaraan Cerdas,1,3,Dosen TE-Bravo
-Rabu,1,08:00,10:30,R15,SI201545,Penggalian Sosial Media,1,3,Dosen SI-Hotel
-Rabu,1,08:00,10:30,R16,TE201731,Tugas Akhir,1,6,"Dosen TE-Golf, Dosen TE-Papa"
-Rabu,1,08:00,10:30,R17,BD201419,Manajemen Rantai Pasok,2,3,Dosen BD-Alpha
-Rabu,1,08:00,10:30,R17,BD201408,Sistem Informasi Akuntansi,1,3,Dosen BD-Charlie
-Rabu,1,08:00,10:30,R2,SI201423,Perencanaan Arsitektur Teknologi Informasi,2,3,Dosen SI-India
-Rabu,1,08:00,10:30,R4,IF201514,Kapita Selekta,1,3,Dosen IF-Alpha
-Rabu,1,08:00,10:30,R5,IF201411,Jaringan Komputer,2,3,Dosen IF-Lima
-Rabu,1,08:00,10:30,R6,SI201550,Kecerdasan Proses Bisnis,1,3,Dosen SI-Lima
-Rabu,1,08:00,10:30,R7,SI201734,Tugas Akhir,1,4,Dosen SI-Delta
-Rabu,1,08:00,10:30,R8,BD201420,Pemrograman Aplikasi Perangkat Bergerak,1,3,Dosen BD-Golf
-Rabu,2,10:30,12:00,R1,BD201409,Manajemen Perubahan dan Transformasi Digital,3,2,Dosen BD-Foxtrot
-Rabu,2,10:30,12:00,R16,TE201404,Material Teknik Elektro,2,2,Dosen TE-Delta
-Rabu,2,10:30,12:00,R17,TE201417,Komunikasi Data,2,2,Dosen TE-Mike
-Rabu,2,10:30,12:00,R6,BD201407,Sistem Basis Data,2,2,Dosen BD-Alpha
-Rabu,3,13:00,15:30,R1,BD201434,Manajemen Proyek,2,3,Dosen BD-Delta
-Rabu,3,13:00,15:30,R10,IF201508,Penjaminan Mutu Perangkat Lunak,1,3,Dosen IF-Bravo
-Rabu,3,13:00,15:30,R11,IF201423,Pengolahan Citra Digital,1,3,Dosen IF-India
-Rabu,3,13:00,15:30,R12,TE201425,Desain Sistem Pengaturan,2,3,Dosen TE-Juliet
-Rabu,3,13:00,15:30,R13,SI201412,Pemrograman Web,2,3,Dosen SI-Juliet
-Rabu,3,13:00,15:30,R14,IF201410,Perancangan dan Analisis Algoritme,1,3,Dosen IF-Echo
-Rabu,3,13:00,15:30,R15,IF201411,Jaringan Komputer,1,3,Dosen IF-Lima
-Rabu,3,13:00,15:30,R2,BD201408,Sistem Informasi Akuntansi,3,3,Dosen BD-Charlie
-Rabu,3,13:00,15:30,R3,SI201414,Desain dan Manajemen Jaringan Komputer,2,4,Dosen SI-Bravo
-Rabu,3,13:00,15:30,R4,BD201429,Manajemen Strategi,2,3,Dosen BD-Delta
-Rabu,3,13:00,15:30,R5,TE201574,Elektronika Pencegahan Bencana,1,3,Dosen TE-Romeo
-Rabu,3,13:00,15:30,R5,IF201404,Pemrograman Berorientasi Objek,2,3,Dosen IF-Delta
-Rabu,3,13:00,15:30,R6,SI201415,Rekayasa Perangkat Lunak,1,4,Dosen SI-Mike
-Rabu,3,13:00,15:30,R8,BD201406,Manajemen Pemasaran,1,3,Dosen BD-India
-Rabu,3,13:00,15:30,R9,TE201413,Medan Elektromagnetik,2,4,Dosen TE-November
-Rabu,4,15:30,17:00,R11,BD201409,Manajemen Perubahan dan Transformasi Digital,1,2,Dosen BD-Foxtrot
-Rabu,4,15:30,17:00,R12,TE201403,Matematika Diskrit,1,2,Dosen TE-Oscar
-Rabu,4,15:30,17:00,R16,TE201567,Otomasi Industri,1,2,Dosen TE-Victor
-Rabu,4,15:30,17:00,R7,TE201566,Manajemen Proyek,1,2,Dosen TE-Kilo
-Rabu,4,15:30,17:00,R9,TE201404,Material Teknik Elektro,3,2,Dosen TE-Delta
-Kamis,1,08:00,10:30,R1,SI201414,Desain dan Manajemen Jaringan Komputer,1,4,Dosen SI-Bravo
-Kamis,1,08:00,10:30,R10,SI201403,Manajemen dan Organisasi,2,3,Dosen SI-Hotel
-Kamis,1,08:00,10:30,R11,BD201421,Manajemen Keuangan,2,3,Dosen BD-Bravo
-Kamis,1,08:00,10:30,R12,BD201423,Manajemen Produk,1,3,Dosen BD-Charlie
-Kamis,1,08:00,10:30,R14,BD201430,Manajemen Sosial Media,1,3,Dosen BD-Alpha
-Kamis,1,08:00,10:30,R15,IF201414,Grafika Komputer,1,3,Dosen IF-Kilo
-Kamis,1,08:00,10:30,R16,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,2,3,Dosen SI-Alpha
-Kamis,1,08:00,10:30,R17,IF201413,Sistem Basis Data,1,3,Dosen IF-Delta
-Kamis,1,08:00,10:30,R2,SI201412,Pemrograman Web,1,3,Dosen SI-Juliet
-Kamis,1,08:00,10:30,R3,BD201420,Pemrograman Aplikasi Perangkat Bergerak,2,3,Dosen BD-Golf
-Kamis,1,08:00,10:30,R4,IF201425,Pemelajaran Mesin,2,3,Dosen IF-Hotel
-Kamis,1,08:00,10:30,R6,BD201406,Manajemen Pemasaran,2,3,Dosen BD-India
-Kamis,1,08:00,10:30,R7,IF201402,Matematika Diskrit,1,3,Dosen IF-Charlie
-Kamis,1,08:00,10:30,R9,IF201503,Komputasi Evolusioner,1,3,Dosen IF-Golf
-Kamis,2,10:30,12:00,R13,TE201578,Sistem Komunikasi Serat Optik,1,2,Dosen TE-Kilo
-Kamis,2,10:30,12:00,R2,IF201426,Startup Digital Lanjut,1,2,Dosen IF-Delta
-Kamis,2,10:30,12:00,R8,BD201432,Information Security,2,2,Dosen BD-Alpha
-Kamis,3,13:00,15:30,R1,IF201424,Pengembangan Aplikasi Berbasis Web,2,3,Dosen IF-Bravo
-Kamis,3,13:00,15:30,R10,TE201414,Rangkaian Elektronika II,1,3,Dosen TE-Uniform
-Kamis,3,13:00,15:30,R11,TE201423,Teknologi Transduser,1,3,Dosen TE-November
-Kamis,3,13:00,15:30,R11,TE201586,Visi Komputer,1,3,Dosen TE-Echo
-Kamis,3,13:00,15:30,R12,SI201403,Manajemen dan Organisasi,1,3,Dosen SI-Hotel
-Kamis,3,13:00,15:30,R12,IF201414,Grafika Komputer,2,3,Dosen IF-Kilo
-Kamis,3,13:00,15:30,R13,BD201601,Tugas Akhir,1,6,Dosen BD-Foxtrot
-Kamis,3,13:00,15:30,R15,BD201411,Pengembangan UI/UX,3,3,Dosen BD-Bravo
-Kamis,3,13:00,15:30,R16,TE201424,Konversi Energi Listrik,1,3,Dosen TE-Victor
-Kamis,3,13:00,15:30,R17,IF201506,Sains Data,1,3,Dosen IF-Mike
-Kamis,3,13:00,15:30,R18,SI201404,Pemrograman Terstruktur,2,3,Dosen SI-Mike
-Kamis,3,13:00,15:30,R3,BD201433,Kecerdasan Bisnis,1,3,Dosen BD-Charlie
-Kamis,3,13:00,15:30,R4,BD201410,Akuntansi Manajemen,3,3,Dosen BD-Echo
-Kamis,3,13:00,15:30,R7,TE201412,Rangkaian Listrik II,2,3,Dosen TE-November
-Kamis,3,13:00,15:30,R9,SI201424,Keamanan Sistem Informasi,2,3,Dosen SI-Charlie
-Kamis,4,15:30,17:00,R12,BD201407,Sistem Basis Data,1,2,Dosen BD-Alpha
-Kamis,4,15:30,17:00,R13,IF201416,Wawasan Umum dan Gagasan Informatika,1,2,Dosen IF-Alpha
-Kamis,4,15:30,17:00,R17,TE201429,Metodologi Penelitian,1,2,Dosen TE-Quebec
-Kamis,4,15:30,17:00,R2,TE201428,Kecerdasan Buatan,2,2,Dosen TE-Victor
-Kamis,4,15:30,17:00,R6,TE201403,Matematika Diskrit,2,2,Dosen TE-Oscar
-Jumat,1,08:00,10:30,R1,IF201404,Pemrograman Berorientasi Objek,1,3,Dosen IF-Delta
-Jumat,1,08:00,10:30,R12,IF201402,Matematika Diskrit,3,3,Dosen IF-Charlie
-Jumat,1,08:00,10:30,R13,BD201411,Pengembangan UI/UX,1,3,Dosen BD-Bravo
-Jumat,1,08:00,10:30,R15,SI201535,Manajemen Sumber Daya Manusia,1,3,Dosen SI-Foxtrot
-Jumat,1,08:00,10:30,R16,IF201415,Analisis dan Perancangan Perangkat Lunak,2,3,Dosen IF-India
-Jumat,1,08:00,10:30,R17,TE201583,Aplikasi Komputer Bergerak,1,3,Dosen TE-Hotel
-Jumat,1,08:00,10:30,R18,TE201424,Konversi Energi Listrik,2,3,Dosen TE-Victor
-Jumat,1,08:00,10:30,R18,BD201433,Kecerdasan Bisnis,2,3,Dosen BD-Charlie
-Jumat,1,08:00,10:30,R5,IF201425,Pemelajaran Mesin,1,3,Dosen IF-Hotel
-Jumat,1,08:00,10:30,R6,BD201418,Pemasaran Digital,2,3,Dosen BD-Hotel
-Jumat,1,08:00,10:30,R7,SI201404,Pemrograman Terstruktur,1,3,Dosen SI-Mike
-Jumat,1,08:00,10:30,R8,IF201504,Kecerdasan Web,1,3,Dosen IF-Bravo
-Jumat,1,08:00,10:30,R8,BD201430,Manajemen Sosial Media,2,3,Dosen BD-Alpha
-Jumat,1,08:00,10:30,R9,TE201423,Teknologi Transduser,2,3,Dosen TE-November
-Jumat,1,08:00,10:30,R9,IF201424,Pengembangan Aplikasi Berbasis Web,1,3,Dosen IF-Bravo
-Jumat,2,10:30,12:00,R11,IF201416,Wawasan Umum dan Gagasan Informatika,2,2,Dosen IF-Alpha
-Jumat,2,10:30,12:00,R4,BD201407,Sistem Basis Data,3,2,Dosen BD-Alpha
-Jumat,3,13:00,15:30,R10,BD201410,Akuntansi Manajemen,2,3,Dosen BD-Echo
-Jumat,3,13:00,15:30,R15,IF201403,Sistem Digital,3,3,Dosen IF-Kilo
-Jumat,3,13:00,15:30,R16,IF201412,Teori Graf dan Otomata,2,3,Dosen IF-Foxtrot
-Jumat,3,13:00,15:30,R18,IF201413,Sistem Basis Data,3,3,Dosen IF-Delta
-Jumat,3,13:00,15:30,R4,TE201427,Sistem Mikroprosesor dan Mikrokontroler,2,3,Dosen TE-Charlie
-Jumat,3,13:00,15:30,R6,IF201423,Pengolahan Citra Digital,2,3,Dosen IF-India
-Jumat,3,13:00,15:30,R6,BD201434,Manajemen Proyek,1,3,Dosen BD-Delta
-Jumat,3,13:00,15:30,R7,IF201410,Perancangan dan Analisis Algoritme,2,3,Dosen IF-Echo
-Jumat,3,13:00,15:30,R8,TE201426,Sistem Komunikasi,2,4,Dosen TE-Echo
-Jumat,4,15:30,17:00,R13,TE201417,Komunikasi Data,1,2,Dosen TE-Mike
-Jumat,4,15:30,17:00,R18,TE201563,Teknik Tegangan Tinggi,1,2,Dosen TE-Papa
-Jumat,4,15:30,17:00,R9,SI201426,Inovasi dan Transformasi Digital,2,2,Dosen SI-Kilo
+Senin,1,08:00,10:30,E101,SI201412,Pemrograman Web,2,3,Dosen SI-Juliet
+Senin,1,08:00,10:30,E102,BD201411,Pengembangan UI/UX,1,3,Dosen BD-Bravo
+Senin,1,08:00,10:30,E103,SI201423,Perencanaan Arsitektur Teknologi Informasi,1,3,Dosen SI-India
+Senin,1,08:00,10:30,E104,BD201433,Kecerdasan Bisnis,1,3,Dosen BD-Charlie
+Senin,1,08:00,10:30,E105,IF201414,Grafika Komputer,1,3,Dosen IF-Kilo
+Senin,1,08:00,10:30,E106,BD201411,Pengembangan UI/UX,3,3,Dosen BD-Bravo
+Senin,1,08:00,10:30,E201,TE201426,Sistem Komunikasi,2,4,Dosen TE-Echo
+Senin,1,08:00,10:30,E203,IF201403,Sistem Digital,3,3,Dosen IF-Kilo
+Senin,1,08:00,10:30,E204,TE201574,Elektronika Pencegahan Bencana,1,3,Dosen TE-Romeo
+Senin,1,08:00,10:30,E301,IF201413,Sistem Basis Data,2,3,Dosen IF-Delta
+Senin,1,08:00,10:30,E302,SI201404,Pemrograman Terstruktur,1,3,Dosen SI-Mike
+Senin,1,08:00,10:30,E304,SI201424,Keamanan Sistem Informasi,2,3,Dosen SI-Charlie
+Senin,1,08:00,10:30,E306,TE201427,Sistem Mikroprosesor dan Mikrokontroler,1,3,Dosen TE-Charlie
+Senin,1,08:00,10:30,E306,IF201512,Teknologi IoT,1,3,Dosen IF-Kilo
+Senin,2,10:30,12:00,E103,SI201632,Kerja Praktek,1,2,Dosen SI-Hotel
+Senin,2,10:30,12:00,E104,TE201567,Otomasi Industri,1,2,Dosen TE-Victor
+Senin,2,10:30,12:00,E302,TE201403,Matematika Diskrit,1,2,Dosen TE-Oscar
+Senin,2,10:30,12:00,E303,IF201416,Wawasan Umum dan Gagasan Informatika,1,2,Dosen IF-Alpha
+Senin,2,10:30,12:00,E306,TE201415,Arsitektur dan Organisasi Sistem Komputer,1,2,Dosen TE-Charlie
+Senin,2,10:30,12:00,E307,BD201407,Sistem Basis Data,3,2,Dosen BD-Alpha
+Senin,3,13:00,15:30,E101,BD201410,Akuntansi Manajemen,3,3,Dosen BD-Echo
+Senin,3,13:00,15:30,E103,TE201416,Sinyal dan Sistem,2,3,Dosen TE-Romeo
+Senin,3,13:00,15:30,E105,IF201510,Manajemen Proyek TIK,1,3,Dosen IF-Alpha
+Senin,3,13:00,15:30,E105,IF201511,Tata Kelola Teknologi Informasi,1,3,Dosen IF-Foxtrot
+Senin,3,13:00,15:30,E106,IF201423,Pengolahan Citra Digital,2,3,Dosen IF-India
+Senin,3,13:00,15:30,E201,IF201504,Kecerdasan Web,1,3,Dosen IF-Bravo
+Senin,3,13:00,15:30,E203,BD201418,Pemasaran Digital,1,3,Dosen BD-Hotel
+Senin,3,13:00,15:30,E204,SI201540,Komputasi Awan,1,3,Dosen SI-Echo
+Senin,3,13:00,15:30,E301,IF201402,Matematika Diskrit,3,3,Dosen IF-Charlie
+Senin,3,13:00,15:30,E302,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,1,3,Dosen SI-Alpha
+Senin,3,13:00,15:30,E302,BD201433,Kecerdasan Bisnis,2,3,Dosen BD-Charlie
+Senin,3,13:00,15:30,E304,SI201545,Penggalian Sosial Media,1,3,Dosen SI-Hotel
+Senin,3,13:00,15:30,E305,TE201427,Sistem Mikroprosesor dan Mikrokontroler,2,3,Dosen TE-Charlie
+Senin,3,13:00,15:30,E305,BD201421,Manajemen Keuangan,1,3,Dosen BD-Bravo
+Senin,3,13:00,15:30,E307,BD201406,Manajemen Pemasaran,2,3,Dosen BD-India
+Senin,4,15:30,17:00,E104,BD201407,Sistem Basis Data,1,2,Dosen BD-Alpha
+Selasa,1,08:00,10:30,E101,SI201550,Kecerdasan Proses Bisnis,1,3,Dosen SI-Lima
+Selasa,1,08:00,10:30,E101,IF201410,Perancangan dan Analisis Algoritme,2,3,Dosen IF-Echo
+Selasa,1,08:00,10:30,E103,TE201586,Visi Komputer,1,3,Dosen TE-Echo
+Selasa,1,08:00,10:30,E105,TE201423,Teknologi Transduser,1,3,Dosen TE-November
+Selasa,1,08:00,10:30,E201,SI201415,Rekayasa Perangkat Lunak,2,4,Dosen SI-Mike
+Selasa,1,08:00,10:30,E201,IF201403,Sistem Digital,2,3,Dosen IF-Kilo
+Selasa,1,08:00,10:30,E202,BD201601,Tugas Akhir,1,6,Dosen BD-Foxtrot
+Selasa,1,08:00,10:30,E203,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,2,3,Dosen SI-Alpha
+Selasa,1,08:00,10:30,E204,BD201420,Pemrograman Aplikasi Perangkat Bergerak,2,3,Dosen BD-Golf
+Selasa,1,08:00,10:30,E205,TE201414,Rangkaian Elektronika II,2,3,Dosen TE-Uniform
+Selasa,1,08:00,10:30,E301,SI201414,Desain dan Manajemen Jaringan Komputer,1,4,Dosen SI-Bravo
+Selasa,1,08:00,10:30,E303,BD201429,Manajemen Strategi,2,3,Dosen BD-Delta
+Selasa,1,08:00,10:30,E305,IF201425,Pemelajaran Mesin,2,3,Dosen IF-Hotel
+Selasa,1,08:00,10:30,E306,TE201423,Teknologi Transduser,2,3,Dosen TE-November
+Selasa,1,08:00,10:30,E307,BD201419,Manajemen Rantai Pasok,1,3,Dosen BD-Alpha
+Selasa,2,10:30,12:00,E104,BD201409,Manajemen Perubahan dan Transformasi Digital,2,2,Dosen BD-Foxtrot
+Selasa,2,10:30,12:00,E105,BD201407,Sistem Basis Data,2,2,Dosen BD-Alpha
+Selasa,2,10:30,12:00,E202,TE201559,Kualitas Daya Listrik,1,2,Dosen TE-Juliet
+Selasa,2,10:30,12:00,E203,TE201578,Sistem Komunikasi Serat Optik,1,2,Dosen TE-Kilo
+Selasa,2,10:30,12:00,E304,SI201426,Inovasi dan Transformasi Digital,2,2,Dosen SI-Kilo
+Selasa,2,10:30,12:00,E306,SI201426,Inovasi dan Transformasi Digital,1,2,Dosen SI-Kilo
+Selasa,3,13:00,15:30,E101,IF201404,Pemrograman Berorientasi Objek,1,3,Dosen IF-Delta
+Selasa,3,13:00,15:30,E104,TE201731,Tugas Akhir,1,6,"Dosen TE-Golf, Dosen TE-Papa"
+Selasa,3,13:00,15:30,E105,BD201406,Manajemen Pemasaran,3,3,Dosen BD-India
+Selasa,3,13:00,15:30,E105,BD201408,Sistem Informasi Akuntansi,3,3,Dosen BD-Charlie
+Selasa,3,13:00,15:30,E106,TE201413,Medan Elektromagnetik,2,4,Dosen TE-November
+Selasa,3,13:00,15:30,E202,TE201426,Sistem Komunikasi,1,4,Dosen TE-Echo
+Selasa,3,13:00,15:30,E203,IF201411,Jaringan Komputer,1,3,Dosen IF-Lima
+Selasa,3,13:00,15:30,E302,SI201422,Sistem Cerdas Pendukung Keputusan,2,3,Dosen SI-Foxtrot
+Selasa,3,13:00,15:30,E304,BD201419,Manajemen Rantai Pasok,2,3,Dosen BD-Alpha
+Selasa,3,13:00,15:30,E305,IF201514,Kapita Selekta,1,3,Dosen IF-Alpha
+Selasa,3,13:00,15:30,E307,BD201434,Manajemen Proyek,2,3,Dosen BD-Delta
+Selasa,4,15:30,17:00,E202,TE201404,Material Teknik Elektro,1,2,Dosen TE-Delta
+Selasa,4,15:30,17:00,E306,BD201432,Information Security,2,2,Dosen BD-Alpha
+Rabu,1,08:00,10:30,E101,TE201416,Sinyal dan Sistem,1,3,Dosen TE-Romeo
+Rabu,1,08:00,10:30,E102,BD201420,Pemrograman Aplikasi Perangkat Bergerak,1,3,Dosen BD-Golf
+Rabu,1,08:00,10:30,E103,SI201425,Manajemen Layanan Teknologi Informasi,2,3,Dosen SI-India
+Rabu,1,08:00,10:30,E104,BD201422,Manajemen Bisnis Proses,1,3,Dosen BD-Delta
+Rabu,1,08:00,10:30,E106,IF201404,Pemrograman Berorientasi Objek,2,3,Dosen IF-Delta
+Rabu,1,08:00,10:30,E201,SI201404,Pemrograman Terstruktur,2,3,Dosen SI-Mike
+Rabu,1,08:00,10:30,E201,IF201411,Jaringan Komputer,2,3,Dosen IF-Lima
+Rabu,1,08:00,10:30,E202,BD201431,Metodologi Penelitian Bisnis Umum,2,4,Dosen BD-Golf
+Rabu,1,08:00,10:30,E203,BD201406,Manajemen Pemasaran,1,3,Dosen BD-India
+Rabu,1,08:00,10:30,E204,BD201418,Pemasaran Digital,2,3,Dosen BD-Hotel
+Rabu,1,08:00,10:30,E301,TE201424,Konversi Energi Listrik,1,3,Dosen TE-Victor
+Rabu,1,08:00,10:30,E302,IF201508,Penjaminan Mutu Perangkat Lunak,1,3,Dosen IF-Bravo
+Rabu,1,08:00,10:30,E303,SI201414,Desain dan Manajemen Jaringan Komputer,2,4,Dosen SI-Bravo
+Rabu,1,08:00,10:30,E305,TE201412,Rangkaian Listrik II,1,3,Dosen TE-November
+Rabu,1,08:00,10:30,E307,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,2,3,Dosen SI-Lima
+Rabu,2,10:30,12:00,E105,TE201417,Komunikasi Data,2,2,Dosen TE-Mike
+Rabu,2,10:30,12:00,E305,TE201428,Kecerdasan Buatan,1,2,Dosen TE-Victor
+Rabu,2,10:30,12:00,E306,TE201566,Manajemen Proyek,1,2,Dosen TE-Kilo
+Rabu,2,10:30,12:00,E307,BD201409,Manajemen Perubahan dan Transformasi Digital,3,2,Dosen BD-Foxtrot
+Rabu,3,13:00,15:30,E101,BD201507,Internet of Things,1,3,Dosen BD-Charlie
+Rabu,3,13:00,15:30,E103,IF201424,Pengembangan Aplikasi Berbasis Web,1,3,Dosen IF-Bravo
+Rabu,3,13:00,15:30,E104,IF201506,Sains Data,1,3,Dosen IF-Mike
+Rabu,3,13:00,15:30,E105,IF201415,Analisis dan Perancangan Perangkat Lunak,1,3,Dosen IF-India
+Rabu,3,13:00,15:30,E106,SI201411,Kecerdasan Bisnis,2,3,Dosen SI-Oscar
+Rabu,3,13:00,15:30,E202,IF201505,Deep Learning,1,3,Dosen IF-Alpha
+Rabu,3,13:00,15:30,E203,TE201425,Desain Sistem Pengaturan,2,3,Dosen TE-Juliet
+Rabu,3,13:00,15:30,E204,SI201422,Sistem Cerdas Pendukung Keputusan,1,3,Dosen SI-Foxtrot
+Rabu,3,13:00,15:30,E305,SI201535,Manajemen Sumber Daya Manusia,1,3,Dosen SI-Foxtrot
+Rabu,3,13:00,15:30,E305,BD201411,Pengembangan UI/UX,2,3,Dosen BD-Bravo
+Rabu,3,13:00,15:30,E306,IF201413,Sistem Basis Data,1,3,Dosen IF-Delta
+Rabu,3,13:00,15:30,E307,IF201412,Teori Graf dan Otomata,1,3,Dosen IF-Foxtrot
+Rabu,4,15:30,17:00,E103,TE201403,Matematika Diskrit,3,2,Dosen TE-Oscar
+Rabu,4,15:30,17:00,E203,TE201563,Teknik Tegangan Tinggi,1,2,Dosen TE-Papa
+Rabu,4,15:30,17:00,E205,TE201404,Material Teknik Elektro,3,2,Dosen TE-Delta
+Rabu,4,15:30,17:00,E301,TE201404,Material Teknik Elektro,2,2,Dosen TE-Delta
+Rabu,4,15:30,17:00,E302,TE201428,Kecerdasan Buatan,2,2,Dosen TE-Victor
+Rabu,4,15:30,17:00,E305,IF201426,Startup Digital Lanjut,2,2,Dosen IF-Delta
+Kamis,1,08:00,10:30,E102,BD201423,Manajemen Produk,1,3,Dosen BD-Charlie
+Kamis,1,08:00,10:30,E105,SI201403,Manajemen dan Organisasi,2,3,Dosen SI-Hotel
+Kamis,1,08:00,10:30,E105,BD201430,Manajemen Sosial Media,2,3,Dosen BD-Alpha
+Kamis,1,08:00,10:30,E201,SI201423,Perencanaan Arsitektur Teknologi Informasi,2,3,Dosen SI-India
+Kamis,1,08:00,10:30,E202,IF201425,Pemelajaran Mesin,1,3,Dosen IF-Hotel
+Kamis,1,08:00,10:30,E203,IF201503,Komputasi Evolusioner,1,3,Dosen IF-Golf
+Kamis,1,08:00,10:30,E301,IF201413,Sistem Basis Data,3,3,Dosen IF-Delta
+Kamis,1,08:00,10:30,E302,BD201506,Manajemen Risiko Bisnis,1,3,Dosen BD-Bravo
+Kamis,1,08:00,10:30,E304,IF201402,Matematika Diskrit,1,3,Dosen IF-Charlie
+Kamis,2,10:30,12:00,E106,TE201417,Komunikasi Data,1,2,Dosen TE-Mike
+Kamis,2,10:30,12:00,E202,TE201429,Metodologi Penelitian,1,2,Dosen TE-Quebec
+Kamis,2,10:30,12:00,E204,IF201426,Startup Digital Lanjut,1,2,Dosen IF-Delta
+Kamis,2,10:30,12:00,E301,TE201569,Sistem Pengendalian Mesin Listrik,1,2,Dosen TE-Foxtrot
+Kamis,2,10:30,12:00,E307,TE201415,Arsitektur dan Organisasi Sistem Komputer,2,2,Dosen TE-Charlie
+Kamis,3,13:00,15:30,E102,IF201414,Grafika Komputer,2,3,Dosen IF-Kilo
+Kamis,3,13:00,15:30,E104,TE201583,Aplikasi Komputer Bergerak,1,3,Dosen TE-Hotel
+Kamis,3,13:00,15:30,E106,TE201412,Rangkaian Listrik II,2,3,Dosen TE-November
+Kamis,3,13:00,15:30,E202,BD201410,Akuntansi Manajemen,1,3,Dosen BD-Echo
+Kamis,3,13:00,15:30,E203,TE201414,Rangkaian Elektronika II,1,3,Dosen TE-Uniform
+Kamis,3,13:00,15:30,E204,IF201424,Pengembangan Aplikasi Berbasis Web,2,3,Dosen IF-Bravo
+Kamis,3,13:00,15:30,E205,IF201423,Pengolahan Citra Digital,1,3,Dosen IF-India
+Kamis,3,13:00,15:30,E205,BD201408,Sistem Informasi Akuntansi,2,3,Dosen BD-Charlie
+Kamis,3,13:00,15:30,E301,SI201412,Pemrograman Web,1,3,Dosen SI-Juliet
+Kamis,3,13:00,15:30,E303,SI201424,Keamanan Sistem Informasi,1,3,Dosen SI-Charlie
+Kamis,3,13:00,15:30,E304,IF201410,Perancangan dan Analisis Algoritme,1,3,Dosen IF-Echo
+Kamis,3,13:00,15:30,E306,IF201404,Pemrograman Berorientasi Objek,3,3,Dosen IF-Delta
+Kamis,3,13:00,15:30,E307,BD201434,Manajemen Proyek,1,3,Dosen BD-Delta
+Kamis,4,15:30,17:00,E103,BD201432,Information Security,1,2,Dosen BD-Alpha
+Kamis,4,15:30,17:00,E104,BD201409,Manajemen Perubahan dan Transformasi Digital,1,2,Dosen BD-Foxtrot
+Kamis,4,15:30,17:00,E203,SI201733,Proposal Tugas Akhir,1,2,Dosen SI-Papa
+Kamis,4,15:30,17:00,E205,TE201403,Matematika Diskrit,2,2,Dosen TE-Oscar
+Jumat,1,08:00,10:30,E101,IF201513,Pemrograman Permainan Digital,1,3,Dosen IF-Golf
+Jumat,1,08:00,10:30,E102,BD201429,Manajemen Strategi,1,3,Dosen BD-Delta
+Jumat,1,08:00,10:30,E104,SI201734,Tugas Akhir,1,4,Dosen SI-Delta
+Jumat,1,08:00,10:30,E105,TE201413,Medan Elektromagnetik,1,4,Dosen TE-November
+Jumat,1,08:00,10:30,E105,IF201415,Analisis dan Perancangan Perangkat Lunak,2,3,Dosen IF-India
+Jumat,1,08:00,10:30,E201,BD201422,Manajemen Bisnis Proses,2,3,Dosen BD-Delta
+Jumat,1,08:00,10:30,E202,SI201411,Kecerdasan Bisnis,1,3,Dosen SI-Oscar
+Jumat,1,08:00,10:30,E301,TE201425,Desain Sistem Pengaturan,1,3,Dosen TE-Juliet
+Jumat,1,08:00,10:30,E302,IF201402,Matematika Diskrit,2,3,Dosen IF-Charlie
+Jumat,1,08:00,10:30,E302,BD201410,Akuntansi Manajemen,2,3,Dosen BD-Echo
+Jumat,1,08:00,10:30,E304,TE201424,Konversi Energi Listrik,2,3,Dosen TE-Victor
+Jumat,1,08:00,10:30,E306,TE201577,Jaringan Akses Nirkabel,1,3,Dosen TE-Foxtrot
+Jumat,1,08:00,10:30,E307,SI201425,Manajemen Layanan Teknologi Informasi,1,3,Dosen SI-India
+Jumat,2,10:30,12:00,E302,IF201416,Wawasan Umum dan Gagasan Informatika,2,2,Dosen IF-Alpha
+Jumat,3,13:00,15:30,E101,BD201423,Manajemen Produk,2,3,Dosen BD-Charlie
+Jumat,3,13:00,15:30,E102,BD201430,Manajemen Sosial Media,1,3,Dosen BD-Alpha
+Jumat,3,13:00,15:30,E103,TE201576,Teknologi Kendaraan Cerdas,1,3,Dosen TE-Bravo
+Jumat,3,13:00,15:30,E105,SI201546,Perencanaan Sumberdaya Perusahaan,1,3,Dosen SI-India
+Jumat,3,13:00,15:30,E106,BD201431,Metodologi Penelitian Bisnis Umum,1,4,Dosen BD-Golf
+Jumat,3,13:00,15:30,E201,IF201403,Sistem Digital,1,3,Dosen IF-Kilo
+Jumat,3,13:00,15:30,E204,SI201403,Manajemen dan Organisasi,1,3,Dosen SI-Hotel
+Jumat,3,13:00,15:30,E204,IF201412,Teori Graf dan Otomata,2,3,Dosen IF-Foxtrot
+Jumat,3,13:00,15:30,E301,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,1,3,Dosen SI-Lima
+Jumat,3,13:00,15:30,E302,BD201408,Sistem Informasi Akuntansi,1,3,Dosen BD-Charlie
+Jumat,3,13:00,15:30,E303,BD201421,Manajemen Keuangan,2,3,Dosen BD-Bravo
+Jumat,3,13:00,15:30,E305,SI201415,Rekayasa Perangkat Lunak,1,4,Dosen SI-Mike
+Jumat,4,15:30,17:00,E102,TE201551,Kapita Selekta,1,2,Dosen TE-Bravo

@@ -348,7 +348,7 @@ def main():
     
     # Print jadwal 
     print("\n" + "=" * 80)
-    print("📅 JADWAL HASIL SIMULATED ANNEALING")
+    print("JADWAL HASIL SIMULATED ANNEALING")
     print("=" * 80)
     print_schedule(best_solution, timeslots, ruang_list, matkul_list)
     
