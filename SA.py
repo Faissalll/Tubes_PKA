@@ -3,214 +3,358 @@ import random
 import math
 import copy
 import csv
+import os
+from collections import defaultdict
+from typing import List, Dict, Tuple
 
-# ==========================================
-# 1. SETUP DATA
-# ==========================================
 
-days = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"]
+# Parameter SA 
+INITIAL_TEMPERATURE = 2000.0     
+FINAL_TEMPERATURE = 0.01         
+COOLING_RATE = 0.97              
+MAX_ITERATIONS = 2000            
+MAX_NO_IMPROVEMENT = 500         
 
-# Load data sesi dari JSON
-with open('dataset/sesi.json', 'r', encoding='utf-8') as f:
-    sessions_data = json.load(f)
+# Hari
+DAY_ORDER = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"]
 
-# Buat mapping SKS per sesi (type = SKS)
-session_sks_map = {}
-session_time_map = {}
-for sesi in sessions_data:
-    key = (sesi['day'], sesi['session'])
-    session_sks_map[key] = sesi['type']
-    session_time_map[key] = f"{sesi['start']}-{sesi['end']}"
+# Load data jadwal
+def load_data():
+    """Load semua data dari file JSON"""
+    with open("dataset/sesi.json", "r", encoding="utf-8") as f:
+        sesi_list = json.load(f)
 
-# Load data dari file JSON
-with open('dataset/matkul.json', 'r', encoding='utf-8') as f:
-    classes_data = json.load(f)
+    with open("dataset/ruang.json", "r", encoding="utf-8") as f:
+        ruang_list = json.load(f)
 
-# Filter data yang valid DAN isi allowed_sessions otomatis berdasarkan SKS
-valid_classes = []
-for cls in classes_data:
-    if not all(key in cls for key in ['id', 'kode_mk', 'nama', 'paralel', 'sks', 'dosen']):
-        continue
+    with open("dataset/matkul.json", "r", encoding="utf-8") as f:
+        matkul_list = json.load(f)
+
+    timeslots = []
+    for i, s in enumerate(sesi_list):
+        timeslots.append({
+            "index": i,
+            "day": s["day"],
+            "session": s["session"],
+            "start": s["start"],
+            "end": s["end"],
+            "type": s["type"],  
+        })
+
+    return timeslots, ruang_list, matkul_list
+
+# Generate solusi awal random
+def generate_initial_solution(timeslots, ruang_list, matkul_list) -> List[Tuple[int, int]]:
     
-    if not cls.get('allowed_sessions'):
-        cls_sks = cls['sks']
-        allowed = []
-        for (day, session), sks in session_sks_map.items():
-            if sks == cls_sks:
-                allowed.append(session)
-        cls['allowed_sessions'] = sorted(list(set(allowed)))
-    
-    if not cls['allowed_sessions']:
-        continue
-    
-    valid_classes.append(cls)
+    num_rooms = len(ruang_list)
+    solution = []
 
-classes_data = valid_classes
+    for mk in matkul_list:
+        allowed = [ts for ts in timeslots if ts["session"] in mk["allowed_sessions"]]
 
-# ==========================================
-# 2. FUNGSI LOGIKA (Simulated Annealing)
-# ==========================================
+        if mk["sks"] == 2:
+            allowed = [ts for ts in allowed if ts["type"] == 2]
+        else:
+            allowed = [ts for ts in allowed if ts["type"] == 3]
 
-def get_random_slot(allowed_sessions):
-    day = random.choice(days)
-    session = random.choice(allowed_sessions)
-    return {"day": day, "session": session}
+        if not allowed:
+            allowed = timeslots
 
-def generate_initial_schedule(classes):
-    schedule = {}
-    for cls in classes:
-        slot = get_random_slot(cls['allowed_sessions'])
-        schedule[cls['id']] = slot
-    return schedule
+        ts = random.choice(allowed)
+        room_idx = random.randrange(num_rooms)
 
-def calculate_cost(schedule, classes):
+        gene = (ts["index"], room_idx)
+        solution.append(gene)
+
+    return solution
+
+
+# Htung penalty 
+def calculate_penalty(solution, timeslots, ruang_list, matkul_list) -> int:
+    """Hitung total penalty (semakin kecil semakin baik)."""
     penalty = 0
-    time_slots = {}
-    
-    for cls_id, slot in schedule.items():
-        key = f"{slot['day']}-{slot['session']}"
-        if key not in time_slots:
-            time_slots[key] = []
-        time_slots[key].append(cls_id)
-    
-    for key, class_ids in time_slots.items():
-        if len(class_ids) > 1:
-            lecturers = []
-            codes = []
-            for cid in class_ids:
-                cls_obj = next((c for c in classes if c['id'] == cid), None)
-                if cls_obj:
-                    lecturers.extend(cls_obj['dosen'])
-                    codes.append(cls_obj['kode_mk'])
-            
-            if len(lecturers) != len(set(lecturers)):
-                penalty += 1
-            
-            if len(codes) != len(set(codes)):
-                penalty += 1
-    
+
+    used_room: Dict[Tuple[str, int, str], List[int]] = defaultdict(list)
+    used_dosen: Dict[Tuple[str, int, str], List[int]] = defaultdict(list)
+
+    for i, gene in enumerate(solution):
+        ts_index, room_index = gene
+        mk = matkul_list[i]
+        ts = timeslots[ts_index]
+
+        day = ts["day"]
+        session = ts["session"]
+        room = ruang_list[room_index]
+
+        # Soft Const: Cek allowed_sessions
+        if session not in mk["allowed_sessions"]:
+            penalty += 5
+
+        # Soft Const: Cek tipe slot, kalau panjang (tipe 3) untuk sks >=3, pendek (tipe 2) untuk sks 2
+        if mk["sks"] == 2 and ts["type"] != 2:
+            penalty += 3
+        if mk["sks"] >= 3 and ts["type"] != 3:
+            penalty += 3
+
+        # Simpan penggunaan ruangan
+        used_room[(day, session, room)].append(i)
+
+        # Simpan penggunaan dosen
+        for d in mk["dosen"]:
+            used_dosen[(day, session, d)].append(i)
+
+    # Hard Const Konflik ruangan: >1 kelas di hari-sesi-ruang sama
+    for _, kelas_idx in used_room.items():
+        if len(kelas_idx) > 1:
+            conflict_count = len(kelas_idx) - 1
+            penalty += 10 * conflict_count
+
+    # Hard Const Konflik dosen: >1 kelas di hari-sesi sama untuk dosen sama
+    for _, kelas_idx in used_dosen.items():
+        if len(kelas_idx) > 1:
+            conflict_count = len(kelas_idx) - 1
+            penalty += 8 * conflict_count
+
     return penalty
 
-def get_neighbor(schedule, classes):
-    new_schedule = copy.deepcopy(schedule)
-    random_class = random.choice(classes)
-    cls_id = random_class['id']
-    new_slot = get_random_slot(random_class['allowed_sessions'])
-    new_schedule[cls_id] = new_slot
-    return new_schedule
 
-def simulated_annealing(classes, max_iter=1000, initial_temp=25000.0, cooling_rate=0.9998):
-    current_schedule = generate_initial_schedule(classes)
-    current_cost = calculate_cost(current_schedule, classes)
+def calculate_fitness(solution, timeslots, ruang_list, matkul_list) -> Tuple[float, int]:
     
-    best_schedule = current_schedule
-    best_cost = current_cost
-    temp = initial_temp
+    penalty = calculate_penalty(solution, timeslots, ruang_list, matkul_list)
+    fitness = 1.0 / (1.0 + penalty)
+    return fitness, penalty
+
+
+# Generate neighbor
+def generate_neighbor(current_solution, timeslots, ruang_list, matkul_list) -> List[Tuple[int, int]]:
+
+    neighbor = copy.deepcopy(current_solution)
+    num_rooms = len(ruang_list)
     
-    for i in range(max_iter):
-        if best_cost == 0:
-            print(f"\n[SUCCESS] Solusi optimal (penalty=0) ditemukan di generasi {i}!")
+    rand = random.random()
+    if rand < 0.6:
+        num_changes = 1
+    elif rand < 0.9:
+        num_changes = random.randint(2, 3)
+    else:
+        num_changes = random.randint(4, 5)
+    
+    indices = random.sample(range(len(neighbor)), min(num_changes, len(neighbor)))
+    
+    for i in indices:
+        mk = matkul_list[i]
+        
+        allowed = [ts for ts in timeslots if ts["session"] in mk["allowed_sessions"]]
+        
+        if mk["sks"] == 2:
+            allowed = [ts for ts in allowed if ts["type"] == 2]
+        else:
+            allowed = [ts for ts in allowed if ts["type"] == 3]
+        
+        if not allowed:
+            allowed = timeslots
+        
+        ts = random.choice(allowed)
+     
+        if random.random() < 0.7:
+            room_idx = random.randrange(num_rooms)
+        else:
+            room_idx = neighbor[i][1]  
+        
+        neighbor[i] = (ts["index"], room_idx)
+    
+    return neighbor
+
+def acceptance_probability(current_penalty, neighbor_penalty, temperature) -> float:
+    """
+    Hitung probabilitas menerima solusi yang lebih buruk
+    Menggunakan Metropolis Criterion
+    """
+    if neighbor_penalty < current_penalty:
+        return 1.0 
+    
+    if temperature == 0:
+        return 0.0
+    
+    delta = neighbor_penalty - current_penalty
+    return math.exp(-delta / temperature)
+
+# Main func
+def simulated_annealing(timeslots, ruang_list, matkul_list):
+    
+    print("\n=== MEMULAI SIMULATED ANNEALING ===")
+    print(f"Parameter:")
+    print(f"  - Initial Temperature: {INITIAL_TEMPERATURE}")
+    print(f"  - Final Temperature: {FINAL_TEMPERATURE}")
+    print(f"  - Cooling Rate: {COOLING_RATE}")
+    print(f"  - Max Iterations: {MAX_ITERATIONS}")
+    print(f"  - Early Stop: {MAX_NO_IMPROVEMENT} iterasi tanpa perbaikan")
+    print("=" * 50)
+    
+    current_solution = generate_initial_solution(timeslots, ruang_list, matkul_list)
+    current_fitness, current_penalty = calculate_fitness(current_solution, timeslots, ruang_list, matkul_list)
+    
+    best_solution = copy.deepcopy(current_solution)
+    best_fitness = current_fitness
+    best_penalty = current_penalty
+    
+    temperature = INITIAL_TEMPERATURE
+    
+    iteration = 0
+    no_improvement_count = 0
+    
+    print(f"\nSolusi awal: Fitness = {current_fitness:.5f}, Penalty = {current_penalty}")
+    
+    while temperature > FINAL_TEMPERATURE and iteration < MAX_ITERATIONS:
+        if best_penalty == 0:
+            print(f"\n [SUCCESS] Solusi OPTIMAL (penalty=0) ditemukan di iterasi {iteration}!")
             break
         
-        if i % 100 == 0 or i == max_iter - 1:
-            fitness = 1 / (1 + best_cost) if best_cost > 0 else 1.0
-            print(f"Generasi {i:5d} | Fitness: {fitness:.5f} | Penalty: {best_cost}")
+        neighbor_solution = generate_neighbor(current_solution, timeslots, ruang_list, matkul_list)
+        neighbor_fitness, neighbor_penalty = calculate_fitness(neighbor_solution, timeslots, ruang_list, matkul_list)
         
-        # HAPUS EARLY STOPPING - biarkan jalan sampai max_iter
+        accept_prob = acceptance_probability(current_penalty, neighbor_penalty, temperature)
+        
+        if random.random() < accept_prob:
+            current_solution = neighbor_solution
+            current_penalty = neighbor_penalty
+            current_fitness = neighbor_fitness
             
-        neighbor_schedule = get_neighbor(current_schedule, classes)
-        neighbor_cost = calculate_cost(neighbor_schedule, classes)
-        delta = neighbor_cost - current_cost
-        
-        if delta < 0 or random.random() < math.exp(-delta / temp):
-            current_schedule = neighbor_schedule
-            current_cost = neighbor_cost
-            if current_cost < best_cost:
-                best_schedule = current_schedule
-                best_cost = current_cost
-        
-        temp *= cooling_rate
-    
-    return best_schedule, best_cost
-
-# ==========================================
-# 3. EKSEKUSI & PRINT TABEL
-# ==========================================
-
-if not classes_data:
-    print("[ERROR] Tidak ada data mata kuliah yang valid!")
-    exit(1)
-
-# Jalankan Algoritma
-final_schedule, final_penalty = simulated_annealing(classes_data)
-
-# Hasil Akhir
-final_fitness = 1 / (1 + final_penalty) if final_penalty > 0 else 1.0
-print(f"\n=== HASIL AKHIR ===")
-print(f"Fitness terbaik: {final_fitness:.6f}")
-print(f"Total penalty:   {final_penalty}")
-
-# Gabungkan jadwal dengan detail kelas dan assign ruangan
-complete_schedule = []
-room_assignment = {}
-
-for cls in classes_data:
-    cls_id = cls['id']
-    if cls_id in final_schedule:
-        sched = final_schedule[cls_id]
-        key = (sched['day'], sched['session'])
-        waktu = session_time_map.get(key, "N/A")
-        
-        slot_key = f"{sched['day']}-{sched['session']}"
-        if slot_key not in room_assignment:
-            room_assignment[slot_key] = 1
+            if current_penalty < best_penalty:
+                best_solution = copy.deepcopy(current_solution)
+                best_penalty = current_penalty
+                best_fitness = current_fitness
+                no_improvement_count = 0
+                
+                print(f"Iterasi {iteration:4d} | NEW BEST | Fitness: {best_fitness:.5f} | Penalty: {best_penalty} | Temp: {temperature:.2f}")
+            else:
+                no_improvement_count += 1
         else:
-            room_assignment[slot_key] += 1
+            no_improvement_count += 1
         
-        ruang = f"R{room_assignment[slot_key]}"
+        temperature *= COOLING_RATE
+        iteration += 1
         
-        row = {
-            "kode": cls['kode_mk'],
-            "nama": cls['nama'],
-            "paralel": cls['paralel'],
-            "sks": cls['sks'],
-            "hari": sched['day'],
-            "sesi": sched['session'],
-            "waktu": waktu,
-            "dosen": ", ".join(cls['dosen']),
-            "ruang": ruang
-        }
-        complete_schedule.append(row)
-
-# Urutkan berdasarkan Hari, Sesi, Ruang
-day_order = {"Senin": 1, "Selasa": 2, "Rabu": 3, "Kamis": 4, "Jumat": 5}
-complete_schedule.sort(key=lambda x: (day_order[x['hari']], x['sesi'], x['ruang']))
-
-# Print per hari dengan format seperti GA
-for day in days:
-    day_schedule = [s for s in complete_schedule if s['hari'] == day]
-    if not day_schedule:
-        continue
+        if iteration % 100 == 0:
+            print(f"Iterasi {iteration:4d} | Fitness: {best_fitness:.5f} | Penalty: {best_penalty} | Temp: {temperature:.2f}")
+        
+        if no_improvement_count >= MAX_NO_IMPROVEMENT:
+            print(f"\n⚠ [EARLY STOP] Tidak ada perbaikan setelah {MAX_NO_IMPROVEMENT} iterasi")
+            break
     
-    print(f"\n{'='*30}")
-    print(f"Hari: {day}")
-    print(f"{'='*30}")
+    print("\n" + "=" * 50)
+    print("=== HASIL AKHIR SIMULATED ANNEALING ===")
+    print("=" * 50)
+    print(f"Total Iterasi: {iteration}")
+    print(f"Fitness Terbaik: {best_fitness:.6f}")
+    print(f"Penalty Terbaik: {best_penalty}")
     
-    for item in day_schedule:
-        print(f"Sesi {item['sesi']} ({item['waktu']}) | Ruang {item['ruang']} | {item['kode']} ({item['nama']}) Paralel {item['paralel']} | SKS {item['sks']} | Dosen: {item['dosen']}")
+    return best_solution, best_penalty, best_fitness
 
-# ==========================================
-# 4. EXPORT KE CSV
-# ==========================================
-filename = "jadwal_final_SA.csv"
-try:
-    keys = ['hari', 'sesi', 'waktu', 'ruang', 'kode', 'nama', 'paralel', 'sks', 'dosen']
-    with open(filename, 'w', newline='', encoding='utf-8') as output_file:
-        dict_writer = csv.DictWriter(output_file, fieldnames=keys)
-        dict_writer.writeheader()
-        dict_writer.writerows(complete_schedule)
-    print(f"\n[INFO] Jadwal berhasil diexport ke file '{filename}'.")
-except Exception as e:
-    print(f"\n[ERROR] Gagal menyimpan CSV: {e}")
+# Print jafwal
+def print_schedule(solution, timeslots, ruang_list, matkul_list):
+    """Print jadwal dalam format terstruktur per hari"""
+    records = []
 
-random.seed(42)  # Coba nilai 42, 123, 999, dll
+    for i, gene in enumerate(solution):
+        ts_index, room_index = gene
+        mk = matkul_list[i]
+        ts = timeslots[ts_index]
+        room = ruang_list[room_index]
+
+        records.append({
+            "day": ts["day"],
+            "session": ts["session"],
+            "start": ts["start"],
+            "end": ts["end"],
+            "room": room,
+            "kode_mk": mk["kode_mk"],
+            "nama": mk["nama"],
+            "paralel": mk["paralel"],
+            "sks": mk["sks"],
+            "dosen": ", ".join(mk["dosen"]),
+        })
+
+    day_order_map = {d: i for i, d in enumerate(DAY_ORDER)}
+    records.sort(key=lambda r: (day_order_map.get(r["day"], 99), r["session"], r["room"]))
+
+    current_day = None
+    for r in records:
+        if r["day"] != current_day:
+            current_day = r["day"]
+            print("\n" + "=" * 80)
+            print(f"Hari: {current_day}")
+            print("=" * 80)
+
+        print(
+            f"Sesi {r['session']} ({r['start']}-{r['end']}) | "
+            f"Ruang {r['room']} | {r['kode_mk']} ({r['nama']}) "
+            f"Paralel {r['paralel']} | SKS {r['sks']} | Dosen: {r['dosen']}"
+        )
+
+
+def export_to_csv(solution, timeslots, ruang_list, matkul_list, filename="jadwal_sa.csv"):
+    """Export jadwal ke file CSV"""
+    records = []
+
+    for i, gene in enumerate(solution):
+        ts_index, room_index = gene
+        mk = matkul_list[i]
+        ts = timeslots[ts_index]
+        room = ruang_list[room_index]
+
+        records.append({
+            "day": ts["day"],
+            "session": ts["session"],
+            "start": ts["start"],
+            "end": ts["end"],
+            "room": room,
+            "kode_mk": mk["kode_mk"],
+            "nama": mk["nama"],
+            "paralel": mk["paralel"],
+            "sks": mk["sks"],
+            "dosen": ", ".join(mk["dosen"]),
+        })
+
+    day_order_map = {d: i for i, d in enumerate(DAY_ORDER)}
+    records.sort(key=lambda r: (day_order_map.get(r["day"], 99), r["session"], r["room"]))
+
+    filepath = os.path.join(os.path.dirname(__file__), filename)
+    with open(filepath, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=records[0].keys())
+        writer.writeheader()
+        writer.writerows(records)
+
+    print(f"\n✓ File CSV berhasil dibuat: {filepath}")
+
+
+# Run fn
+
+def main():
+    """Main function untuk menjalankan Simulated Annealing"""
+    
+    # Load data
+    timeslots, ruang_list, matkul_list = load_data()
+    
+    print(f"\n📊 Data yang dimuat:")
+    print(f"  - Jumlah Timeslot: {len(timeslots)}")
+    print(f"  - Jumlah Ruang: {len(ruang_list)}")
+    print(f"  - Jumlah Mata Kuliah: {len(matkul_list)}")
+    
+    # run Simulated Annealing
+    best_solution, best_penalty, best_fitness = simulated_annealing(
+        timeslots, ruang_list, matkul_list
+    )
+    
+    # Print jadwal 
+    print("\n" + "=" * 80)
+    print("JADWAL HASIL SIMULATED ANNEALING")
+    print("=" * 80)
+    print_schedule(best_solution, timeslots, ruang_list, matkul_list)
+    
+    # Export CSV
+    export_to_csv(best_solution, timeslots, ruang_list, matkul_list)
+
+
+if __name__ == "__main__":
+    main()
