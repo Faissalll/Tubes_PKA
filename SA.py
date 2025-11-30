@@ -99,7 +99,7 @@ def get_neighbor(schedule, classes):
     new_schedule[cls_id] = new_slot
     return new_schedule
 
-def simulated_annealing(classes, max_iter=1000, initial_temp=2000.0, cooling_rate=0.98):  # UBAH INI
+def simulated_annealing(classes, max_iter=1000, initial_temp=25000.0, cooling_rate=0.9998):
     current_schedule = generate_initial_schedule(classes)
     current_cost = calculate_cost(current_schedule, classes)
     
@@ -107,28 +107,16 @@ def simulated_annealing(classes, max_iter=1000, initial_temp=2000.0, cooling_rat
     best_cost = current_cost
     temp = initial_temp
     
-    no_improvement = 0  # TAMBAHAN: Track stagnasi
-    
     for i in range(max_iter):
-        if best_cost == 0:  # OPTIMAL!
+        if best_cost == 0:
             print(f"\n[SUCCESS] Solusi optimal (penalty=0) ditemukan di generasi {i}!")
             break
         
-        # Print progress setiap 10 generasi
-        if i % 10 == 0 or i == max_iter - 1:
+        if i % 100 == 0 or i == max_iter - 1:
             fitness = 1 / (1 + best_cost) if best_cost > 0 else 1.0
-            print(f"Generasi {i:3d} | Fitness terbaik saat ini: {fitness:.5f} | Penalty: {best_cost}")
+            print(f"Generasi {i:5d} | Fitness: {fitness:.5f} | Penalty: {best_cost}")
         
-        # TAMBAHAN: Early stopping jika stuck
-        if i > 0 and best_cost == prev_best:
-            no_improvement += 1
-            if no_improvement > 100:  # 100 iterasi tanpa perbaikan
-                print(f"\n[INFO] Stopping early di generasi {i} (no improvement)")
-                break
-        else:
-            no_improvement = 0
-        
-        prev_best = best_cost
+        # HAPUS EARLY STOPPING - biarkan jalan sampai max_iter
             
         neighbor_schedule = get_neighbor(current_schedule, classes)
         neighbor_cost = calculate_cost(neighbor_schedule, classes)
@@ -164,7 +152,7 @@ print(f"Total penalty:   {final_penalty}")
 
 # Gabungkan jadwal dengan detail kelas dan assign ruangan
 complete_schedule = []
-room_assignment = {}  # Track ruangan per slot
+room_assignment = {}
 
 for cls in classes_data:
     cls_id = cls['id']
@@ -173,7 +161,6 @@ for cls in classes_data:
         key = (sched['day'], sched['session'])
         waktu = session_time_map.get(key, "N/A")
         
-        # Assign ruangan berurutan per slot
         slot_key = f"{sched['day']}-{sched['session']}"
         if slot_key not in room_assignment:
             room_assignment[slot_key] = 1
@@ -225,3 +212,5 @@ try:
     print(f"\n[INFO] Jadwal berhasil diexport ke file '{filename}'.")
 except Exception as e:
     print(f"\n[ERROR] Gagal menyimpan CSV: {e}")
+
+random.seed(42)  # Coba nilai 42, 123, 999, dll
