@@ -1,0 +1,142 @@
+[
+  {
+    "day": "Senin",
+    "session": 1,
+    "start": "08:00",
+    "end": "10:30",
+    "type": 3
+  },
+  {
+    "day": "Senin",
+    "session": 2,
+    "start": "10:30",
+    "end": "12:00",
+    "type": 2
+  },
+  {
+    "day": "Senin",
+    "session": 3,
+    "start": "13:00",
+    "end": "15:30",
+    "type": 3
+  },
+  {
+    "day": "Senin",
+    "session": 4,
+    "start": "15:30",
+    "end": "17:00",
+    "type": 2
+  },
+  {
+    "day": "Selasa",
+    "session": 1,
+    "start": "08:00",
+    "end": "10:30",
+    "type": 3
+  },
+  {
+    "day": "Selasa",
+    "session": 2,
+    "start": "10:30",
+    "end": "12:00",
+    "type": 2
+  },
+  {
+    "day": "Selasa",
+    "session": 3,
+    "start": "13:00",
+    "end": "15:30",
+    "type": 3
+  },
+  {
+    "day": "Selasa",
+    "session": 4,
+    "start": "15:30",
+    "end": "17:00",
+    "type": 2
+  },
+  {
+    "day": "Rabu",
+    "session": 1,
+    "start": "08:00",
+    "end": "10:30",
+    "type": 3
+  },
+  {
+    "day": "Rabu",
+    "session": 2,
+    "start": "10:30",
+    "end": "12:00",
+    "type": 2
+  },
+  {
+    "day": "Rabu",
+    "session": 3,
+    "start": "13:00",
+    "end": "15:30",
+    "type": 3
+  },
+  {
+    "day": "Rabu",
+    "session": 4,
+    "start": "15:30",
+    "end": "17:00",
+    "type": 2
+  },
+  {
+    "day": "Kamis",
+    "session": 1,
+    "start": "08:00",
+    "end": "10:30",
+    "type": 3
+  },
+  {
+    "day": "Kamis",
+    "session": 2,
+    "start": "10:30",
+    "end": "12:00",
+    "type": 2
+  },
+  {
+    "day": "Kamis",
+    "session": 3,
+    "start": "13:00",
+    "end": "15:30",
+    "type": 3
+  },
+  {
+    "day": "Kamis",
+    "session": 4,
+    "start": "15:30",
+    "end": "17:00",
+    "type": 2
+  },
+  {
+    "day": "Jumat",
+    "session": 1,
+    "start": "08:00",
+    "end": "10:30",
+    "type": 3
+  },
+  {
+    "day": "Jumat",
+    "session": 2,
+    "start": "10:30",
+    "end": "12:00",
+    "type": 2
+  },
+  {
+    "day": "Jumat",
+    "session": 3,
+    "start": "13:00",
+    "end": "15:30",
+    "type": 3
+  },
+  {
+    "day": "Jumat",
+    "session": 4,
+    "start": "15:30",
+    "end": "17:00",
+    "type": 2
+  }
+]
