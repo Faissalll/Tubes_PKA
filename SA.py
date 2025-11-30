@@ -16,7 +16,7 @@ with open('dataset/sesi.json', 'r', encoding='utf-8') as f:
 
 # Buat mapping SKS per sesi (type = SKS)
 session_sks_map = {}
-session_time_map = {}  # Untuk waktu
+session_time_map = {}
 for sesi in sessions_data:
     key = (sesi['day'], sesi['session'])
     session_sks_map[key] = sesi['type']
@@ -29,22 +29,17 @@ with open('dataset/matkul.json', 'r', encoding='utf-8') as f:
 # Filter data yang valid DAN isi allowed_sessions otomatis berdasarkan SKS
 valid_classes = []
 for cls in classes_data:
-    # Validasi field wajib
     if not all(key in cls for key in ['id', 'kode_mk', 'nama', 'paralel', 'sks', 'dosen']):
         continue
     
-    # Jika allowed_sessions kosong, isi otomatis berdasarkan SKS
     if not cls.get('allowed_sessions'):
         cls_sks = cls['sks']
         allowed = []
         for (day, session), sks in session_sks_map.items():
-            if sks == cls_sks:  # Cocokkan SKS mata kuliah dengan type sesi
+            if sks == cls_sks:
                 allowed.append(session)
-        
-        # Hilangkan duplikat dan urutkan
         cls['allowed_sessions'] = sorted(list(set(allowed)))
     
-    # Skip jika tetap tidak ada allowed_sessions
     if not cls['allowed_sessions']:
         continue
     
@@ -72,14 +67,12 @@ def calculate_cost(schedule, classes):
     penalty = 0
     time_slots = {}
     
-    # Grouping by Day-Session
     for cls_id, slot in schedule.items():
         key = f"{slot['day']}-{slot['session']}"
         if key not in time_slots:
             time_slots[key] = []
         time_slots[key].append(cls_id)
     
-    # Cek Konflik Dosen dan Paralel
     for key, class_ids in time_slots.items():
         if len(class_ids) > 1:
             lecturers = []
@@ -90,11 +83,9 @@ def calculate_cost(schedule, classes):
                     lecturers.extend(cls_obj['dosen'])
                     codes.append(cls_obj['kode_mk'])
             
-            # Konflik Dosen (dosen sama di slot sama)
             if len(lecturers) != len(set(lecturers)):
                 penalty += 1
             
-            # Konflik Paralel (kode MK sama di slot sama)
             if len(codes) != len(set(codes)):
                 penalty += 1
     
@@ -108,7 +99,7 @@ def get_neighbor(schedule, classes):
     new_schedule[cls_id] = new_slot
     return new_schedule
 
-def simulated_annealing(classes, max_iter=200, initial_temp=1000.0, cooling_rate=0.95):
+def simulated_annealing(classes, max_iter=1000, initial_temp=2000.0, cooling_rate=0.98):  # UBAH INI
     current_schedule = generate_initial_schedule(classes)
     current_cost = calculate_cost(current_schedule, classes)
     
@@ -116,16 +107,28 @@ def simulated_annealing(classes, max_iter=200, initial_temp=1000.0, cooling_rate
     best_cost = current_cost
     temp = initial_temp
     
-    cost_history = []
+    no_improvement = 0  # TAMBAHAN: Track stagnasi
     
     for i in range(max_iter):
-        if best_cost == 0:
+        if best_cost == 0:  # OPTIMAL!
+            print(f"\n[SUCCESS] Solusi optimal (penalty=0) ditemukan di generasi {i}!")
             break
         
-        # Progress setiap 10 iterasi
-        if i % 10 == 0:
+        # Print progress setiap 10 generasi
+        if i % 10 == 0 or i == max_iter - 1:
             fitness = 1 / (1 + best_cost) if best_cost > 0 else 1.0
             print(f"Generasi {i:3d} | Fitness terbaik saat ini: {fitness:.5f} | Penalty: {best_cost}")
+        
+        # TAMBAHAN: Early stopping jika stuck
+        if i > 0 and best_cost == prev_best:
+            no_improvement += 1
+            if no_improvement > 100:  # 100 iterasi tanpa perbaikan
+                print(f"\n[INFO] Stopping early di generasi {i} (no improvement)")
+                break
+        else:
+            no_improvement = 0
+        
+        prev_best = best_cost
             
         neighbor_schedule = get_neighbor(current_schedule, classes)
         neighbor_cost = calculate_cost(neighbor_schedule, classes)
@@ -138,14 +141,9 @@ def simulated_annealing(classes, max_iter=200, initial_temp=1000.0, cooling_rate
                 best_schedule = current_schedule
                 best_cost = current_cost
         
-        cost_history.append(current_cost)
         temp *= cooling_rate
     
-    # Print iterasi terakhir
-    fitness = 1 / (1 + best_cost) if best_cost > 0 else 1.0
-    print(f"Generasi {max_iter-1:3d} | Fitness terbaik saat ini: {fitness:.5f} | Penalty: {best_cost}")
-    
-    return best_schedule, best_cost, cost_history
+    return best_schedule, best_cost
 
 # ==========================================
 # 3. EKSEKUSI & PRINT TABEL
@@ -156,7 +154,7 @@ if not classes_data:
     exit(1)
 
 # Jalankan Algoritma
-final_schedule, final_penalty, cost_history = simulated_annealing(classes_data)
+final_schedule, final_penalty = simulated_annealing(classes_data)
 
 # Hasil Akhir
 final_fitness = 1 / (1 + final_penalty) if final_penalty > 0 else 1.0
@@ -164,14 +162,25 @@ print(f"\n=== HASIL AKHIR ===")
 print(f"Fitness terbaik: {final_fitness:.6f}")
 print(f"Total penalty:   {final_penalty}")
 
-# Gabungkan jadwal dengan detail kelas
+# Gabungkan jadwal dengan detail kelas dan assign ruangan
 complete_schedule = []
+room_assignment = {}  # Track ruangan per slot
+
 for cls in classes_data:
     cls_id = cls['id']
     if cls_id in final_schedule:
         sched = final_schedule[cls_id]
         key = (sched['day'], sched['session'])
         waktu = session_time_map.get(key, "N/A")
+        
+        # Assign ruangan berurutan per slot
+        slot_key = f"{sched['day']}-{sched['session']}"
+        if slot_key not in room_assignment:
+            room_assignment[slot_key] = 1
+        else:
+            room_assignment[slot_key] += 1
+        
+        ruang = f"R{room_assignment[slot_key]}"
         
         row = {
             "kode": cls['kode_mk'],
@@ -182,7 +191,7 @@ for cls in classes_data:
             "sesi": sched['session'],
             "waktu": waktu,
             "dosen": ", ".join(cls['dosen']),
-            "ruang": f"R{random.randint(1, 18)}"  # Random ruangan untuk demo
+            "ruang": ruang
         }
         complete_schedule.append(row)
 
@@ -190,7 +199,7 @@ for cls in classes_data:
 day_order = {"Senin": 1, "Selasa": 2, "Rabu": 3, "Kamis": 4, "Jumat": 5}
 complete_schedule.sort(key=lambda x: (day_order[x['hari']], x['sesi'], x['ruang']))
 
-# Print per hari
+# Print per hari dengan format seperti GA
 for day in days:
     day_schedule = [s for s in complete_schedule if s['hari'] == day]
     if not day_schedule:
@@ -206,12 +215,13 @@ for day in days:
 # ==========================================
 # 4. EXPORT KE CSV
 # ==========================================
-filename = "jadwal_sa.csv"
+filename = "jadwal_final_SA.csv"
 try:
-    keys = ['kode', 'nama', 'paralel', 'sks', 'hari', 'sesi', 'waktu', 'ruang', 'dosen']
+    keys = ['hari', 'sesi', 'waktu', 'ruang', 'kode', 'nama', 'paralel', 'sks', 'dosen']
     with open(filename, 'w', newline='', encoding='utf-8') as output_file:
         dict_writer = csv.DictWriter(output_file, fieldnames=keys)
         dict_writer.writeheader()
         dict_writer.writerows(complete_schedule)
+    print(f"\n[INFO] Jadwal berhasil diexport ke file '{filename}'.")
 except Exception as e:
     print(f"\n[ERROR] Gagal menyimpan CSV: {e}")
