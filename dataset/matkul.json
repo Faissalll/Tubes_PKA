@@ -3,7 +3,7 @@
         "id": "TE201403-1",
         "kode_mk": "TE201403",
         "nama": "Matematika Diskrit",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Oscar"
@@ -17,7 +17,7 @@
         "id": "TE201403-2",
         "kode_mk": "TE201403",
         "nama": "Matematika Diskrit",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen TE-Oscar"
@@ -31,7 +31,7 @@
         "id": "TE201403-3",
         "kode_mk": "TE201403",
         "nama": "Matematika Diskrit",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 2,
         "dosen": [
             "Dosen TE-Oscar"
@@ -45,7 +45,7 @@
         "id": "TE201404-2",
         "kode_mk": "TE201404",
         "nama": "Material Teknik Elektro",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen TE-Delta"
@@ -59,7 +59,7 @@
         "id": "TE201404-3",
         "kode_mk": "TE201404",
         "nama": "Material Teknik Elektro",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 2,
         "dosen": [
             "Dosen TE-Delta"
@@ -73,7 +73,7 @@
         "id": "TE201404-1",
         "kode_mk": "TE201404",
         "nama": "Material Teknik Elektro",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Delta"
@@ -87,7 +87,7 @@
         "id": "TE201412-1",
         "kode_mk": "TE201412",
         "nama": "Rangkaian Listrik II",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-November"
@@ -101,7 +101,7 @@
         "id": "TE201412-2",
         "kode_mk": "TE201412",
         "nama": "Rangkaian Listrik II",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-November"
@@ -115,7 +115,7 @@
         "id": "TE201413-1",
         "kode_mk": "TE201413",
         "nama": "Medan Elektromagnetik",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 4,
         "dosen": [
             "Dosen TE-November"
@@ -129,7 +129,7 @@
         "id": "TE201413-2",
         "kode_mk": "TE201413",
         "nama": "Medan Elektromagnetik",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 4,
         "dosen": [
             "Dosen TE-November"
@@ -143,7 +143,7 @@
         "id": "TE201414-1",
         "kode_mk": "TE201414",
         "nama": "Rangkaian Elektronika II",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Uniform"
@@ -157,7 +157,7 @@
         "id": "TE201414-2",
         "kode_mk": "TE201414",
         "nama": "Rangkaian Elektronika II",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-Uniform"
@@ -171,7 +171,7 @@
         "id": "TE201415-1",
         "kode_mk": "TE201415",
         "nama": "Arsitektur dan Organisasi Sistem Komputer",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Charlie"
@@ -185,7 +185,7 @@
         "id": "TE201415-2",
         "kode_mk": "TE201415",
         "nama": "Arsitektur dan Organisasi Sistem Komputer",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen TE-Charlie"
@@ -199,7 +199,7 @@
         "id": "TE201416-1",
         "kode_mk": "TE201416",
         "nama": "Sinyal dan Sistem",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Romeo"
@@ -213,7 +213,7 @@
         "id": "TE201416-2",
         "kode_mk": "TE201416",
         "nama": "Sinyal dan Sistem",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-Romeo"
@@ -227,7 +227,7 @@
         "id": "TE201417-1",
         "kode_mk": "TE201417",
         "nama": "Komunikasi Data",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Mike"
@@ -241,7 +241,7 @@
         "id": "TE201417-2",
         "kode_mk": "TE201417",
         "nama": "Komunikasi Data",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen TE-Mike"
@@ -255,7 +255,7 @@
         "id": "TE201423-2",
         "kode_mk": "TE201423",
         "nama": "Teknologi Transduser",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-November"
@@ -269,7 +269,7 @@
         "id": "TE201423-1",
         "kode_mk": "TE201423",
         "nama": "Teknologi Transduser",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-November"
@@ -283,7 +283,7 @@
         "id": "TE201424-1",
         "kode_mk": "TE201424",
         "nama": "Konversi Energi Listrik",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Victor"
@@ -297,7 +297,7 @@
         "id": "TE201424-2",
         "kode_mk": "TE201424",
         "nama": "Konversi Energi Listrik",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-Victor"
@@ -311,7 +311,7 @@
         "id": "TE201425-1",
         "kode_mk": "TE201425",
         "nama": "Desain Sistem Pengaturan",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Juliet"
@@ -325,7 +325,7 @@
         "id": "TE201425-2",
         "kode_mk": "TE201425",
         "nama": "Desain Sistem Pengaturan",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-Juliet"
@@ -339,7 +339,7 @@
         "id": "TE201426-1",
         "kode_mk": "TE201426",
         "nama": "Sistem Komunikasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 4,
         "dosen": [
             "Dosen TE-Echo"
@@ -353,7 +353,7 @@
         "id": "TE201426-2",
         "kode_mk": "TE201426",
         "nama": "Sistem Komunikasi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 4,
         "dosen": [
             "Dosen TE-Echo"
@@ -367,7 +367,7 @@
         "id": "TE201427-1",
         "kode_mk": "TE201427",
         "nama": "Sistem Mikroprosesor dan Mikrokontroler",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Charlie"
@@ -381,7 +381,7 @@
         "id": "TE201427-2",
         "kode_mk": "TE201427",
         "nama": "Sistem Mikroprosesor dan Mikrokontroler",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen TE-Charlie"
@@ -395,7 +395,7 @@
         "id": "TE201428-2",
         "kode_mk": "TE201428",
         "nama": "Kecerdasan Buatan",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen TE-Victor"
@@ -409,7 +409,7 @@
         "id": "TE201428-1",
         "kode_mk": "TE201428",
         "nama": "Kecerdasan Buatan",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Victor"
@@ -423,7 +423,7 @@
         "id": "TE201429-1",
         "kode_mk": "TE201429",
         "nama": "Metodologi Penelitian",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Quebec"
@@ -437,7 +437,7 @@
         "id": "TE201551-1",
         "kode_mk": "TE201551",
         "nama": "Kapita Selekta",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Bravo"
@@ -451,7 +451,7 @@
         "id": "TE201559-1",
         "kode_mk": "TE201559",
         "nama": "Kualitas Daya Listrik",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Juliet"
@@ -465,7 +465,7 @@
         "id": "TE201563-1",
         "kode_mk": "TE201563",
         "nama": "Teknik Tegangan Tinggi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Papa"
@@ -479,7 +479,7 @@
         "id": "TE201566-1",
         "kode_mk": "TE201566",
         "nama": "Manajemen Proyek",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Kilo"
@@ -493,7 +493,7 @@
         "id": "TE201567-1",
         "kode_mk": "TE201567",
         "nama": "Otomasi Industri",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Victor"
@@ -507,7 +507,7 @@
         "id": "TE201569-1",
         "kode_mk": "TE201569",
         "nama": "Sistem Pengendalian Mesin Listrik",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Foxtrot"
@@ -521,7 +521,7 @@
         "id": "TE201574-1",
         "kode_mk": "TE201574",
         "nama": "Elektronika Pencegahan Bencana",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Romeo"
@@ -535,7 +535,7 @@
         "id": "TE201576-1",
         "kode_mk": "TE201576",
         "nama": "Teknologi Kendaraan Cerdas",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Bravo"
@@ -549,7 +549,7 @@
         "id": "TE201577-1",
         "kode_mk": "TE201577",
         "nama": "Jaringan Akses Nirkabel",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Foxtrot"
@@ -563,7 +563,7 @@
         "id": "TE201578-1",
         "kode_mk": "TE201578",
         "nama": "Sistem Komunikasi Serat Optik",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen TE-Kilo"
@@ -577,7 +577,7 @@
         "id": "TE201583-1",
         "kode_mk": "TE201583",
         "nama": "Aplikasi Komputer Bergerak",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Hotel"
@@ -591,7 +591,7 @@
         "id": "TE201731-1",
         "kode_mk": "TE201731",
         "nama": "Tugas Akhir",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 6,
         "dosen": [
             "Dosen TE-Golf",
@@ -606,7 +606,7 @@
         "id": "TE201586-1",
         "kode_mk": "TE201586",
         "nama": "Visi Komputer",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen TE-Echo"
@@ -620,7 +620,7 @@
         "id": "SI201414-1",
         "kode_mk": "SI201414",
         "nama": "Desain dan Manajemen Jaringan Komputer",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 4,
         "dosen": [
             "Dosen SI-Bravo"
@@ -634,7 +634,7 @@
         "id": "SI201414-2",
         "kode_mk": "SI201414",
         "nama": "Desain dan Manajemen Jaringan Komputer",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 4,
         "dosen": [
             "Dosen SI-Bravo"
@@ -648,7 +648,7 @@
         "id": "SI201413-1",
         "kode_mk": "SI201413",
         "nama": "Desain Interaksi Antarmuka dan Pengalaman Pengguna",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Lima"
@@ -662,7 +662,7 @@
         "id": "SI201413-2",
         "kode_mk": "SI201413",
         "nama": "Desain Interaksi Antarmuka dan Pengalaman Pengguna",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Lima"
@@ -676,7 +676,7 @@
         "id": "SI201426-1",
         "kode_mk": "SI201426",
         "nama": "Inovasi dan Transformasi Digital",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen SI-Kilo"
@@ -690,7 +690,7 @@
         "id": "SI201426-2",
         "kode_mk": "SI201426",
         "nama": "Inovasi dan Transformasi Digital",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen SI-Kilo"
@@ -704,7 +704,7 @@
         "id": "SI201424-1",
         "kode_mk": "SI201424",
         "nama": "Keamanan Sistem Informasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Charlie"
@@ -718,7 +718,7 @@
         "id": "SI201424-2",
         "kode_mk": "SI201424",
         "nama": "Keamanan Sistem Informasi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Charlie"
@@ -732,7 +732,7 @@
         "id": "SI201411-1",
         "kode_mk": "SI201411",
         "nama": "Kecerdasan Bisnis",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Oscar"
@@ -746,7 +746,7 @@
         "id": "SI201411-2",
         "kode_mk": "SI201411",
         "nama": "Kecerdasan Bisnis",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Oscar"
@@ -760,7 +760,7 @@
         "id": "SI201550-1",
         "kode_mk": "SI201550",
         "nama": "Kecerdasan Proses Bisnis",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Lima"
@@ -774,7 +774,7 @@
         "id": "SI201632-1",
         "kode_mk": "SI201632",
         "nama": "Kerja Praktek",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen SI-Hotel"
@@ -788,7 +788,7 @@
         "id": "SI201540-1",
         "kode_mk": "SI201540",
         "nama": "Komputasi Awan",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Echo"
@@ -802,7 +802,7 @@
         "id": "SI201403-1",
         "kode_mk": "SI201403",
         "nama": "Manajemen dan Organisasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Hotel"
@@ -816,7 +816,7 @@
         "id": "SI201403-2",
         "kode_mk": "SI201403",
         "nama": "Manajemen dan Organisasi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Hotel"
@@ -830,7 +830,7 @@
         "id": "SI201425-1",
         "kode_mk": "SI201425",
         "nama": "Manajemen Layanan Teknologi Informasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-India"
@@ -844,7 +844,7 @@
         "id": "SI201425-2",
         "kode_mk": "SI201425",
         "nama": "Manajemen Layanan Teknologi Informasi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-India"
@@ -858,7 +858,7 @@
         "id": "SI201535-1",
         "kode_mk": "SI201535",
         "nama": "Manajemen Sumber Daya Manusia",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Foxtrot"
@@ -872,7 +872,7 @@
         "id": "SI201404-1",
         "kode_mk": "SI201404",
         "nama": "Pemrograman Terstruktur",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Mike"
@@ -886,7 +886,7 @@
         "id": "SI201404-2",
         "kode_mk": "SI201404",
         "nama": "Pemrograman Terstruktur",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Mike"
@@ -900,7 +900,7 @@
         "id": "SI201412-1",
         "kode_mk": "SI201412",
         "nama": "Pemrograman Web",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Juliet"
@@ -914,7 +914,7 @@
         "id": "SI201412-2",
         "kode_mk": "SI201412",
         "nama": "Pemrograman Web",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Juliet"
@@ -928,7 +928,7 @@
         "id": "SI201545-1",
         "kode_mk": "SI201545",
         "nama": "Penggalian Sosial Media",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Hotel"
@@ -942,7 +942,7 @@
         "id": "SI201423-1",
         "kode_mk": "SI201423",
         "nama": "Perencanaan Arsitektur Teknologi Informasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-India"
@@ -956,7 +956,7 @@
         "id": "SI201423-2",
         "kode_mk": "SI201423",
         "nama": "Perencanaan Arsitektur Teknologi Informasi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-India"
@@ -970,7 +970,7 @@
         "id": "SI201416-1",
         "kode_mk": "SI201416",
         "nama": "Perencanaan Manajemen Proyek Teknologi Informasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Alpha"
@@ -984,7 +984,7 @@
         "id": "SI201416-2",
         "kode_mk": "SI201416",
         "nama": "Perencanaan Manajemen Proyek Teknologi Informasi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Alpha"
@@ -998,7 +998,7 @@
         "id": "SI201546-1",
         "kode_mk": "SI201546",
         "nama": "Perencanaan Sumberdaya Perusahaan",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-India"
@@ -1012,7 +1012,7 @@
         "id": "SI201733-1",
         "kode_mk": "SI201733",
         "nama": "Proposal Tugas Akhir",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen SI-Papa"
@@ -1026,7 +1026,7 @@
         "id": "SI201415-1",
         "kode_mk": "SI201415",
         "nama": "Rekayasa Perangkat Lunak",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 4,
         "dosen": [
             "Dosen SI-Mike"
@@ -1040,7 +1040,7 @@
         "id": "SI201415-2",
         "kode_mk": "SI201415",
         "nama": "Rekayasa Perangkat Lunak",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 4,
         "dosen": [
             "Dosen SI-Mike"
@@ -1054,7 +1054,7 @@
         "id": "SI201422-1",
         "kode_mk": "SI201422",
         "nama": "Sistem Cerdas Pendukung Keputusan",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen SI-Foxtrot"
@@ -1068,7 +1068,7 @@
         "id": "SI201422-2",
         "kode_mk": "SI201422",
         "nama": "Sistem Cerdas Pendukung Keputusan",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen SI-Foxtrot"
@@ -1082,7 +1082,7 @@
         "id": "SI201734-1",
         "kode_mk": "SI201734",
         "nama": "Tugas Akhir",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 4,
         "dosen": [
             "Dosen SI-Delta"
@@ -1096,7 +1096,7 @@
         "id": "IF201402-1",
         "kode_mk": "IF201402",
         "nama": "Matematika Diskrit",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Charlie"
@@ -1110,7 +1110,7 @@
         "id": "IF201402-2",
         "kode_mk": "IF201402",
         "nama": "Matematika Diskrit",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Charlie"
@@ -1124,7 +1124,7 @@
         "id": "IF201402-3",
         "kode_mk": "IF201402",
         "nama": "Matematika Diskrit",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen IF-Charlie"
@@ -1138,7 +1138,7 @@
         "id": "IF201403-1",
         "kode_mk": "IF201403",
         "nama": "Sistem Digital",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Kilo"
@@ -1152,7 +1152,7 @@
         "id": "IF201403-3",
         "kode_mk": "IF201403",
         "nama": "Sistem Digital",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen IF-Kilo"
@@ -1166,7 +1166,7 @@
         "id": "IF201403-2",
         "kode_mk": "IF201403",
         "nama": "Sistem Digital",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Kilo"
@@ -1180,7 +1180,7 @@
         "id": "IF201404-1",
         "kode_mk": "IF201404",
         "nama": "Pemrograman Berorientasi Objek",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Delta"
@@ -1194,7 +1194,7 @@
         "id": "IF201404-2",
         "kode_mk": "IF201404",
         "nama": "Pemrograman Berorientasi Objek",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Delta"
@@ -1208,7 +1208,7 @@
         "id": "IF201404-3",
         "kode_mk": "IF201404",
         "nama": "Pemrograman Berorientasi Objek",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen IF-Delta"
@@ -1222,7 +1222,7 @@
         "id": "IF201410-1",
         "kode_mk": "IF201410",
         "nama": "Perancangan dan Analisis Algoritme",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Echo"
@@ -1236,7 +1236,7 @@
         "id": "IF201410-2",
         "kode_mk": "IF201410",
         "nama": "Perancangan dan Analisis Algoritme",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Echo"
@@ -1250,7 +1250,7 @@
         "id": "IF201411-1",
         "kode_mk": "IF201411",
         "nama": "Jaringan Komputer",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Lima"
@@ -1264,7 +1264,7 @@
         "id": "IF201411-2",
         "kode_mk": "IF201411",
         "nama": "Jaringan Komputer",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Lima"
@@ -1278,7 +1278,7 @@
         "id": "IF201412-2",
         "kode_mk": "IF201412",
         "nama": "Teori Graf dan Otomata",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Foxtrot"
@@ -1292,7 +1292,7 @@
         "id": "IF201412-1",
         "kode_mk": "IF201412",
         "nama": "Teori Graf dan Otomata",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Foxtrot"
@@ -1306,7 +1306,7 @@
         "id": "IF201413-1",
         "kode_mk": "IF201413",
         "nama": "Sistem Basis Data",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Delta"
@@ -1320,7 +1320,7 @@
         "id": "IF201413-2",
         "kode_mk": "IF201413",
         "nama": "Sistem Basis Data",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Delta"
@@ -1334,7 +1334,7 @@
         "id": "IF201413-3",
         "kode_mk": "IF201413",
         "nama": "Sistem Basis Data",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen IF-Delta"
@@ -1348,7 +1348,7 @@
         "id": "IF201414-1",
         "kode_mk": "IF201414",
         "nama": "Grafika Komputer",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Kilo"
@@ -1362,7 +1362,7 @@
         "id": "IF201414-2",
         "kode_mk": "IF201414",
         "nama": "Grafika Komputer",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Kilo"
@@ -1376,7 +1376,7 @@
         "id": "IF201415-1",
         "kode_mk": "IF201415",
         "nama": "Analisis dan Perancangan Perangkat Lunak",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-India"
@@ -1390,7 +1390,7 @@
         "id": "IF201415-2",
         "kode_mk": "IF201415",
         "nama": "Analisis dan Perancangan Perangkat Lunak",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-India"
@@ -1404,7 +1404,7 @@
         "id": "IF201416-2",
         "kode_mk": "IF201416",
         "nama": "Wawasan Umum dan Gagasan Informatika",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen IF-Alpha"
@@ -1418,7 +1418,7 @@
         "id": "IF201416-1",
         "kode_mk": "IF201416",
         "nama": "Wawasan Umum dan Gagasan Informatika",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen IF-Alpha"
@@ -1432,7 +1432,7 @@
         "id": "IF201423-1",
         "kode_mk": "IF201423",
         "nama": "Pengolahan Citra Digital",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-India"
@@ -1446,7 +1446,7 @@
         "id": "IF201423-2",
         "kode_mk": "IF201423",
         "nama": "Pengolahan Citra Digital",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-India"
@@ -1460,7 +1460,7 @@
         "id": "IF201424-1",
         "kode_mk": "IF201424",
         "nama": "Pengembangan Aplikasi Berbasis Web",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Bravo"
@@ -1474,7 +1474,7 @@
         "id": "IF201424-2",
         "kode_mk": "IF201424",
         "nama": "Pengembangan Aplikasi Berbasis Web",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Bravo"
@@ -1488,7 +1488,7 @@
         "id": "IF201425-1",
         "kode_mk": "IF201425",
         "nama": "Pemelajaran Mesin",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Hotel"
@@ -1502,7 +1502,7 @@
         "id": "IF201425-2",
         "kode_mk": "IF201425",
         "nama": "Pemelajaran Mesin",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen IF-Hotel"
@@ -1516,7 +1516,7 @@
         "id": "IF201426-1",
         "kode_mk": "IF201426",
         "nama": "Startup Digital Lanjut",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen IF-Delta"
@@ -1530,7 +1530,7 @@
         "id": "IF201426-2",
         "kode_mk": "IF201426",
         "nama": "Startup Digital Lanjut",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen IF-Delta"
@@ -1544,7 +1544,7 @@
         "id": "IF201505-1",
         "kode_mk": "IF201505",
         "nama": "Deep Learning",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Alpha"
@@ -1558,7 +1558,7 @@
         "id": "IF201514-1",
         "kode_mk": "IF201514",
         "nama": "Kapita Selekta",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Alpha"
@@ -1572,7 +1572,7 @@
         "id": "IF201504-1",
         "kode_mk": "IF201504",
         "nama": "Kecerdasan Web",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Bravo"
@@ -1586,7 +1586,7 @@
         "id": "IF201503-1",
         "kode_mk": "IF201503",
         "nama": "Komputasi Evolusioner",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Golf"
@@ -1600,7 +1600,7 @@
         "id": "IF201510-1",
         "kode_mk": "IF201510",
         "nama": "Manajemen Proyek TIK",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Alpha"
@@ -1614,7 +1614,7 @@
         "id": "IF201513-1",
         "kode_mk": "IF201513",
         "nama": "Pemrograman Permainan Digital",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Golf"
@@ -1628,7 +1628,7 @@
         "id": "IF201508-1",
         "kode_mk": "IF201508",
         "nama": "Penjaminan Mutu Perangkat Lunak",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Bravo"
@@ -1642,7 +1642,7 @@
         "id": "IF201506-1",
         "kode_mk": "IF201506",
         "nama": "Sains Data",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Mike"
@@ -1656,7 +1656,7 @@
         "id": "IF201511-1",
         "kode_mk": "IF201511",
         "nama": "Tata Kelola Teknologi Informasi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Foxtrot"
@@ -1670,7 +1670,7 @@
         "id": "IF201512-1",
         "kode_mk": "IF201512",
         "nama": "Teknologi IoT",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen IF-Kilo"
@@ -1684,7 +1684,7 @@
         "id": "BD201410-1",
         "kode_mk": "BD201410",
         "nama": "Akuntansi Manajemen",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Echo"
@@ -1698,7 +1698,7 @@
         "id": "BD201410-2",
         "kode_mk": "BD201410",
         "nama": "Akuntansi Manajemen",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Echo"
@@ -1712,7 +1712,7 @@
         "id": "BD201410-3",
         "kode_mk": "BD201410",
         "nama": "Akuntansi Manajemen",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen BD-Echo"
@@ -1726,7 +1726,7 @@
         "id": "BD201432-1",
         "kode_mk": "BD201432",
         "nama": "Information Security",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen BD-Alpha"
@@ -1740,7 +1740,7 @@
         "id": "BD201432-2",
         "kode_mk": "BD201432",
         "nama": "Information Security",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen BD-Alpha"
@@ -1754,7 +1754,7 @@
         "id": "BD201433-1",
         "kode_mk": "BD201433",
         "nama": "Kecerdasan Bisnis",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -1768,7 +1768,7 @@
         "id": "BD201433-2",
         "kode_mk": "BD201433",
         "nama": "Kecerdasan Bisnis",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -1782,7 +1782,7 @@
         "id": "BD201422-1",
         "kode_mk": "BD201422",
         "nama": "Manajemen Bisnis Proses",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Delta"
@@ -1796,7 +1796,7 @@
         "id": "BD201422-2",
         "kode_mk": "BD201422",
         "nama": "Manajemen Bisnis Proses",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Delta"
@@ -1810,7 +1810,7 @@
         "id": "BD201421-1",
         "kode_mk": "BD201421",
         "nama": "Manajemen Keuangan",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Bravo"
@@ -1824,7 +1824,7 @@
         "id": "BD201421-2",
         "kode_mk": "BD201421",
         "nama": "Manajemen Keuangan",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Bravo"
@@ -1838,7 +1838,7 @@
         "id": "BD201406-1",
         "kode_mk": "BD201406",
         "nama": "Manajemen Pemasaran",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-India"
@@ -1852,7 +1852,7 @@
         "id": "BD201406-2",
         "kode_mk": "BD201406",
         "nama": "Manajemen Pemasaran",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-India"
@@ -1866,7 +1866,7 @@
         "id": "BD201406-3",
         "kode_mk": "BD201406",
         "nama": "Manajemen Pemasaran",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen BD-India"
@@ -1880,7 +1880,7 @@
         "id": "BD201409-1",
         "kode_mk": "BD201409",
         "nama": "Manajemen Perubahan dan Transformasi Digital",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen BD-Foxtrot"
@@ -1894,7 +1894,7 @@
         "id": "BD201409-2",
         "kode_mk": "BD201409",
         "nama": "Manajemen Perubahan dan Transformasi Digital",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen BD-Foxtrot"
@@ -1908,7 +1908,7 @@
         "id": "BD201409-3",
         "kode_mk": "BD201409",
         "nama": "Manajemen Perubahan dan Transformasi Digital",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 2,
         "dosen": [
             "Dosen BD-Foxtrot"
@@ -1922,7 +1922,7 @@
         "id": "BD201423-1",
         "kode_mk": "BD201423",
         "nama": "Manajemen Produk",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -1936,7 +1936,7 @@
         "id": "BD201423-2",
         "kode_mk": "BD201423",
         "nama": "Manajemen Produk",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -1950,7 +1950,7 @@
         "id": "BD201434-1",
         "kode_mk": "BD201434",
         "nama": "Manajemen Proyek",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Delta"
@@ -1964,7 +1964,7 @@
         "id": "BD201434-2",
         "kode_mk": "BD201434",
         "nama": "Manajemen Proyek",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Delta"
@@ -1978,7 +1978,7 @@
         "id": "BD201419-1",
         "kode_mk": "BD201419",
         "nama": "Manajemen Rantai Pasok",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Alpha"
@@ -1992,7 +1992,7 @@
         "id": "BD201419-2",
         "kode_mk": "BD201419",
         "nama": "Manajemen Rantai Pasok",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Alpha"
@@ -2006,7 +2006,7 @@
         "id": "BD201506-1",
         "kode_mk": "BD201506",
         "nama": "Manajemen Risiko Bisnis",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Bravo"
@@ -2020,7 +2020,7 @@
         "id": "BD201430-1",
         "kode_mk": "BD201430",
         "nama": "Manajemen Sosial Media",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Alpha"
@@ -2034,7 +2034,7 @@
         "id": "BD201430-2",
         "kode_mk": "BD201430",
         "nama": "Manajemen Sosial Media",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Alpha"
@@ -2048,7 +2048,7 @@
         "id": "BD201429-1",
         "kode_mk": "BD201429",
         "nama": "Manajemen Strategi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Delta"
@@ -2062,7 +2062,7 @@
         "id": "BD201429-2",
         "kode_mk": "BD201429",
         "nama": "Manajemen Strategi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Delta"
@@ -2076,7 +2076,7 @@
         "id": "BD201431-1",
         "kode_mk": "BD201431",
         "nama": "Metodologi Penelitian Bisnis Umum",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 4,
         "dosen": [
             "Dosen BD-Golf"
@@ -2090,7 +2090,7 @@
         "id": "BD201431-2",
         "kode_mk": "BD201431",
         "nama": "Metodologi Penelitian Bisnis Umum",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 4,
         "dosen": [
             "Dosen BD-Golf"
@@ -2104,7 +2104,7 @@
         "id": "BD201418-1",
         "kode_mk": "BD201418",
         "nama": "Pemasaran Digital",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Hotel"
@@ -2118,7 +2118,7 @@
         "id": "BD201418-2",
         "kode_mk": "BD201418",
         "nama": "Pemasaran Digital",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Hotel"
@@ -2132,7 +2132,7 @@
         "id": "BD201420-1",
         "kode_mk": "BD201420",
         "nama": "Pemrograman Aplikasi Perangkat Bergerak",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Golf"
@@ -2146,7 +2146,7 @@
         "id": "BD201420-2",
         "kode_mk": "BD201420",
         "nama": "Pemrograman Aplikasi Perangkat Bergerak",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Golf"
@@ -2160,7 +2160,7 @@
         "id": "BD201411-1",
         "kode_mk": "BD201411",
         "nama": "Pengembangan UI/UX",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Bravo"
@@ -2174,7 +2174,7 @@
         "id": "BD201411-2",
         "kode_mk": "BD201411",
         "nama": "Pengembangan UI/UX",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Bravo"
@@ -2188,7 +2188,7 @@
         "id": "BD201411-3",
         "kode_mk": "BD201411",
         "nama": "Pengembangan UI/UX",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen BD-Bravo"
@@ -2202,7 +2202,7 @@
         "id": "BD201407-1",
         "kode_mk": "BD201407",
         "nama": "Sistem Basis Data",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 2,
         "dosen": [
             "Dosen BD-Alpha"
@@ -2216,7 +2216,7 @@
         "id": "BD201407-2",
         "kode_mk": "BD201407",
         "nama": "Sistem Basis Data",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 2,
         "dosen": [
             "Dosen BD-Alpha"
@@ -2230,7 +2230,7 @@
         "id": "BD201407-3",
         "kode_mk": "BD201407",
         "nama": "Sistem Basis Data",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 2,
         "dosen": [
             "Dosen BD-Alpha"
@@ -2244,7 +2244,7 @@
         "id": "BD201408-1",
         "kode_mk": "BD201408",
         "nama": "Sistem Informasi Akuntansi",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -2258,7 +2258,7 @@
         "id": "BD201408-2",
         "kode_mk": "BD201408",
         "nama": "Sistem Informasi Akuntansi",
-        "paralel": 2,
+        "kelas": "B",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -2272,7 +2272,7 @@
         "id": "BD201408-3",
         "kode_mk": "BD201408",
         "nama": "Sistem Informasi Akuntansi",
-        "paralel": 3,
+        "kelas": "C",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
@@ -2286,7 +2286,7 @@
         "id": "BD201601-1",
         "kode_mk": "BD201601",
         "nama": "Tugas Akhir",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 6,
         "dosen": [
             "Dosen BD-Foxtrot"
@@ -2300,7 +2300,7 @@
         "id": "BD201507-1",
         "kode_mk": "BD201507",
         "nama": "Internet of Things",
-        "paralel": 1,
+        "kelas": "A",
         "sks": 3,
         "dosen": [
             "Dosen BD-Charlie"
