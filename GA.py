@@ -7,7 +7,7 @@ from typing import List, Tuple, Dict, Any
 
 # Konfigurasi param awal
 POPULATION_SIZE = 80
-NUM_GENERATIONS = 200
+NUM_GENERATIONS = 1000
 TOURNAMENT_SIZE = 3
 CROSSOVER_RATE = 0.8
 MUTATION_RATE = 0.1
@@ -203,7 +203,7 @@ def print_schedule(individual, timeslots, ruang_list, matkul_list):
             "room": room,
             "kode_mk": mk["kode_mk"],
             "nama": mk["nama"],
-            "paralel": mk["paralel"],
+            "kelas": mk["kelas"],
             "sks": mk["sks"],
             "dosen": ", ".join(mk["dosen"]),
         })
@@ -222,7 +222,7 @@ def print_schedule(individual, timeslots, ruang_list, matkul_list):
         print(
             f"Sesi {r['session']} ({r['start']}-{r['end']}) | "
             f"Ruang {r['room']} | {r['kode_mk']} ({r['nama']}) "
-            f"Paralel {r['paralel']} | SKS {r['sks']} | Dosen: {r['dosen']}"
+            f"Kelas {r['kelas']} | SKS {r['sks']} | Dosen: {r['dosen']}"
         )
 
 def export_to_csv(individual, timeslots, ruang_list, matkul_list, filename="jadwal_ga.csv"):
@@ -243,7 +243,7 @@ def export_to_csv(individual, timeslots, ruang_list, matkul_list, filename="jadw
             "room": room,
             "kode_mk": mk["kode_mk"],
             "nama": mk["nama"],
-            "paralel": mk["paralel"],
+            "kelas": mk["kelas"],
             "sks": mk["sks"],
             "dosen": ", ".join(mk["dosen"]),
         })
