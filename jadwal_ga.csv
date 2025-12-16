@@ -1,335 +1,310 @@
-<<<<<<< HEAD
 day,session,start,end,room,kode_mk,nama,kelas,sks,dosen
-Senin,1,08:00,10:30,E106,IF201403,Sistem Digital,B,3,Dosen IF-Kilo
-Senin,1,08:00,10:30,E203,IF201425,Pemelajaran Mesin,A,3,Dosen IF-Hotel
-Senin,1,08:00,10:30,E204,BD201411,Pengembangan UI/UX,A,3,Dosen BD-Bravo
-Senin,1,08:00,10:30,E306,BD201406,Manajemen Pemasaran,A,3,Dosen BD-India
-Senin,1,08:00,10:30,F307,TE201412,Rangkaian Listrik II,A,3,Dosen TE-November
-Senin,1,08:00,10:30,G102,TE201586,Visi Komputer,A,3,Dosen TE-Echo
-Senin,1,08:00,10:30,G103,IF201423,Pengolahan Citra Digital,B,3,Dosen IF-India
-Senin,1,08:00,10:30,G105,BD201422,Manajemen Bisnis Proses,A,3,Dosen BD-Delta
-Senin,1,08:00,10:30,G202,BD201408,Sistem Informasi Akuntansi,C,3,Dosen BD-Charlie
-Senin,1,08:00,10:30,G204,SI201411,Kecerdasan Bisnis,B,3,Dosen SI-Oscar
-Senin,1,08:00,10:30,G205,IF201404,Pemrograman Berorientasi Objek,C,3,Dosen IF-Delta
-Senin,1,08:00,10:30,G307,IF201402,Matematika Diskrit,C,3,Dosen IF-Charlie
-Senin,3,13:00,15:30,E103,IF201404,Pemrograman Berorientasi Objek,B,3,Dosen IF-Delta
-Senin,3,13:00,15:30,E201,BD201420,Pemrograman Aplikasi Perangkat Bergerak,A,3,Dosen BD-Golf
-Senin,3,13:00,15:30,E304,SI201423,Perencanaan Arsitektur Teknologi Informasi,A,3,Dosen SI-India
-Senin,3,13:00,15:30,E306,BD201418,Pemasaran Digital,A,3,Dosen BD-Hotel
-Senin,3,13:00,15:30,F103,TE201416,Sinyal dan Sistem,B,3,Dosen TE-Romeo
-Senin,3,13:00,15:30,F104,TE201577,Jaringan Akses Nirkabel,A,3,Dosen TE-Foxtrot
-Senin,3,13:00,15:30,F301,BD201408,Sistem Informasi Akuntansi,B,3,Dosen BD-Charlie
-Senin,3,13:00,15:30,F307,TE201424,Konversi Energi Listrik,B,3,Dosen TE-Victor
-Senin,3,13:00,15:30,G104,TE201414,Rangkaian Elektronika II,B,3,Dosen TE-Uniform
-Senin,3,13:00,15:30,G106,BD201434,Manajemen Proyek,A,3,Dosen BD-Delta
-Senin,3,13:00,15:30,G201,SI201422,Sistem Cerdas Pendukung Keputusan,B,3,Dosen SI-Foxtrot
-Senin,3,13:00,15:30,G203,TE201427,Sistem Mikroprosesor dan Mikrokontroler,B,3,Dosen TE-Charlie
-Senin,3,13:00,15:30,G204,TE201426,Sistem Komunikasi,B,4,Dosen TE-Echo
-Senin,4,15:30,17:00,E103,TE201428,Kecerdasan Buatan,B,2,Dosen TE-Victor
-Senin,4,15:30,17:00,F106,BD201409,Manajemen Perubahan dan Transformasi Digital,B,2,Dosen BD-Foxtrot
-Senin,4,15:30,17:00,F306,TE201551,Kapita Selekta,A,2,Dosen TE-Bravo
-Senin,4,15:30,17:00,G104,BD201432,Information Security,A,2,Dosen BD-Alpha
-Senin,4,15:30,17:00,G306,TE201404,Material Teknik Elektro,A,2,Dosen TE-Delta
-Selasa,1,08:00,10:30,E104,BD201423,Manajemen Produk,A,3,Dosen BD-Charlie
-Selasa,1,08:00,10:30,E201,BD201431,Metodologi Penelitian Bisnis Umum,B,4,Dosen BD-Golf
-Selasa,1,08:00,10:30,E203,TE201574,Elektronika Pencegahan Bencana,A,3,Dosen TE-Romeo
-Selasa,1,08:00,10:30,E306,BD201601,Tugas Akhir,A,6,Dosen BD-Foxtrot
-Selasa,1,08:00,10:30,F105,BD201410,Akuntansi Manajemen,C,3,Dosen BD-Echo
-Selasa,1,08:00,10:30,F106,SI201412,Pemrograman Web,B,3,Dosen SI-Juliet
-Selasa,1,08:00,10:30,F201,IF201505,Deep Learning,A,3,Dosen IF-Alpha
-Selasa,1,08:00,10:30,F201,IF201512,Teknologi IoT,A,3,Dosen IF-Kilo
-Selasa,1,08:00,10:30,F301,TE201412,Rangkaian Listrik II,B,3,Dosen TE-November
-Selasa,1,08:00,10:30,F302,SI201545,Penggalian Sosial Media,A,3,Dosen SI-Hotel
-Selasa,1,08:00,10:30,G101,SI201414,Desain dan Manajemen Jaringan Komputer,A,4,Dosen SI-Bravo
-Selasa,1,08:00,10:30,G104,SI201546,Perencanaan Sumberdaya Perusahaan,A,3,Dosen SI-India
-Selasa,1,08:00,10:30,G205,BD201429,Manajemen Strategi,A,3,Dosen BD-Delta
-Selasa,1,08:00,10:30,G301,BD201419,Manajemen Rantai Pasok,B,3,Dosen BD-Alpha
-Selasa,1,08:00,10:30,G307,SI201424,Keamanan Sistem Informasi,A,3,Dosen SI-Charlie
-Selasa,2,10:30,12:00,E104,BD201407,Sistem Basis Data,A,2,Dosen BD-Alpha
-Selasa,2,10:30,12:00,E205,TE201415,Arsitektur dan Organisasi Sistem Komputer,B,2,Dosen TE-Charlie
-Selasa,2,10:30,12:00,F201,SI201632,Kerja Praktek,A,2,Dosen SI-Hotel
-Selasa,2,10:30,12:00,F304,TE201417,Komunikasi Data,A,2,Dosen TE-Mike
-Selasa,2,10:30,12:00,G304,IF201426,Startup Digital Lanjut,B,2,Dosen IF-Delta
-Selasa,3,13:00,15:30,E104,TE201413,Medan Elektromagnetik,B,4,Dosen TE-November
-Selasa,3,13:00,15:30,E105,BD201434,Manajemen Proyek,B,3,Dosen BD-Delta
-Selasa,3,13:00,15:30,E201,SI201540,Komputasi Awan,A,3,Dosen SI-Echo
-Selasa,3,13:00,15:30,E204,IF201508,Penjaminan Mutu Perangkat Lunak,A,3,Dosen IF-Bravo
-Selasa,3,13:00,15:30,E301,BD201506,Manajemen Risiko Bisnis,A,3,Dosen BD-Bravo
-Selasa,3,13:00,15:30,E305,IF201413,Sistem Basis Data,A,3,Dosen IF-Delta
-Selasa,3,13:00,15:30,F104,IF201506,Sains Data,A,3,Dosen IF-Mike
-Selasa,3,13:00,15:30,F203,IF201414,Grafika Komputer,B,3,Dosen IF-Kilo
-Selasa,3,13:00,15:30,F204,IF201415,Analisis dan Perancangan Perangkat Lunak,A,3,Dosen IF-India
-Selasa,3,13:00,15:30,F302,TE201423,Teknologi Transduser,A,3,Dosen TE-November
-Selasa,3,13:00,15:30,F303,IF201425,Pemelajaran Mesin,B,3,Dosen IF-Hotel
-Selasa,3,13:00,15:30,G304,TE201424,Konversi Energi Listrik,A,3,Dosen TE-Victor
-Selasa,3,13:00,15:30,G306,BD201419,Manajemen Rantai Pasok,A,3,Dosen BD-Alpha
-Selasa,3,13:00,15:30,G307,BD201410,Akuntansi Manajemen,A,3,Dosen BD-Echo
-Selasa,4,15:30,17:00,F101,TE201403,Matematika Diskrit,C,2,Dosen TE-Oscar
-Selasa,4,15:30,17:00,F203,BD201409,Manajemen Perubahan dan Transformasi Digital,A,2,Dosen BD-Foxtrot
-Selasa,4,15:30,17:00,G303,SI201426,Inovasi dan Transformasi Digital,B,2,Dosen SI-Kilo
-Rabu,1,08:00,10:30,E202,IF201511,Tata Kelola Teknologi Informasi,A,3,Dosen IF-Foxtrot
-Rabu,1,08:00,10:30,E303,SI201734,Tugas Akhir,A,4,Dosen SI-Delta
-Rabu,1,08:00,10:30,F104,BD201406,Manajemen Pemasaran,C,3,Dosen BD-India
-Rabu,1,08:00,10:30,F304,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,B,3,Dosen SI-Lima
-Rabu,1,08:00,10:30,F306,SI201412,Pemrograman Web,A,3,Dosen SI-Juliet
-Rabu,1,08:00,10:30,F307,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,B,3,Dosen SI-Alpha
-Rabu,1,08:00,10:30,G105,IF201503,Komputasi Evolusioner,A,3,Dosen IF-Golf
-Rabu,1,08:00,10:30,G201,BD201430,Manajemen Sosial Media,A,3,Dosen BD-Alpha
-Rabu,1,08:00,10:30,G301,SI201422,Sistem Cerdas Pendukung Keputusan,A,3,Dosen SI-Foxtrot
-Rabu,1,08:00,10:30,G304,BD201507,Internet of Things,A,3,Dosen BD-Charlie
-Rabu,2,10:30,12:00,E104,SI201733,Proposal Tugas Akhir,A,2,Dosen SI-Papa
-Rabu,2,10:30,12:00,G306,SI201426,Inovasi dan Transformasi Digital,A,2,Dosen SI-Kilo
-Rabu,3,13:00,15:30,E205,TE201731,Tugas Akhir,A,6,"Dosen TE-Golf, Dosen TE-Papa"
-Rabu,3,13:00,15:30,E301,IF201402,Matematika Diskrit,B,3,Dosen IF-Charlie
-Rabu,3,13:00,15:30,E302,SI201425,Manajemen Layanan Teknologi Informasi,A,3,Dosen SI-India
-Rabu,3,13:00,15:30,E303,TE201583,Aplikasi Komputer Bergerak,A,3,Dosen TE-Hotel
-Rabu,3,13:00,15:30,E304,BD201423,Manajemen Produk,B,3,Dosen BD-Charlie
-Rabu,3,13:00,15:30,F101,IF201410,Perancangan dan Analisis Algoritme,A,3,Dosen IF-Echo
-Rabu,3,13:00,15:30,F102,BD201406,Manajemen Pemasaran,B,3,Dosen BD-India
-Rabu,3,13:00,15:30,F205,TE201423,Teknologi Transduser,B,3,Dosen TE-November
-Rabu,3,13:00,15:30,G101,BD201431,Metodologi Penelitian Bisnis Umum,A,4,Dosen BD-Golf
-Rabu,3,13:00,15:30,G106,IF201403,Sistem Digital,A,3,Dosen IF-Kilo
-Rabu,3,13:00,15:30,G204,TE201427,Sistem Mikroprosesor dan Mikrokontroler,A,3,Dosen TE-Charlie
-Rabu,3,13:00,15:30,G304,SI201550,Kecerdasan Proses Bisnis,A,3,Dosen SI-Lima
-Rabu,3,13:00,15:30,G305,BD201429,Manajemen Strategi,B,3,Dosen BD-Delta
-Rabu,4,15:30,17:00,E305,IF201426,Startup Digital Lanjut,A,2,Dosen IF-Delta
-Rabu,4,15:30,17:00,G201,TE201559,Kualitas Daya Listrik,A,2,Dosen TE-Juliet
-Rabu,4,15:30,17:00,G304,TE201569,Sistem Pengendalian Mesin Listrik,A,2,Dosen TE-Foxtrot
-Kamis,1,08:00,10:30,E106,IF201424,Pengembangan Aplikasi Berbasis Web,B,3,Dosen IF-Bravo
-Kamis,1,08:00,10:30,E205,IF201413,Sistem Basis Data,B,3,Dosen IF-Delta
-Kamis,1,08:00,10:30,E304,BD201430,Manajemen Sosial Media,B,3,Dosen BD-Alpha
-Kamis,1,08:00,10:30,F102,IF201411,Jaringan Komputer,A,3,Dosen IF-Lima
-Kamis,1,08:00,10:30,F103,BD201411,Pengembangan UI/UX,C,3,Dosen BD-Bravo
-Kamis,1,08:00,10:30,F202,IF201513,Pemrograman Permainan Digital,A,3,Dosen IF-Golf
-Kamis,1,08:00,10:30,F301,SI201403,Manajemen dan Organisasi,A,3,Dosen SI-Hotel
-Kamis,1,08:00,10:30,F302,SI201414,Desain dan Manajemen Jaringan Komputer,B,4,Dosen SI-Bravo
-Kamis,1,08:00,10:30,F305,SI201423,Perencanaan Arsitektur Teknologi Informasi,B,3,Dosen SI-India
-Kamis,1,08:00,10:30,G204,BD201411,Pengembangan UI/UX,B,3,Dosen BD-Bravo
-Kamis,1,08:00,10:30,G302,SI201404,Pemrograman Terstruktur,B,3,Dosen SI-Mike
-Kamis,1,08:00,10:30,G303,BD201421,Manajemen Keuangan,A,3,Dosen BD-Bravo
-Kamis,1,08:00,10:30,G306,BD201433,Kecerdasan Bisnis,A,3,Dosen BD-Charlie
-Kamis,1,08:00,10:30,G307,TE201426,Sistem Komunikasi,A,4,Dosen TE-Echo
-Kamis,2,10:30,12:00,E101,TE201567,Otomasi Industri,A,2,Dosen TE-Victor
-Kamis,2,10:30,12:00,F203,TE201403,Matematika Diskrit,B,2,Dosen TE-Oscar
-Kamis,2,10:30,12:00,F204,BD201407,Sistem Basis Data,B,2,Dosen BD-Alpha
-Kamis,2,10:30,12:00,G104,IF201416,Wawasan Umum dan Gagasan Informatika,B,2,Dosen IF-Alpha
-Kamis,2,10:30,12:00,G307,BD201409,Manajemen Perubahan dan Transformasi Digital,C,2,Dosen BD-Foxtrot
-Kamis,3,13:00,15:30,E204,SI201415,Rekayasa Perangkat Lunak,A,4,Dosen SI-Mike
-Kamis,3,13:00,15:30,E306,SI201424,Keamanan Sistem Informasi,B,3,Dosen SI-Charlie
-Kamis,3,13:00,15:30,E307,TE201425,Desain Sistem Pengaturan,A,3,Dosen TE-Juliet
-Kamis,3,13:00,15:30,F104,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,A,3,Dosen SI-Lima
-Kamis,3,13:00,15:30,F105,BD201418,Pemasaran Digital,B,3,Dosen BD-Hotel
-Kamis,3,13:00,15:30,F301,IF201510,Manajemen Proyek TIK,A,3,Dosen IF-Alpha
-Kamis,3,13:00,15:30,F304,IF201423,Pengolahan Citra Digital,A,3,Dosen IF-India
-Kamis,3,13:00,15:30,F305,IF201504,Kecerdasan Web,A,3,Dosen IF-Bravo
-Kamis,3,13:00,15:30,F307,TE201576,Teknologi Kendaraan Cerdas,A,3,Dosen TE-Bravo
-Kamis,3,13:00,15:30,G101,IF201413,Sistem Basis Data,C,3,Dosen IF-Delta
-Kamis,3,13:00,15:30,G105,IF201414,Grafika Komputer,A,3,Dosen IF-Kilo
-Kamis,3,13:00,15:30,G205,BD201421,Manajemen Keuangan,B,3,Dosen BD-Bravo
-Kamis,3,13:00,15:30,G307,SI201425,Manajemen Layanan Teknologi Informasi,B,3,Dosen SI-India
-Kamis,4,15:30,17:00,F101,TE201403,Matematika Diskrit,A,2,Dosen TE-Oscar
-Kamis,4,15:30,17:00,F102,TE201417,Komunikasi Data,B,2,Dosen TE-Mike
-Kamis,4,15:30,17:00,F205,IF201416,Wawasan Umum dan Gagasan Informatika,A,2,Dosen IF-Alpha
-Kamis,4,15:30,17:00,F302,TE201563,Teknik Tegangan Tinggi,A,2,Dosen TE-Papa
-Kamis,4,15:30,17:00,F305,BD201432,Information Security,B,2,Dosen BD-Alpha
-Jumat,1,08:00,10:30,E103,SI201415,Rekayasa Perangkat Lunak,B,4,Dosen SI-Mike
-Jumat,1,08:00,10:30,E104,IF201403,Sistem Digital,C,3,Dosen IF-Kilo
-Jumat,1,08:00,10:30,E202,TE201425,Desain Sistem Pengaturan,B,3,Dosen TE-Juliet
-Jumat,1,08:00,10:30,F101,IF201424,Pengembangan Aplikasi Berbasis Web,A,3,Dosen IF-Bravo
-Jumat,1,08:00,10:30,F102,BD201433,Kecerdasan Bisnis,B,3,Dosen BD-Charlie
-Jumat,1,08:00,10:30,F203,SI201403,Manajemen dan Organisasi,B,3,Dosen SI-Hotel
-Jumat,1,08:00,10:30,F205,SI201535,Manajemen Sumber Daya Manusia,A,3,Dosen SI-Foxtrot
-Jumat,1,08:00,10:30,F307,IF201402,Matematika Diskrit,A,3,Dosen IF-Charlie
-Jumat,1,08:00,10:30,G104,IF201411,Jaringan Komputer,B,3,Dosen IF-Lima
-Jumat,1,08:00,10:30,G106,IF201412,Teori Graf dan Otomata,A,3,Dosen IF-Foxtrot
-Jumat,1,08:00,10:30,G303,BD201420,Pemrograman Aplikasi Perangkat Bergerak,B,3,Dosen BD-Golf
-Jumat,1,08:00,10:30,G305,IF201404,Pemrograman Berorientasi Objek,A,3,Dosen IF-Delta
-Jumat,1,08:00,10:30,G307,BD201410,Akuntansi Manajemen,B,3,Dosen BD-Echo
-Jumat,2,10:30,12:00,E303,TE201404,Material Teknik Elektro,C,2,Dosen TE-Delta
-Jumat,2,10:30,12:00,E304,TE201429,Metodologi Penelitian,A,2,Dosen TE-Quebec
-Jumat,2,10:30,12:00,E307,TE201428,Kecerdasan Buatan,A,2,Dosen TE-Victor
-Jumat,2,10:30,12:00,F103,TE201566,Manajemen Proyek,A,2,Dosen TE-Kilo
-Jumat,3,13:00,15:30,E103,BD201422,Manajemen Bisnis Proses,B,3,Dosen BD-Delta
-Jumat,3,13:00,15:30,E105,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,A,3,Dosen SI-Alpha
-Jumat,3,13:00,15:30,E204,BD201408,Sistem Informasi Akuntansi,A,3,Dosen BD-Charlie
-Jumat,3,13:00,15:30,E205,TE201414,Rangkaian Elektronika II,A,3,Dosen TE-Uniform
-Jumat,3,13:00,15:30,E306,SI201404,Pemrograman Terstruktur,A,3,Dosen SI-Mike
-Jumat,3,13:00,15:30,F202,SI201411,Kecerdasan Bisnis,A,3,Dosen SI-Oscar
-Jumat,3,13:00,15:30,F301,IF201514,Kapita Selekta,A,3,Dosen IF-Alpha
-Jumat,3,13:00,15:30,F302,IF201412,Teori Graf dan Otomata,B,3,Dosen IF-Foxtrot
-Jumat,3,13:00,15:30,F303,IF201410,Perancangan dan Analisis Algoritme,B,3,Dosen IF-Echo
-Jumat,3,13:00,15:30,F306,TE201416,Sinyal dan Sistem,A,3,Dosen TE-Romeo
-Jumat,3,13:00,15:30,G102,TE201413,Medan Elektromagnetik,A,4,Dosen TE-November
-Jumat,3,13:00,15:30,G204,IF201415,Analisis dan Perancangan Perangkat Lunak,B,3,Dosen IF-India
-Jumat,4,15:30,17:00,E104,TE201415,Arsitektur dan Organisasi Sistem Komputer,A,2,Dosen TE-Charlie
-Jumat,4,15:30,17:00,E306,TE201578,Sistem Komunikasi Serat Optik,A,2,Dosen TE-Kilo
-Jumat,4,15:30,17:00,G101,TE201404,Material Teknik Elektro,B,2,Dosen TE-Delta
-Jumat,4,15:30,17:00,G305,BD201407,Sistem Basis Data,C,2,Dosen BD-Alpha
-=======
-day,session,start,end,room,kode_mk,nama,paralel,sks,dosen
-Senin,1,08:00,10:30,R1,SI201422,Sistem Cerdas Pendukung Keputusan,2,3,Dosen SI-Foxtrot
-Senin,1,08:00,10:30,R12,BD201423,Manajemen Produk,1,3,Dosen BD-Charlie
-Senin,1,08:00,10:30,R16,BD201429,Manajemen Strategi,2,3,Dosen BD-Delta
-Senin,1,08:00,10:30,R17,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,2,3,Dosen SI-Lima
-Senin,1,08:00,10:30,R18,SI201404,Pemrograman Terstruktur,1,3,Dosen SI-Mike
-Senin,1,08:00,10:30,R18,IF201510,Manajemen Proyek TIK,1,3,Dosen IF-Alpha
-Senin,1,08:00,10:30,R3,SI201424,Keamanan Sistem Informasi,2,3,Dosen SI-Charlie
-Senin,1,08:00,10:30,R4,SI201425,Manajemen Layanan Teknologi Informasi,2,3,Dosen SI-India
-Senin,1,08:00,10:30,R5,IF201403,Sistem Digital,1,3,Dosen IF-Kilo
-Senin,1,08:00,10:30,R6,IF201402,Matematika Diskrit,2,3,Dosen IF-Charlie
-Senin,1,08:00,10:30,R7,SI201540,Komputasi Awan,1,3,Dosen SI-Echo
-Senin,1,08:00,10:30,R7,BD201421,Manajemen Keuangan,1,3,Dosen BD-Bravo
-Senin,1,08:00,10:30,R9,IF201404,Pemrograman Berorientasi Objek,2,3,Dosen IF-Delta
-Senin,2,10:30,12:00,R12,IF201426,Startup Digital Lanjut,1,2,Dosen IF-Delta
-Senin,2,10:30,12:00,R15,TE201403,Matematika Diskrit,3,2,Dosen TE-Oscar
-Senin,2,10:30,12:00,R2,TE201417,Komunikasi Data,1,2,Dosen TE-Mike
-Senin,2,10:30,12:00,R5,TE201578,Sistem Komunikasi Serat Optik,1,2,Dosen TE-Kilo
-Senin,2,10:30,12:00,R7,TE201404,Material Teknik Elektro,2,2,Dosen TE-Delta
-Senin,2,10:30,12:00,R8,TE201428,Kecerdasan Buatan,2,2,Dosen TE-Victor
-Senin,3,13:00,15:30,R10,BD201410,Akuntansi Manajemen,3,3,Dosen BD-Echo
-Senin,3,13:00,15:30,R11,IF201424,Pengembangan Aplikasi Berbasis Web,1,3,Dosen IF-Bravo
-Senin,3,13:00,15:30,R14,SI201412,Pemrograman Web,2,3,Dosen SI-Juliet
-Senin,3,13:00,15:30,R17,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,1,3,Dosen SI-Alpha
-Senin,3,13:00,15:30,R18,BD201421,Manajemen Keuangan,2,3,Dosen BD-Bravo
-Senin,3,13:00,15:30,R3,TE201413,Medan Elektromagnetik,2,4,Dosen TE-November
-Senin,3,13:00,15:30,R4,TE201427,Sistem Mikroprosesor dan Mikrokontroler,1,3,Dosen TE-Charlie
-Senin,3,13:00,15:30,R5,BD201419,Manajemen Rantai Pasok,2,3,Dosen BD-Alpha
-Senin,3,13:00,15:30,R6,IF201402,Matematika Diskrit,3,3,Dosen IF-Charlie
-Senin,3,13:00,15:30,R7,IF201413,Sistem Basis Data,2,3,Dosen IF-Delta
-Senin,3,13:00,15:30,R9,TE201412,Rangkaian Listrik II,1,3,Dosen TE-November
-Senin,3,13:00,15:30,R9,BD201433,Kecerdasan Bisnis,2,3,Dosen BD-Charlie
-Senin,4,15:30,17:00,R4,TE201403,Matematika Diskrit,1,2,Dosen TE-Oscar
-Selasa,1,08:00,10:30,R1,BD201420,Pemrograman Aplikasi Perangkat Bergerak,2,3,Dosen BD-Golf
-Selasa,1,08:00,10:30,R10,TE201416,Sinyal dan Sistem,2,3,Dosen TE-Romeo
-Selasa,1,08:00,10:30,R12,BD201411,Pengembangan UI/UX,1,3,Dosen BD-Bravo
-Selasa,1,08:00,10:30,R13,TE201414,Rangkaian Elektronika II,2,3,Dosen TE-Uniform
-Selasa,1,08:00,10:30,R13,IF201425,Pemelajaran Mesin,2,3,Dosen IF-Hotel
-Selasa,1,08:00,10:30,R16,IF201414,Grafika Komputer,2,3,Dosen IF-Kilo
-Selasa,1,08:00,10:30,R18,SI201415,Rekayasa Perangkat Lunak,1,4,Dosen SI-Mike
-Selasa,1,08:00,10:30,R2,IF201402,Matematika Diskrit,1,3,Dosen IF-Charlie
-Selasa,1,08:00,10:30,R4,TE201414,Rangkaian Elektronika II,1,3,Dosen TE-Uniform
-Selasa,1,08:00,10:30,R4,TE201425,Desain Sistem Pengaturan,1,3,Dosen TE-Juliet
-Selasa,1,08:00,10:30,R5,SI201403,Manajemen dan Organisasi,2,3,Dosen SI-Hotel
-Selasa,1,08:00,10:30,R5,IF201415,Analisis dan Perancangan Perangkat Lunak,2,3,Dosen IF-India
-Selasa,1,08:00,10:30,R6,IF201503,Komputasi Evolusioner,1,3,Dosen IF-Golf
-Selasa,2,10:30,12:00,R2,TE201415,Arsitektur dan Organisasi Sistem Komputer,1,2,Dosen TE-Charlie
-Selasa,2,10:30,12:00,R5,BD201432,Information Security,1,2,Dosen BD-Alpha
-Selasa,3,13:00,15:30,R1,IF201413,Sistem Basis Data,3,3,Dosen IF-Delta
-Selasa,3,13:00,15:30,R10,TE201576,Teknologi Kendaraan Cerdas,1,3,Dosen TE-Bravo
-Selasa,3,13:00,15:30,R15,BD201420,Pemrograman Aplikasi Perangkat Bergerak,1,3,Dosen BD-Golf
-Selasa,3,13:00,15:30,R2,BD201406,Manajemen Pemasaran,3,3,Dosen BD-India
-Selasa,3,13:00,15:30,R4,SI201411,Kecerdasan Bisnis,2,3,Dosen SI-Oscar
-Selasa,3,13:00,15:30,R4,BD201423,Manajemen Produk,2,3,Dosen BD-Charlie
-Selasa,3,13:00,15:30,R5,SI201425,Manajemen Layanan Teknologi Informasi,1,3,Dosen SI-India
-Selasa,3,13:00,15:30,R6,IF201506,Sains Data,1,3,Dosen IF-Mike
-Selasa,3,13:00,15:30,R7,IF201511,Tata Kelola Teknologi Informasi,1,3,Dosen IF-Foxtrot
-Selasa,3,13:00,15:30,R8,BD201418,Pemasaran Digital,2,3,Dosen BD-Hotel
-Selasa,4,15:30,17:00,R10,TE201415,Arsitektur dan Organisasi Sistem Komputer,2,2,Dosen TE-Charlie
-Selasa,4,15:30,17:00,R15,TE201551,Kapita Selekta,1,2,Dosen TE-Bravo
-Selasa,4,15:30,17:00,R17,BD201407,Sistem Basis Data,1,2,Dosen BD-Alpha
-Rabu,1,08:00,10:30,R1,SI201416,Perencanaan Manajemen Proyek Teknologi Informasi,2,3,Dosen SI-Alpha
-Rabu,1,08:00,10:30,R10,IF201423,Pengolahan Citra Digital,1,3,Dosen IF-India
-Rabu,1,08:00,10:30,R11,IF201424,Pengembangan Aplikasi Berbasis Web,2,3,Dosen IF-Bravo
-Rabu,1,08:00,10:30,R12,IF201512,Teknologi IoT,1,3,Dosen IF-Kilo
-Rabu,1,08:00,10:30,R13,BD201434,Manajemen Proyek,1,3,Dosen BD-Delta
-Rabu,1,08:00,10:30,R15,IF201410,Perancangan dan Analisis Algoritme,1,3,Dosen IF-Echo
-Rabu,1,08:00,10:30,R16,BD201431,Metodologi Penelitian Bisnis Umum,2,4,Dosen BD-Golf
-Rabu,1,08:00,10:30,R17,SI201734,Tugas Akhir,1,4,Dosen SI-Delta
-Rabu,1,08:00,10:30,R18,IF201411,Jaringan Komputer,2,3,Dosen IF-Lima
-Rabu,1,08:00,10:30,R4,BD201430,Manajemen Sosial Media,2,3,Dosen BD-Alpha
-Rabu,1,08:00,10:30,R6,TE201412,Rangkaian Listrik II,2,3,Dosen TE-November
-Rabu,1,08:00,10:30,R9,SI201424,Keamanan Sistem Informasi,1,3,Dosen SI-Charlie
-Rabu,2,10:30,12:00,R10,TE201569,Sistem Pengendalian Mesin Listrik,1,2,Dosen TE-Foxtrot
-Rabu,2,10:30,12:00,R13,TE201428,Kecerdasan Buatan,1,2,Dosen TE-Victor
-Rabu,2,10:30,12:00,R15,IF201416,Wawasan Umum dan Gagasan Informatika,1,2,Dosen IF-Alpha
-Rabu,2,10:30,12:00,R17,SI201426,Inovasi dan Transformasi Digital,2,2,Dosen SI-Kilo
-Rabu,2,10:30,12:00,R2,BD201409,Manajemen Perubahan dan Transformasi Digital,3,2,Dosen BD-Foxtrot
-Rabu,3,13:00,15:30,R1,BD201429,Manajemen Strategi,1,3,Dosen BD-Delta
-Rabu,3,13:00,15:30,R11,SI201546,Perencanaan Sumberdaya Perusahaan,1,3,Dosen SI-India
-Rabu,3,13:00,15:30,R12,TE201731,Tugas Akhir,1,6,"Dosen TE-Golf, Dosen TE-Papa"
-Rabu,3,13:00,15:30,R14,BD201433,Kecerdasan Bisnis,1,3,Dosen BD-Charlie
-Rabu,3,13:00,15:30,R16,SI201413,Desain Interaksi Antarmuka dan Pengalaman Pengguna,1,3,Dosen SI-Lima
-Rabu,3,13:00,15:30,R17,TE201574,Elektronika Pencegahan Bencana,1,3,Dosen TE-Romeo
-Rabu,3,13:00,15:30,R4,BD201406,Manajemen Pemasaran,2,3,Dosen BD-India
-Rabu,3,13:00,15:30,R5,IF201415,Analisis dan Perancangan Perangkat Lunak,1,3,Dosen IF-India
-Rabu,3,13:00,15:30,R6,IF201411,Jaringan Komputer,1,3,Dosen IF-Lima
-Rabu,3,13:00,15:30,R7,IF201412,Teori Graf dan Otomata,1,3,Dosen IF-Foxtrot
-Rabu,4,15:30,17:00,R14,TE201563,Teknik Tegangan Tinggi,1,2,Dosen TE-Papa
-Rabu,4,15:30,17:00,R3,SI201426,Inovasi dan Transformasi Digital,1,2,Dosen SI-Kilo
-Rabu,4,15:30,17:00,R9,TE201559,Kualitas Daya Listrik,1,2,Dosen TE-Juliet
-Kamis,1,08:00,10:30,R1,TE201426,Sistem Komunikasi,2,4,Dosen TE-Echo
-Kamis,1,08:00,10:30,R1,SI201404,Pemrograman Terstruktur,2,3,Dosen SI-Mike
-Kamis,1,08:00,10:30,R10,BD201422,Manajemen Bisnis Proses,1,3,Dosen BD-Delta
-Kamis,1,08:00,10:30,R11,IF201423,Pengolahan Citra Digital,2,3,Dosen IF-India
-Kamis,1,08:00,10:30,R13,TE201425,Desain Sistem Pengaturan,2,3,Dosen TE-Juliet
-Kamis,1,08:00,10:30,R14,SI201545,Penggalian Sosial Media,1,3,Dosen SI-Hotel
-Kamis,1,08:00,10:30,R15,SI201550,Kecerdasan Proses Bisnis,1,3,Dosen SI-Lima
-Kamis,1,08:00,10:30,R16,TE201583,Aplikasi Komputer Bergerak,1,3,Dosen TE-Hotel
-Kamis,1,08:00,10:30,R17,BD201422,Manajemen Bisnis Proses,2,3,Dosen BD-Delta
-Kamis,1,08:00,10:30,R18,IF201414,Grafika Komputer,1,3,Dosen IF-Kilo
-Kamis,1,08:00,10:30,R4,BD201411,Pengembangan UI/UX,3,3,Dosen BD-Bravo
-Kamis,1,08:00,10:30,R6,TE201427,Sistem Mikroprosesor dan Mikrokontroler,2,3,Dosen TE-Charlie
-Kamis,1,08:00,10:30,R8,SI201422,Sistem Cerdas Pendukung Keputusan,1,3,Dosen SI-Foxtrot
-Kamis,2,10:30,12:00,R11,SI201632,Kerja Praktek,1,2,Dosen SI-Hotel
-Kamis,2,10:30,12:00,R3,TE201417,Komunikasi Data,2,2,Dosen TE-Mike
-Kamis,2,10:30,12:00,R5,TE201566,Manajemen Proyek,1,2,Dosen TE-Kilo
-Kamis,2,10:30,12:00,R6,BD201432,Information Security,2,2,Dosen BD-Alpha
-Kamis,3,13:00,15:30,R1,SI201415,Rekayasa Perangkat Lunak,2,4,Dosen SI-Mike
-Kamis,3,13:00,15:30,R1,BD201410,Akuntansi Manajemen,1,3,Dosen BD-Echo
-Kamis,3,13:00,15:30,R10,IF201413,Sistem Basis Data,1,3,Dosen IF-Delta
-Kamis,3,13:00,15:30,R10,BD201408,Sistem Informasi Akuntansi,1,3,Dosen BD-Charlie
-Kamis,3,13:00,15:30,R11,IF201425,Pemelajaran Mesin,1,3,Dosen IF-Hotel
-Kamis,3,13:00,15:30,R11,BD201411,Pengembangan UI/UX,2,3,Dosen BD-Bravo
-Kamis,3,13:00,15:30,R13,BD201431,Metodologi Penelitian Bisnis Umum,1,4,Dosen BD-Golf
-Kamis,3,13:00,15:30,R14,SI201414,Desain dan Manajemen Jaringan Komputer,2,4,Dosen SI-Bravo
-Kamis,3,13:00,15:30,R15,SI201403,Manajemen dan Organisasi,1,3,Dosen SI-Hotel
-Kamis,3,13:00,15:30,R17,TE201424,Konversi Energi Listrik,2,3,Dosen TE-Victor
-Kamis,3,13:00,15:30,R17,IF201403,Sistem Digital,2,3,Dosen IF-Kilo
-Kamis,3,13:00,15:30,R18,TE201426,Sistem Komunikasi,1,4,Dosen TE-Echo
-Kamis,3,13:00,15:30,R2,IF201403,Sistem Digital,3,3,Dosen IF-Kilo
-Kamis,3,13:00,15:30,R4,SI201423,Perencanaan Arsitektur Teknologi Informasi,2,3,Dosen SI-India
-Kamis,3,13:00,15:30,R7,BD201430,Manajemen Sosial Media,1,3,Dosen BD-Alpha
-Kamis,3,13:00,15:30,R8,IF201514,Kapita Selekta,1,3,Dosen IF-Alpha
-Kamis,3,13:00,15:30,R9,IF201412,Teori Graf dan Otomata,2,3,Dosen IF-Foxtrot
-Kamis,4,15:30,17:00,R18,IF201416,Wawasan Umum dan Gagasan Informatika,2,2,Dosen IF-Alpha
-Kamis,4,15:30,17:00,R2,IF201426,Startup Digital Lanjut,2,2,Dosen IF-Delta
-Kamis,4,15:30,17:00,R9,BD201409,Manajemen Perubahan dan Transformasi Digital,2,2,Dosen BD-Foxtrot
-Jumat,1,08:00,10:30,R1,SI201414,Desain dan Manajemen Jaringan Komputer,1,4,Dosen SI-Bravo
-Jumat,1,08:00,10:30,R1,IF201404,Pemrograman Berorientasi Objek,1,3,Dosen IF-Delta
-Jumat,1,08:00,10:30,R10,BD201506,Manajemen Risiko Bisnis,1,3,Dosen BD-Bravo
-Jumat,1,08:00,10:30,R11,SI201412,Pemrograman Web,1,3,Dosen SI-Juliet
-Jumat,1,08:00,10:30,R13,BD201406,Manajemen Pemasaran,1,3,Dosen BD-India
-Jumat,1,08:00,10:30,R15,IF201504,Kecerdasan Web,1,3,Dosen IF-Bravo
-Jumat,1,08:00,10:30,R17,TE201423,Teknologi Transduser,2,3,Dosen TE-November
-Jumat,1,08:00,10:30,R18,BD201507,Internet of Things,1,3,Dosen BD-Charlie
-Jumat,1,08:00,10:30,R2,TE201413,Medan Elektromagnetik,1,4,Dosen TE-November
-Jumat,1,08:00,10:30,R3,TE201423,Teknologi Transduser,1,3,Dosen TE-November
-Jumat,1,08:00,10:30,R7,BD201418,Pemasaran Digital,1,3,Dosen BD-Hotel
-Jumat,1,08:00,10:30,R8,BD201419,Manajemen Rantai Pasok,1,3,Dosen BD-Alpha
-Jumat,2,10:30,12:00,R16,BD201409,Manajemen Perubahan dan Transformasi Digital,1,2,Dosen BD-Foxtrot
-Jumat,2,10:30,12:00,R2,SI201733,Proposal Tugas Akhir,1,2,Dosen SI-Papa
-Jumat,2,10:30,12:00,R3,BD201407,Sistem Basis Data,2,2,Dosen BD-Alpha
-Jumat,2,10:30,12:00,R6,TE201567,Otomasi Industri,1,2,Dosen TE-Victor
-Jumat,2,10:30,12:00,R7,TE201429,Metodologi Penelitian,1,2,Dosen TE-Quebec
-Jumat,2,10:30,12:00,R8,TE201404,Material Teknik Elektro,3,2,Dosen TE-Delta
-Jumat,3,13:00,15:30,R10,TE201586,Visi Komputer,1,3,Dosen TE-Echo
-Jumat,3,13:00,15:30,R10,IF201404,Pemrograman Berorientasi Objek,3,3,Dosen IF-Delta
-Jumat,3,13:00,15:30,R12,SI201411,Kecerdasan Bisnis,1,3,Dosen SI-Oscar
-Jumat,3,13:00,15:30,R12,BD201408,Sistem Informasi Akuntansi,2,3,Dosen BD-Charlie
-Jumat,3,13:00,15:30,R13,BD201434,Manajemen Proyek,2,3,Dosen BD-Delta
-Jumat,3,13:00,15:30,R14,BD201410,Akuntansi Manajemen,2,3,Dosen BD-Echo
-Jumat,3,13:00,15:30,R15,IF201508,Penjaminan Mutu Perangkat Lunak,1,3,Dosen IF-Bravo
-Jumat,3,13:00,15:30,R16,IF201513,Pemrograman Permainan Digital,1,3,Dosen IF-Golf
-Jumat,3,13:00,15:30,R17,TE201424,Konversi Energi Listrik,1,3,Dosen TE-Victor
-Jumat,3,13:00,15:30,R3,TE201416,Sinyal dan Sistem,1,3,Dosen TE-Romeo
-Jumat,3,13:00,15:30,R4,BD201408,Sistem Informasi Akuntansi,3,3,Dosen BD-Charlie
-Jumat,3,13:00,15:30,R5,IF201410,Perancangan dan Analisis Algoritme,2,3,Dosen IF-Echo
-Jumat,3,13:00,15:30,R6,SI201423,Perencanaan Arsitektur Teknologi Informasi,1,3,Dosen SI-India
-Jumat,3,13:00,15:30,R7,SI201535,Manajemen Sumber Daya Manusia,1,3,Dosen SI-Foxtrot
-Jumat,3,13:00,15:30,R7,IF201505,Deep Learning,1,3,Dosen IF-Alpha
-Jumat,3,13:00,15:30,R8,TE201577,Jaringan Akses Nirkabel,1,3,Dosen TE-Foxtrot
-Jumat,3,13:00,15:30,R9,BD201601,Tugas Akhir,1,6,Dosen BD-Foxtrot
-Jumat,4,15:30,17:00,R10,TE201403,Matematika Diskrit,2,2,Dosen TE-Oscar
-Jumat,4,15:30,17:00,R17,TE201404,Material Teknik Elektro,1,2,Dosen TE-Delta
-Jumat,4,15:30,17:00,R17,BD201407,Sistem Basis Data,3,2,Dosen BD-Alpha
->>>>>>> 2c91b92f8c3fde510e0fc9fbcc811645111d450b
+Senin,1,08:00,10:30,E102,BD2515040,Manajemen Hubungan Pelanggan,A,3,"Khairunnisa Rahmah, S.E., M.M."
+Senin,1,08:00,10:30,E103,TE2514017,Sistem Tenaga Listrik,B,3,"Firilia Filiana, S.T., M.T."
+Senin,1,08:00,10:30,E203,FI2515103,Fisika Kesehatan dan Proteksi Radiasi,A,3,"Dr. Swastya Rahastama, S.Si., M.Si."
+Senin,1,08:00,10:30,E301,MA2515037,Riset Operasi II,X,3,"Yanuar Bhakti Wira Tama, M.Si."
+Senin,1,08:00,10:30,E305,AK2514012,Model Linier,A,3,"Indrawan, S.Pd. M.Si."
+Senin,1,08:00,10:30,F103,TE2514005,Elektromagnetika,C,3,"Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D."
+Senin,1,08:00,10:30,F105,IF2514506,Pemrograman Fungsional,A,3,"Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
+Senin,1,08:00,10:30,F201,BD2514003,Ekonomi,B,3,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Senin,1,08:00,10:30,F202,AK2515008,Pemodelan Keuangan Derivatif,A,3,"Isti Kamila, S.Pd., M.Si."
+Senin,1,08:00,10:30,F203,IF2514704,Pengembangan Aplikasi Perangkat Bergerak,A,3,"Rizal Kusuma Putra, M.T."
+Senin,1,08:00,10:30,F204,BD2514024,Manajemen Rantai Pasok,B,3,"Eka Krisna Santoso, S.Si, MBA"
+Senin,1,08:00,10:30,F301,BD2514022,Analisis Data Multivariat,B,3,"Muh Ikhsan Alif. S. S.E., M.Sc."
+Senin,1,08:00,10:30,F302,SI2514035,Audit Sistem Informasi,A,3,"Dwi Nur Amalia, S.Kom., M.Kom."
+Senin,1,08:00,10:30,G105,MA2514008,Riset Operasi I,A,3,"Dr. Retno Wahyu Dewanti, S.Si., M.Si."
+Senin,1,08:00,10:30,G203,IF2514303,Sistem Operasi,A,3,"Darmansyah, S.Si., M.T.I"
+Senin,1,08:00,10:30,G301,TE2514029,Robotika,A,3,"Muhammad Agung Nursyeha, S.T., M.T."
+Senin,1,08:00,10:30,G302,ST2514011,Desain Eksperimen,A,3,"Yumna Aqila Kaltsum, S.Si., M.Stat."
+Senin,1,08:00,10:30,G304,FI2514519,Fisika Kuantum,A,3,"Agus Rifani, S.Si., M.Si."
+Senin,1,08:00,10:30,G305,IF2514701,Capstone Project,A,3,"Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+Senin,2,10:30,12:00,E102,MA2514006,Kalkulus Peubah Banyak,A,2,"Winarni, S.Si., M.Si."
+Senin,2,10:30,12:00,E105,TE2514001,Aljabar Linear,B,2,"Muhammad Ridho Dewanto, S.T., M.T."
+Senin,2,10:30,12:00,E106,MA2515029,Pengantar Geometri Diferensial,A,2,"Adam, S.Si., M.Si."
+Senin,2,10:30,12:00,E204,IF2515102,Keamanan Siber,X,2,"Darmansyah, S.Si., M.T.I"
+Senin,2,10:30,12:00,E205,RK2514012,Dasar Simulasi dan Komputasi Keselamatan,B,2,"Aninditya Anggari Nuryono, S.T., M.Eng."
+Senin,2,10:30,12:00,E304,SI2514023,Perencanaan Strategis Sistem Informasi,A,2,"Yuyun Tri Wiranti, S.Kom., M.MT."
+Senin,2,10:30,12:00,F101,FI2515213,Semikonduktor,A,2,"Fadli Robiandi, S.Si., M.Si."
+Senin,2,10:30,12:00,F104,IF2514501,Desain Web,B,2,"Rizal Kusuma Putra, M.T."
+Senin,2,10:30,12:00,F104,SI2514012,Pemrograman Lanjut,B,2,"Arif Wicaksono Septyanto, M.Kom."
+Senin,2,10:30,12:00,F202,IF2514503,Implementasi dan Pengujian Perangkat Lunak,B,2,"Nur Fajri Azhar S.Kom., M.Kom."
+Senin,2,10:30,12:00,F203,TE2514024,Pengolahan Sinyal Digital,A,2,"Muhammad Agung Nursyeha, S.T., M.T."
+Senin,2,10:30,12:00,F301,SI2514027,Komputasi Awan,B,2,"Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+Senin,2,10:30,12:00,F303,BD2514018,Manajemen Risiko,A,2,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Senin,2,10:30,12:00,F304,IF2515404,Visi Komputer,A,2,"Rizky Amelia, S.Si., M.Han."
+Senin,2,10:30,12:00,F305,SI2515044,Manajemen Kualitas SI,X,2,Dwi Arief Prambudi M.Kom.
+Senin,2,10:30,12:00,G103,SI2514013,Statistika Sistem Informasi,A,2,"Nursanti Novi Arisa, M.Kom."
+Senin,2,10:30,12:00,G103,TE2514023,Manajemen Proyek dan Keselamatan Kerja,B,2,"Andhika Giyantara, S.T., M.T."
+Senin,2,10:30,12:00,G104,TE2514026,Metodologi Penelitian,A,2,"Thorikul Huda, S.T., M.T."
+Senin,2,10:30,12:00,G205,IF2514504,Manajemen Basis Data,C,2,"Bowo Nugroho, S.Kom., M.Eng."
+Senin,3,13:00,15:30,E101,SI2514009,Matematika Diskrit 2,A,3,"Henokh Lugo Hariyanto, M.Sc."
+Senin,3,13:00,15:30,E102,SI2514023,Perencanaan Strategis Sistem Informasi,B,3,"Yuyun Tri Wiranti, S.Kom., M.MT."
+Senin,3,13:00,15:30,E202,TE2514019,Elektronika Daya,A,3,"Happy Aprillia, S.ST., M.T., M.Eng., Ph.D."
+Senin,3,13:00,15:30,E204,AK2515006,Teori Dana Pensiun,A,3,"Eli Zulkatri, M.Aktr"
+Senin,3,13:00,15:30,E205,IF2514302,Pengantar Kecerdasan Artifisial,A,3,"Bima Prihasto, S.Si., M.Si., Ph.D."
+Senin,3,13:00,15:30,E302,ST2514027,Teknik Simulasi,A,3,"Kevin Agung Fernanda Rifki, S.Stat, M.Stat"
+Senin,3,13:00,15:30,E303,BD2514002,Pengantar Bisnis Digital,C,3,"Eka Krisna Santoso, S.Si, MBA"
+Senin,3,13:00,15:30,F303,TE2514021,Komunikasi Nirkabel,B,3,"Amalia Rizqi Utami, S.T., M.T."
+Senin,3,13:00,15:30,F304,AK2514025,Teori Risiko Aktuaria 2,A,3,"Muhammad Azka, S.Si., M.Sc."
+Senin,3,13:00,15:30,F305,SI2514030,Tata Kelola dan Manajemen TI,A,3,"Hendy Indrawan Sunardi S.Kom, M.Eng."
+Senin,3,13:00,15:30,G102,ST2514019,Analisis Survival,B,3,"Riki Herliansyah, S.Si., M.Stats., Ph.D."
+Senin,3,13:00,15:30,G202,FI2514307,Mekanika Klasik 2,A,3,"Fadli Robiandi, S.Si., M.Si."
+Senin,3,13:00,15:30,G202,SI2514034,Pengantar Manajemen Risiko,A,3,"I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+Senin,3,13:00,15:30,G203,IF2514103,Sistem Digital,B,3,"Boby Mugi Pratama, S.Si., M.Han."
+Senin,3,13:00,15:30,G204,BD2514014,Perilaku Konsumen,B,3,"Agung Prabowo, S.E, . M.M."
+Senin,3,13:00,15:30,G301,ST2514022,Pengantar Ekonometrika,A,3,"Mega Silfiani, S.Si., M.Si., M.Sc."
+Senin,3,13:00,15:30,G302,TE2514015,Sistem Komunikasi,A,3,"Amalia Rizqi Utami, S.T., M.T."
+Senin,3,13:00,15:30,G303,SI2514020,Penggalian Data,A,3,"Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+Senin,3,13:00,15:30,G304,TE2514017,Sistem Tenaga Listrik,A,3,"Firilia Filiana, S.T., M.T."
+Senin,3,13:00,15:30,G307,BD2514012,Akuntansi Manajerial,X,3,"Deli Yansyah, S.E., M.Acc., Ak., CA"
+Senin,4,15:30,17:00,E102,MA2514002,Geometri Analitik,A,2,"Dr. Moh. Januar Ismail Burhan, S.Si., M.Si."
+Senin,4,15:30,17:00,F203,TE2514004,Rangkaian Listrik DC,B,2,"Riza Hadi Saputra, S.T., M.T."
+Senin,4,15:30,17:00,F204,SI2514027,Komputasi Awan,A,2,"Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+Senin,4,15:30,17:00,G101,BD2514002,Pengantar Bisnis Digital,B,2,"Eka Krisna Santoso, S.Si, MBA"
+Senin,4,15:30,17:00,G106,ST2515007,Statistika Kebencanaan,X,2,"Kevin Agung Fernanda Rifki, S.Stat, M.Stat"
+Senin,4,15:30,17:00,G304,IF2514305,Struktur Data,C,2,"Bowo Nugroho, S.Kom., M.Eng."
+Senin,4,15:30,17:00,G305,FI2514521,Eksperimen Fisika,A,2,"Febrian Dedi Sastrawan, S.Si., M.Sc."
+Selasa,1,08:00,10:30,E103,SI2514004,Matematika Diskrit 1,C,3,"Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+Selasa,1,08:00,10:30,E202,SI2514015,Interaksi Manusia dan Komputer,A,3,"Sri Rahayu Natasia, S. Komp., M.Si."
+Selasa,1,08:00,10:30,E307,BD2514036,Studi Kelayakan Bisnis,A,3,"Eka Krisna Santoso, S.Si, MBA"
+Selasa,1,08:00,10:30,F105,TE2514010,Rangkaian dan Piranti Semikonduktor,A,3,"Muhammad Agung Nursyeha, S.T., M.T."
+Selasa,1,08:00,10:30,F203,TE2514019,Elektronika Daya,B,3,"Firilia Filiana, S.T., M.T."
+Selasa,1,08:00,10:30,F205,BD2514004,Manajemen Organisasi,B,3,"Khairunnisa Rahmah, S.E., M.M."
+Selasa,1,08:00,10:30,F305,AK2514024,Akuntansi,X,3,"Alvianus Kristian Sumual, S.E., M.E"
+Selasa,1,08:00,10:30,G201,MA2514026,Matematika Industri Lingkungan,A,3,"Kartika Nugraheni, S.Si., M.Si."
+Selasa,1,08:00,10:30,G203,SI2514010,Basis Data,B,3,"Arif Wicaksono Septyanto, M.Kom."
+Selasa,1,08:00,10:30,G204,FI2514417,Optik,A,3,Meidi Arisalwadi S.Si. M.Si.
+Selasa,1,08:00,10:30,G301,FI2514101,Metode Pengukuran dan Analisis Data,A,3,"Dian Mart Shoodiqin, S.Si., M.Si."
+Selasa,1,08:00,10:30,G306,SI2514014,Desain Proses Bisnis,B,3,"Dwi Nur Amalia, S.Kom., M.Kom."
+Selasa,1,08:00,10:30,G307,TE2514011,Sinyal dan Sistem,B,3,"Risty Jayanti Yuniar, S.T., M.T."
+Selasa,2,10:30,12:00,E102,TE2515010,Kualitas Daya Listrik,A,2,"Yun Tonce Kusuma Priyanto, S.T., M.T."
+Selasa,2,10:30,12:00,E103,AK2514002,Ekonomi Mikro,A,2,"Alvianus Kristian Sumual, M.E"
+Selasa,2,10:30,12:00,E205,FI2514306,Fisika Matematika 1,A,2,"Harrys Samosir, M.Sc."
+Selasa,2,10:30,12:00,E301,AK2514024,Akuntansi,A,2,"Alvianus Kristian Sumual, S.E., M.E."
+Selasa,2,10:30,12:00,E305,TE2514004,Rangkaian Listrik DC,A,2,"Aninditya Anggari Nuryono, S.T., M.Eng."
+Selasa,2,10:30,12:00,E306,BD2514002,Pengantar Bisnis Digital,A,2,"Eka Krisna Santoso, S.Si, MBA"
+Selasa,2,10:30,12:00,F103,MA2515040,Sistem Dinamika Kontinu,A,2,"Kartika Nugraheni, S.Si., M.Si."
+Selasa,2,10:30,12:00,F105,SI2514026,Perencanaan Arsitektur Teknologi Informasi,B,2,"Hendy Indrawan Sunardi S.Kom, M.Eng."
+Selasa,2,10:30,12:00,F202,BD2514004,Manajemen Organisasi,A,2,"Khairunnisa Rahmah, S.E., M.M."
+Selasa,2,10:30,12:00,F205,FI2515324,Fisika Batuan,A,2,Meidi Arisalwadi S.Si. M.Si.
+Selasa,2,10:30,12:00,F301,SI2514002,Manajemen dan Organisasi,B,2,"Yuyun Tri Wiranti, S.Kom., M.MT."
+Selasa,2,10:30,12:00,G105,TE2514025,Wireless Sensor Networks dan Internet of Things,A,2,"Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D."
+Selasa,2,10:30,12:00,G106,AK2514006,Metode Numerik,A,2,"Nurul Maqfirah Rauf, M.Mat."
+Selasa,2,10:30,12:00,G203,TE2514006,Persamaan Diferensial,C,2,"Yun Tonce Kusuma Priyanto, S.T., M.T."
+Selasa,2,10:30,12:00,G204,IF2514502,Interaksi Manusia dan Komputer,C,2,"Nisa Rizqiya Fadhliana, S.Kom., M.T."
+Selasa,2,10:30,12:00,G302,AK2514029,Metodologi Penelitian,A,2,"Muhammad Azka, S.Si., M.Sc."
+Selasa,2,10:30,12:00,G306,TE2514004,Rangkaian Listrik DC,C,2,"Thorikul Huda, S.T., M.T."
+Selasa,3,13:00,15:30,E101,BD2514013,Design Thinking Inovasi,A,3,"Eka Krisna Santoso, S.Si, MBA"
+Selasa,3,13:00,15:30,E102,BD2514003,Ekonomi,A,3,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Selasa,3,13:00,15:30,E103,TE2514011,Sinyal dan Sistem,A,3,"Risty Jayanti Yuniar, S.T., M.T."
+Selasa,3,13:00,15:30,E202,ST2514006,Analisis Regresi,A,3,"Farida Nur Hayati, S.Si., M.Stat."
+Selasa,3,13:00,15:30,E301,BD2514025,Valuasi Bisnis,A,3,"Deli Yansyah, S.E., M.Acc., Ak., CA"
+Selasa,3,13:00,15:30,E303,ST2514010,Riset Operasi,A,3,"Irma Fitria, S.Si, M.Si."
+Selasa,3,13:00,15:30,E304,ST2514019,Analisis Survival,A,3,"Riki Herliansyah, S.Si., M.Stats., Ph.D."
+Selasa,3,13:00,15:30,E306,BD2514014,Perilaku Konsumen,A,3,"Agung Prabowo, S.E, . M.M."
+Selasa,3,13:00,15:30,F102,BD2514028,Kecerdasan Buatan,B,3,"Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+Selasa,3,13:00,15:30,F201,ST2514020,Analisis Runtun Waktu,A,3,"Mega Silfiani, S.Si., M.Si., M.Sc."
+Selasa,3,13:00,15:30,F202,MA2515028,Pengantar Analisis Fungsional,A,3,"Adam, S.Si., M.Si."
+Selasa,3,13:00,15:30,F203,AK2515011,Pembelajaran Mesin,A,3,"Wahyu Dwi Lesmono, S.Si, M.Si"
+Selasa,3,13:00,15:30,F205,TE2514016,Sistem Kontrol,A,3,"Thorikul Huda, S.T., M.T."
+Selasa,3,13:00,15:30,F305,BD2514038,Analisis Big Data,A,3,"Ir. Riovan Styx Roring, S.T., M.Kom"
+Selasa,3,13:00,15:30,G102,SI2514015,Interaksi Manusia dan Komputer,B,3,"Sri Rahayu Natasia, S. Komp., M.Si."
+Selasa,3,13:00,15:30,G105,ST2514024,Analisis Data Statistik,A,3,"Diana Nurlaily, S.Si., M.Stat"
+Selasa,3,13:00,15:30,G204,ST2514023,Matematika Keuangan,A,3,"Yumna Aqila Kaltsum, S.Si., M.Stat."
+Selasa,3,13:00,15:30,G306,RK2514012,Dasar Simulasi dan Komputasi Keselamatan,A,3,"Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+Selasa,4,15:30,17:00,E201,BD2514027,Keamanan Sistem Informasi,A,2,"Ir. Riovan Styx Roring, S.T., M.Kom"
+Selasa,4,15:30,17:00,E204,SI2514001,Konsep Sistem Informasi,A,2,"Sri Rahayu Natasia, S. Komp., M.Si."
+Selasa,4,15:30,17:00,E302,AK2515015,Matematika Keuangan Syariah,A,2,"Lili Hernawati, M.Si"
+Selasa,4,15:30,17:00,E303,MA2515051,Analisis Regresi,A,2,"Nur Qadri Bahar, S.Si., M.Si."
+Selasa,4,15:30,17:00,E304,FI2515331,Mitigasi Bencana,A,2,"Rahmania, S.Pd., M.Sc."
+Selasa,4,15:30,17:00,F102,AK2514018,Pengantar Manajemen Risiko,A,2,"Muhammad Azka, S.Si., M.Sc."
+Selasa,4,15:30,17:00,F104,BD2515042,Gamifikasi,A,2,"Ir. Riovan Styx Roring, S.T., M.Kom"
+Selasa,4,15:30,17:00,F205,ST2514007,Metode Numerik,A,2,"Irma Fitria, S.Si, M.Si."
+Selasa,4,15:30,17:00,F307,FI2514415,Pengantar Fisika Kuantum,A,2,"Dr. Musyarofah, S.Pd., M.Si."
+Selasa,4,15:30,17:00,G101,IF2514502,Interaksi Manusia dan Komputer,A,2,"Nisa Rizqiya Fadhliana, S.Kom., M.T."
+Selasa,4,15:30,17:00,G102,TE2514024,Pengolahan Sinyal Digital,B,2,"Muhammad Ridho Dewanto, S.T., M.T."
+Selasa,4,15:30,17:00,G104,TE2514025,Wireless Sensor Networks dan Internet of Things,B,2,"Aninditya Anggari Nuryono, S.T., M.Eng."
+Selasa,4,15:30,17:00,G302,IF2514702,Keprofesian Informatika,A,2,"Nur Fajri Azhar S.Kom., M.Kom."
+Selasa,4,15:30,17:00,G303,SI2514002,Manajemen dan Organisasi,A,2,"Yuyun Tri Wiranti, S.Kom., M.MT."
+Selasa,4,15:30,17:00,G306,TE2514008,Rangkaian Digital,C,2,"Riza Hadi Saputra, S.T., M.T."
+Rabu,1,08:00,10:30,E106,IF2514201,Aljabar Linier dan Geometri,B,3,"Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+Rabu,1,08:00,10:30,E203,AK2514022,Proses Stokastik,A,3,"Isti Kamila, S.Pd., M.Si."
+Rabu,1,08:00,10:30,E301,BD2514011,Manajemen Sumber Daya Manusia,B,3,"Muh Ikhsan Alif. S. S.E., M.Sc."
+Rabu,1,08:00,10:30,E302,IF2514505,Pengolahan Citra Digital,A,3,"Rizky Amelia, S.Si., M.Han."
+Rabu,1,08:00,10:30,E304,AK2514007,Teori Peluang,A,3,"Nurul Maqfirah Rauf, M.Mat."
+Rabu,1,08:00,10:30,F102,SI2514035,Audit Sistem Informasi,B,3,"Dwi Nur Amalia, S.Kom., M.Kom."
+Rabu,1,08:00,10:30,F104,IF2514301,Arsitektur Komputer,C,3,"Aninditya Anggari Nuryono, S.T., M.Eng."
+Rabu,1,08:00,10:30,F202,SI2514010,Basis Data,A,3,"Arif Wicaksono Septyanto, M.Kom."
+Rabu,1,08:00,10:30,F203,TE2515022,Sistem Pengaturan Cerdas,A,3,"Risty Jayanti Yuniar, S.T., M.T."
+Rabu,1,08:00,10:30,F304,FI2514308,Gelombang,A,3,"Rahmania, S.Pd., M.Sc."
+Rabu,1,08:00,10:30,F306,IF2514506,Pemrograman Fungsional,B,3,"Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
+Rabu,1,08:00,10:30,F307,MA2514019,Pengantar Statistika Matematika,A,3,"Yanuar Bhakti Wira Tama, M.Si."
+Rabu,1,08:00,10:30,G102,MA2514001,Logika Matematika,A,3,"Kartika Nugraheni, S.Si., M.Si."
+Rabu,1,08:00,10:30,G105,IF2514305,Struktur Data,B,3,"Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+Rabu,1,08:00,10:30,G202,SI2514004,Matematika Diskrit 1,A,3,"Henokh Lugo Hariyanto, M.Sc."
+Rabu,1,08:00,10:30,G204,BD2514022,Analisis Data Multivariat,A,3,"Muh Ikhsan Alif. S. S.E., M.Sc."
+Rabu,1,08:00,10:30,G205,SI2515045,Pemrograman Mobile,X,3,"Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+Rabu,1,08:00,10:30,G302,MA2515033,Pengantar Logika Fuzzy,X,3,"Aditya Putra Pratama, S.Si., M.Si."
+Rabu,1,08:00,10:30,G304,FI2514309,Elektronika,A,3,"Menasita M, S.Si., M.T."
+Rabu,1,08:00,10:30,G306,SI2514011,Desain dan Manajemen Jaringan Komputer,A,3,"I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+Rabu,2,10:30,12:00,E105,AK2514019,Ilmu Data,A,2,"Wahyu Dwi Lesmono, S.Si, M.Si"
+Rabu,2,10:30,12:00,F103,SI2514019,Manajemen Risiko TI,X,2,"I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+Rabu,2,10:30,12:00,F105,AK2514018,Pengantar Manajemen Risiko,B,2,"Muhammad Azka, S.Si., M.Sc."
+Rabu,2,10:30,12:00,F106,MA2515065,Matematika Ekonomi dan Bisnis,X,2,"Yanuar Bhakti Wira Tama, M.Si."
+Rabu,2,10:30,12:00,F202,FI2514103,Biologi Umum,A,2,"Chairoh Ulfah, S.Si., M.Sc."
+Rabu,2,10:30,12:00,F305,IF2514702,Keprofesian Informatika,B,2,"Darmansyah, S.Si., M.T.I"
+Rabu,2,10:30,12:00,G102,IF2514102,Pengantar Informatika,B,2,"Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+Rabu,2,10:30,12:00,G103,MA2514002,Geometri Analitik,A,2,"Dr. Moh. Januar Ismail Burhan, S.Si., M.Si."
+Rabu,2,10:30,12:00,G201,IF2514504,Manajemen Basis Data,A,2,"Bowo Nugroho, S.Kom., M.Eng."
+Rabu,2,10:30,12:00,G202,TE2514023,Manajemen Proyek dan Keselamatan Kerja,A,2,"Andhika Giyantara, S.T., M.T."
+Rabu,2,10:30,12:00,G203,TE2514007,Metode Numerik,B,2,"Muhammad Ridho Dewanto, S.T., M.T."
+Rabu,2,10:30,12:00,G302,MA2514017,Aljabar Linier,X,2,"Aditya Putra Pratama, S.Si., M.Si."
+Rabu,2,10:30,12:00,G307,IF2514503,Implementasi dan Pengujian Perangkat Lunak,C,2,"Nur Fajri Azhar S.Kom., M.Kom."
+Rabu,3,13:00,15:30,E105,SI2514017,Keamanan Sistem Informasi,B,3,"Hendy Indrawan Sunardi S.Kom, M.Eng."
+Rabu,3,13:00,15:30,E106,SI2514003,Infrastruktur TI,B,3,"M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom."
+Rabu,3,13:00,15:30,E203,TE2514010,Rangkaian dan Piranti Semikonduktor,C,3,"Muhammad Agung Nursyeha, S.T., M.T."
+Rabu,3,13:00,15:30,E205,BD2514011,Manajemen Sumber Daya Manusia,A,3,"Muh Ikhsan Alif. S. S.E., M.Sc."
+Rabu,3,13:00,15:30,E301,SI2514019,Manajemen Risiko TI,D,3,"Rosa Eliviani, S.Kom., M.T."
+Rabu,3,13:00,15:30,E302,TE2514029,Robotika,B,3,"Thorikul Huda, S.T., M.T."
+Rabu,3,13:00,15:30,E304,IF2514101,Matematika Diskrit,A,3,"Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+Rabu,3,13:00,15:30,E306,BD2514026,Manajemen Sosial Media,B,3,"Khairunnisa Rahmah, S.E., M.M."
+Rabu,3,13:00,15:30,E307,TE2514021,Komunikasi Nirkabel,C,3,"Amalia Rizqi Utami, S.T., M.T."
+Rabu,3,13:00,15:30,F302,AK2514023,Matematika Aktuaria 2,A,3,"Eli Zulkatri, M.Aktr"
+Rabu,3,13:00,15:30,F307,SI2514020,Penggalian Data,B,3,"Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+Rabu,3,13:00,15:30,G201,AK2514027,Analisis Risiko Lingkungan,A,3,"Muhammad Azka, S.Si., M.Sc."
+Rabu,3,13:00,15:30,G205,IF2514704,Pengembangan Aplikasi Perangkat Bergerak,B,3,"Rizal Kusuma Putra, M.T."
+Rabu,4,15:30,17:00,E102,ST2514003,Komputasi Statistika Lanjut,A,2,"Mega Silfiani, S.Si., M.Si., M.Sc."
+Rabu,4,15:30,17:00,E104,SI2514012,Pemrograman Lanjut,A,2,"Rosa Eliviani, S.Kom., M.T."
+Rabu,4,15:30,17:00,E202,IF2514301,Arsitektur Komputer,A,2,"Aninditya Anggari Nuryono, S.T., M.Eng."
+Rabu,4,15:30,17:00,F104,MA2515029,Pengantar Geometri Diferensial,A,2,"Adam, S.Si., M.Si."
+Rabu,4,15:30,17:00,F106,FI2514102,Aljabar Linier Elementer,A,2,"Rahmania, S.Pd., M.Sc."
+Rabu,4,15:30,17:00,F201,MA2514007,Struktur Aljabar I,A,2,"Aditya Putra Pratama, S.Si., M.Si."
+Rabu,4,15:30,17:00,F202,IF2514102,Pengantar Informatika,A,2,"Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+Rabu,4,15:30,17:00,F301,BD2514024,Manajemen Rantai Pasok,A,2,"Eka Krisna Santoso, S.Si, MBA"
+Rabu,4,15:30,17:00,F302,BD2514036,Studi Kelayakan Bisnis,B,2,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Rabu,4,15:30,17:00,G103,BD2515052,Kepemimpinan dan Keahlian Interpersonal,A,2,"Agung Prabowo, S.E, . M.M."
+Rabu,4,15:30,17:00,G204,TE2514006,Persamaan Diferensial,D,2,"Yun Tonce Kusuma Priyanto, S.T., M.T."
+Rabu,4,15:30,17:00,G205,TE2514020,Instrumentasi,A,2,"Andhika Giyantara, S.T., M.T."
+Rabu,4,15:30,17:00,G306,SI2514016,Administrasi Basis Data,B,2,"Arif Wicaksono Septyanto, M.Kom."
+Kamis,1,08:00,10:30,E101,MA2514016,Fungsi Peubah Kompleks,A,3,"Dr. Moh. Januar Ismail Burhan, S.Si., M.Si."
+Kamis,1,08:00,10:30,E103,BD2514001,Akuntansi Bisnis,C,3,"Fegy Sukris Sri Andriany, M.Ak"
+Kamis,1,08:00,10:30,E106,ST2514004,Statistika Matematika 1,A,3,"Surya Puspita Sari, S.Si., M.Si."
+Kamis,1,08:00,10:30,E304,MA2514014,Persamaan Diferensial Parsial,A,3,"Adam, S.Si., M.Si."
+Kamis,1,08:00,10:30,E305,AK2515007,Riset Operasi,A,3,"Putri Amalia, S.Si., M.Si."
+Kamis,1,08:00,10:30,F101,IF2514303,Sistem Operasi,C,3,"Darmansyah, S.Si., M.T.I"
+Kamis,1,08:00,10:30,F102,IF2514305,Struktur Data,A,3,"Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+Kamis,1,08:00,10:30,F201,BD2514015,Pemrograman WEB,A,3,"Ir. Riovan Styx Roring, S.T., M.Kom"
+Kamis,1,08:00,10:30,F204,BD2514007,Bisnis Proses Manajemen,B,3,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Kamis,1,08:00,10:30,F302,BD2514028,Kecerdasan Buatan,A,3,"Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+Kamis,1,08:00,10:30,F305,SI2514009,Matematika Diskrit 2,B,3,"Henokh Lugo Hariyanto, M.Sc."
+Kamis,1,08:00,10:30,F307,SI2514027,Komputasi Awan,Z,3,"Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+Kamis,1,08:00,10:30,G103,ST2514021,Data Mining,A,3,"Farida Nur Hayati, S.Si., M.Stat."
+Kamis,1,08:00,10:30,G201,TE2514021,Komunikasi Nirkabel,A,3,"Amalia Rizqi Utami, S.T., M.T."
+Kamis,1,08:00,10:30,G202,IF2514201,Aljabar Linier dan Geometri,A,3,"Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+Kamis,1,08:00,10:30,G203,AK2514001,Logika dan Himpunan,A,3,"Indrawan, S.Pd., M.Si."
+Kamis,1,08:00,10:30,G205,BD2514015,Pemrograman WEB,B,3,"Ir. Riovan Styx Roring, S.T., M.Kom"
+Kamis,1,08:00,10:30,G301,AK2514005,Matematika Keuangan 1,A,3,"Isti Kamila, S.Pd., M.Si."
+Kamis,1,08:00,10:30,G304,IF2514103,Sistem Digital,A,3,"Boby Mugi Pratama, S.Si., M.Han."
+Kamis,1,08:00,10:30,G304,IF2514604,Sistem Paralel dan Terdistribusi,A,3,"Riska Kurniyanto Abdullah, S.T., M.Kom."
+Kamis,1,08:00,10:30,G306,FI2514522,Fisika Instrumentasi,A,3,"Menasita M, S.Si., M.T."
+Kamis,2,10:30,12:00,E102,AK2514002,Ekonomi Mikro,B,2,"Alvianus Kristian Sumual, S.E., M.E."
+Kamis,2,10:30,12:00,E105,BD2514016,Statistika Inferensial,A,2,"Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+Kamis,2,10:30,12:00,F205,IF2514503,Implementasi dan Pengujian Perangkat Lunak,A,2,"Nur Fajri Azhar S.Kom., M.Kom."
+Kamis,2,10:30,12:00,F301,SI2514005,Kemampuan Interpersonal dan Kepemimpinan,B,2,Dwi Arief Prambudi M.Kom.
+Kamis,2,10:30,12:00,F306,BD2514003,Ekonomi,C,2,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Kamis,2,10:30,12:00,F306,BD2514005,Analisis dan Visualisasi Data Bisnis,B,2,"Muh Ikhsan Alif. S. S.E., M.Sc."
+Kamis,2,10:30,12:00,G101,TE2514015,Sistem Komunikasi,B,2,"Amalia Rizqi Utami, S.T., M.T."
+Kamis,2,10:30,12:00,G104,BD2514005,Analisis dan Visualisasi Data Bisnis,C,2,"Muh Ikhsan Alif. S. S.E., M.Sc."
+Kamis,2,10:30,12:00,G105,FI2514311,Fisika Fluida,A,2,"Dr. Swastya Rahastama, S.Si., M.Si."
+Kamis,2,10:30,12:00,G201,TE2514006,Persamaan Diferensial,A,2,"Yun Tonce Kusuma Priyanto, S.T., M.T."
+Kamis,2,10:30,12:00,G205,BD2514026,Manajemen Sosial Media,A,2,"Agung Prabowo, S.E, . M.M."
+Kamis,2,10:30,12:00,G301,FI2515434,Sensor dan Transduser,A,2,"Chairoh Ulfah, S.Si., M.Sc."
+Kamis,2,10:30,12:00,G302,IF2514601,Deep Learning,A,2,"Boby Mugi Pratama, S.Si., M.Han."
+Kamis,2,10:30,12:00,G305,IF2515301,Manajemen Proyek TIK,A,2,"Riska Kurniyanto Abdullah, S.T., M.Kom."
+Kamis,2,10:30,12:00,G307,IF2515002,Kapita Selekta,A,2,"Nisa Rizqiya Fadhliana, S.Kom., M.T."
+Kamis,3,13:00,15:30,E101,ST2514021,Data Mining,B,3,"Diana Nurlaily, S.Si., M.Stat"
+Kamis,3,13:00,15:30,E101,TE2514023,Manajemen Proyek dan Keselamatan Kerja,X,3,"Andhika Giyantara, S.T., M.T."
+Kamis,3,13:00,15:30,E203,ST2514011,Desain Eksperimen,B,3,"Farida Nur Hayati, S.Si., M.Stat."
+Kamis,3,13:00,15:30,E205,AK2514001,Logika dan Himpunan,B,3,"Indrawan, S.Pd. M.Si."
+Kamis,3,13:00,15:30,E301,BD2514001,Akuntansi Bisnis,A,3,"Fegy Sukris Sri Andriany, M.Ak"
+Kamis,3,13:00,15:30,E305,SI2514017,Keamanan Sistem Informasi,A,3,Dwi Arief Prambudi M.Kom.
+Kamis,3,13:00,15:30,F106,ST2514022,Pengantar Ekonometrika,B,3,"Magdalena Effendi, S.Stat., M.Stat."
+Kamis,3,13:00,15:30,F305,FI2514726,Fisika Energi,X,3,"Dian Mart Shoodiqin, S.Si., M.Si."
+Kamis,3,13:00,15:30,G101,MA2514020,Metode Numerik,A,3,"Nur Qadri Bahar, S.Si., M.Si."
+Kamis,3,13:00,15:30,G102,ST2514008,Official Statistics,A,3,"Kevin Agung Fernanda Rifki, S.Stat, M.Stat"
+Kamis,3,13:00,15:30,G103,MA2515040,Sistem Dinamika Kontinu,A,3,"Kartika Nugraheni, S.Si., M.Si."
+Kamis,3,13:00,15:30,G104,AK2514011,Pengantar Analisis Real,A,3,"Putri Amalia, S.Si., M.Si."
+Kamis,3,13:00,15:30,G201,TE2514016,Sistem Kontrol,B,3,"Thorikul Huda, S.T., M.T."
+Kamis,3,13:00,15:30,G205,TE2514005,Elektromagnetika,A,3,"Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D."
+Kamis,3,13:00,15:30,G302,BD2514038,Analisis Big Data,B,3,"Ir. Riovan Styx Roring, S.T., M.Kom"
+Kamis,3,13:00,15:30,G306,IF2514303,Sistem Operasi,B,3,"Darmansyah, S.Si., M.T.I"
+Kamis,3,13:00,15:30,G306,IF2514505,Pengolahan Citra Digital,B,3,"Rizky Amelia, S.Si., M.Han."
+Kamis,4,15:30,17:00,E201,BD2514005,Analisis dan Visualisasi Data Bisnis,A,2,"Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+Kamis,4,15:30,17:00,F301,SI2514026,Perencanaan Arsitektur Teknologi Informasi,A,2,"Hendy Indrawan Sunardi S.Kom, M.Eng."
+Kamis,4,15:30,17:00,F303,SI2514001,Konsep Sistem Informasi,D,2,"Rosa Eliviani, S.Kom., M.T."
+Kamis,4,15:30,17:00,F306,TE2514007,Metode Numerik,A,2,"Muhammad Agung Nursyeha, S.T., M.T."
+Kamis,4,15:30,17:00,F307,BD2514001,Akuntansi Bisnis,B,2,"Fegy Sukris Sri Andriany, M.Ak"
+Kamis,4,15:30,17:00,G101,IF2514103,Sistem Digital,C,2,"Boby Mugi Pratama, S.Si., M.Han."
+Kamis,4,15:30,17:00,G104,TE2514030,Sistem Energi Baru dan Terbarukan,A,2,"Happy Aprillia, S.ST., M.T., M.Eng., Ph.D."
+Kamis,4,15:30,17:00,G202,IF2514301,Arsitektur Komputer,B,2,"Riska Kurniyanto Abdullah, S.T., M.Kom."
+Kamis,4,15:30,17:00,G205,IF2514502,Interaksi Manusia dan Komputer,B,2,"Nisa Rizqiya Fadhliana, S.Kom., M.T."
+Kamis,4,15:30,17:00,G302,TE2514018,Sistem Tertanam,A,2,"Muhammad Ridho Dewanto, S.T., M.T."
+Kamis,4,15:30,17:00,G305,TE2514007,Metode Numerik,C,2,"Riza Hadi Saputra, S.T., M.T."
+Kamis,4,15:30,17:00,G306,SI2514016,Administrasi Basis Data,A,2,"Arif Wicaksono Septyanto, M.Kom."
+Kamis,4,15:30,17:00,G307,IF2514504,Manajemen Basis Data,B,2,"Bowo Nugroho, S.Kom., M.Eng."
+Jumat,1,08:00,10:30,E101,MA2514018,Analisis Real II,A,3,"Adam, S.Si., M.Si."
+Jumat,1,08:00,10:30,E105,TE2514030,Sistem Energi Baru dan Terbarukan,B,3,"Happy Aprillia, S.ST., M.T., M.Eng., Ph.D."
+Jumat,1,08:00,10:30,E304,IF2514302,Pengantar Kecerdasan Artifisial,B,3,"Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
+Jumat,1,08:00,10:30,E305,MA2514006,Kalkulus Peubah Banyak,A,3,"Winarni, S.Si., M.Si."
+Jumat,1,08:00,10:30,E307,SI2514003,Infrastruktur TI,A,3,"M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom."
+Jumat,1,08:00,10:30,F303,ST2514001,Aljabar Linier,B,3,"Magdalena Effendi, S.Stat., M.Stat."
+Jumat,1,08:00,10:30,F305,IF2514604,Sistem Paralel dan Terdistribusi,B,3,"Riska Kurniyanto Abdullah, S.T., M.Kom."
+Jumat,1,08:00,10:30,F307,SI2514019,Manajemen Risiko TI,C,3,"Rosa Eliviani, S.Kom., M.T."
+Jumat,1,08:00,10:30,G101,BD2514004,Manajemen Organisasi,C,3,"Khairunnisa Rahmah, S.E., M.M."
+Jumat,1,08:00,10:30,G103,BD2514025,Valuasi Bisnis,B,3,"Deli Yansyah, S.E., M.Acc., Ak., CA"
+Jumat,1,08:00,10:30,G203,SI2514034,Perencanaan Keberlangsungan Bisnis,B,3,"I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+Jumat,1,08:00,10:30,G204,SI2514011,Desain dan Manajemen Jaringan Komputer,B,3,"Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+Jumat,1,08:00,10:30,G301,BD2514016,Statistika Inferensial,B,3,"Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+Jumat,1,08:00,10:30,G303,BD2514007,Bisnis Proses Manajemen,A,3,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
+Jumat,1,08:00,10:30,G303,FI2514518,Fisika Statistik,A,3,"Agus Rifani, S.Si., M.Si."
+Jumat,1,08:00,10:30,G304,FI2515437,Mikrokontroler,A,3,"Harrys Samosir, M.Sc."
+Jumat,1,08:00,10:30,G307,SI2514014,Desain Proses Bisnis,A,3,"Dwi Nur Amalia, S.Kom., M.Kom."
+Jumat,2,10:30,12:00,E106,FI2515101,Anatomi dan Fisiologi,A,2,"Dr. Swastya Rahastama, S.Si., M.Si."
+Jumat,2,10:30,12:00,E203,MA2514009,Persamaan Diferensial Biasa,A,2,"Dr. Retno Wahyu Dewanti, S.Si., M.Si."
+Jumat,2,10:30,12:00,E301,SI2514005,Kemampuan Interpersonal dan Kepemimpinan,C,2,Dwi Arief Prambudi M.Kom.
+Jumat,2,10:30,12:00,E304,FI2515325,Survey dan Pemetaan,A,2,"Febrian Dedi Sastrawan, S.Si., M.Sc."
+Jumat,2,10:30,12:00,E305,SI2514004,Matematika Diskrit 1,B,2,"Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+Jumat,2,10:30,12:00,E306,SI2514002,Manajemen dan Organisasi,C,2,"Nursanti Novi Arisa, M.Kom."
+Jumat,2,10:30,12:00,F101,IF2515206,Pemrosesan Bahasa Alami,A,2,"Bima Prihasto, S.Si., M.Si., Ph.D."
+Jumat,2,10:30,12:00,F105,TE2514001,Aljabar Linear,A,2,"Yun Tonce Kusuma Priyanto, S.T., M.T."
+Jumat,2,10:30,12:00,F305,IF2514501,Desain Web,A,2,"Rizal Kusuma Putra, M.T."
+Jumat,2,10:30,12:00,F307,FI2514523,Metodologi Penelitian,A,2,"Rahmania, S.Pd., M.Sc."
+Jumat,2,10:30,12:00,G201,TE2514008,Rangkaian Digital,A,2,"Riza Hadi Saputra, S.T., M.T."
+Jumat,2,10:30,12:00,G203,TE2514006,Persamaan Diferensial,B,2,"Yun Tonce Kusuma Priyanto, S.T., M.T."
+Jumat,2,10:30,12:00,G205,ST2514002,Komputasi Statistika,B,2,"Diana Nurlaily, S.Si., M.Stat"
+Jumat,2,10:30,12:00,G302,IF2515203,Kecerdasan Web,A,2,"Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
+Jumat,3,13:00,15:30,E101,TE2514011,Sinyal dan Sistem,C,3,"Risty Jayanti Yuniar, S.T., M.T."
+Jumat,3,13:00,15:30,E102,BD2514013,Design Thinking Inovasi,B,3,"Agung Prabowo, S.E, . M.M."
+Jumat,3,13:00,15:30,E204,TE2514021,Komunikasi Nirkabel,D,3,"Amalia Rizqi Utami, S.T., M.T."
+Jumat,3,13:00,15:30,F101,TE2514005,Elektromagnetika,B,3,"Thorikul Huda, S.T., M.T."
+Jumat,3,13:00,15:30,F101,TE2514018,Sistem Tertanam,B,3,"Muhammad Ridho Dewanto, S.T., M.T."
+Jumat,3,13:00,15:30,F102,SI2514003,Infrastruktur TI,C,3,"M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom."
+Jumat,3,13:00,15:30,F307,IF2514101,Matematika Diskrit,B,3,"Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+Jumat,3,13:00,15:30,G102,AK2514009,Matematika Lanjut,A,3,"Putri Amalia, S.Si., M.Si."
+Jumat,3,13:00,15:30,G104,SI2514019,Manajemen Risiko TI,W,3,"I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+Jumat,3,13:00,15:30,G106,ST2514001,Aljabar Linier,A,3,"Surya Puspita Sari, S.Si., M.Si."
+Jumat,3,13:00,15:30,G201,FI2514520,Teknologi Fisika,A,3,Meidi Arisalwadi S.Si. M.Si.
+Jumat,3,13:00,15:30,G205,FI2514310,Fisika Modern,A,3,"Dr. Musyarofah, S.Pd., M.Si."
+Jumat,3,13:00,15:30,G307,SI2514030,Tata Kelola dan Manajemen TI,B,3,"Hendy Indrawan Sunardi S.Kom, M.Eng."
+Jumat,4,15:30,17:00,E103,SI2514036,Etika Profesi Sistem Informasi,B,2,"Henokh Lugo Hariyanto, M.Sc."
+Jumat,4,15:30,17:00,E105,SI2514005,Kemampuan Interpersonal dan Kepemimpinan,A,2,Dwi Arief Prambudi M.Kom.
+Jumat,4,15:30,17:00,E302,TE2514010,Rangkaian dan Piranti Semikonduktor,B,2,"Muhammad Agung Nursyeha, S.T., M.T."
+Jumat,4,15:30,17:00,E304,ST2514002,Komputasi Statistika,A,2,"Farida Nur Hayati, S.Si., M.Stat."
+Jumat,4,15:30,17:00,E305,SI2514001,Konsep Sistem Informasi,C,2,"Rosa Eliviani, S.Kom., M.T."
+Jumat,4,15:30,17:00,F103,IF2514302,Pengantar Kecerdasan Artifisial,C,2,"Bima Prihasto, S.Si., M.Si., Ph.D."
+Jumat,4,15:30,17:00,F105,SI2514001,Konsep Sistem Informasi,B,2,"Sri Rahayu Natasia, S. Komp., M.Si."
+Jumat,4,15:30,17:00,F201,ST2515008,Statistika Lingkungan,X,2,"Magdalena Effendi, S.Stat., M.Stat."
+Jumat,4,15:30,17:00,F203,TE2514008,Rangkaian Digital,B,2,"Riza Hadi Saputra, S.T., M.T."
+Jumat,4,15:30,17:00,F303,MA2515035,Aljabar Maxplus dan Penerapannya,A,2,"Winarni, S.Si., M.Si."
+Jumat,4,15:30,17:00,G102,IF2515403,Sains Data,X,2,"Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+Jumat,4,15:30,17:00,G301,BD2514037,Manajemen Strategi,A,2,"Prasis Damai Nursyam Hamijaya, S.P., M.M."
