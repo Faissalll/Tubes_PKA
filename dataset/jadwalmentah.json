@@ -1,0 +1,2474 @@
+[
+  {
+    "Dosen Pengampu": "Indrawan, S.Pd., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514001",
+    "Mata Kuliah": "Logika dan Himpunan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eli Zulkatri, M.Aktr",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514023",
+    "Mata Kuliah": "Matematika Aktuaria 2",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Wahyu Dwi Lesmono, S.Si, M.Si",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2515011",
+    "Mata Kuliah": "Pembelajaran Mesin",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Magdalena Effendi, S.Stat., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514001",
+    "Mata Kuliah": "Aljabar Linier",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Kevin Agung Fernanda Rifki, S.Stat, M.Stat",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514008",
+    "Mata Kuliah": "Official Statistics",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Yumna Aqila Kaltsum, S.Si., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514023",
+    "Mata Kuliah": "Matematika Keuangan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Adam, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514018",
+    "Mata Kuliah": "Analisis Real II",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514003",
+    "Mata Kuliah": "Ekonomi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Khairunnisa Rahmah, S.E., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514004",
+    "Mata Kuliah": "Manajemen Organisasi",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Agung Prabowo, S.E,. M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514014",
+    "Mata Kuliah": "Perilaku Konsumen",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ir. Riovan Styx Roring, S.T., M.Kom",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514015",
+    "Mata Kuliah": "Pemrograman WEB",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Agung Nursyeha, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514010",
+    "Mata Kuliah": "Rangkaian dan Piranti Semikonduktor",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Thorikul Huda, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514029",
+    "Mata Kuliah": "Robotika",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Bima Prihasto, S.Si., M.Si., Ph.D.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514302",
+    "Mata Kuliah": "Pengantar Kecerdasan Artifisial",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Darmansyah, S.Si., M.T.I",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514303",
+    "Mata Kuliah": "Sistem Operasi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rizal Kusuma Putra, M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514704",
+    "Mata Kuliah": "Pengembangan Aplikasi Perangkat Bergerak",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Arif Wicaksono Septyanto, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514010",
+    "Mata Kuliah": "Basis Data",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dwi Nur Amalia, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514014",
+    "Mata Kuliah": "Desain Proses Bisnis",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514020",
+    "Mata Kuliah": "Penggalian Data",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Aidil Saputra Kirsan, S.ST., M.Tr.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2515045",
+    "Mata Kuliah": "Pemrograman Mobile",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Wahyu Dwi Lesmono, S.Si, M.Si",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514019",
+    "Mata Kuliah": "Ilmu Data",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Alvianus Kristian Sumual,S.E.,M.E.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514024",
+    "Mata Kuliah": "Akuntansi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514024",
+    "Mata Kuliah": "Manajemen Rantai Pasok",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Farida Nur Hayati, S.Si., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514002",
+    "Mata Kuliah": "Komputasi Statistika",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Diana Nurlaily, S.Si., M.Stat",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514002",
+    "Mata Kuliah": "Komputasi Statistika",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rahmania, S.Pd., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514102",
+    "Mata Kuliah": "Aljabar Linier Elementer",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dr. Retno Wahyu Dewanti, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514009",
+    "Mata Kuliah": "Persamaan Diferensial Biasa",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aditya Putra Pratama, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514017",
+    "Mata Kuliah": "Aljabar Linier",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Fegy Sukris Sri Andriany, M.Ak",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514001",
+    "Mata Kuliah": "Akuntansi Bisnis",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Andhika Giyantara, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514023",
+    "Mata Kuliah": "Manajemen Proyek dan Keselamatan Kerja",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Agung Nursyeha, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514024",
+    "Mata Kuliah": "Pengolahan Sinyal Digital",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514102",
+    "Mata Kuliah": "Pengantar Informatika",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Bima Prihasto, S.Si., M.Si., Ph.D.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514302",
+    "Mata Kuliah": "Pengantar Kecerdasan Artifisial",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nisa Rizqiya Fadhliana, S.Kom., M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514502",
+    "Mata Kuliah": "Interaksi Manusia dan Komputer",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aninditya Anggari Nuryono, S.T., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "TE2514004",
+    "Mata Kuliah": "Rangkaian Listrik DC",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Sri Rahayu Natasia, S. Komp., M.Si.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514001",
+    "Mata Kuliah": "Konsep Sistem Informasi",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yuyun Tri Wiranti, S.Kom., M.MT.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514002",
+    "Mata Kuliah": "Manajemen dan Organisasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nursanti Novi Arisa, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514002",
+    "Mata Kuliah": "Manajemen dan Organisasi",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Arif Wicaksono Septyanto, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514016",
+    "Mata Kuliah": "Administrasi Basis Data",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Putri Amalia, S.Si., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514011",
+    "Mata Kuliah": "Pengantar Analisis Real",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Azka, S.Si., M.Sc.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514025",
+    "Mata Kuliah": "Teori Risiko Aktuaria 2",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514036",
+    "Mata Kuliah": "Studi Kelayakan Bisnis",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Surya Puspita Sari, S.Si., M.Si.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514004",
+    "Mata Kuliah": "Statistika Matematika 1",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Riki Herliansyah, S.Si., M.Stats., Ph.D.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514019",
+    "Mata Kuliah": "Analisis Survival",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Diana Nurlaily, S.Si., M.Stat",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514024",
+    "Mata Kuliah": "Analisis Data Statistik",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dr. Musyarofah, S.Pd., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514310",
+    "Mata Kuliah": "Fisika Modern",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Meidi Arisalwadi S.Si. M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514417",
+    "Mata Kuliah": "Optik",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Aditya Putra Pratama, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515033",
+    "Mata Kuliah": "Pengantar Logika Fuzzy",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Kartika Nugraheni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515040",
+    "Mata Kuliah": "Sistem Dinamika Kontinu",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Agung Prabowo, S.E,. M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514014",
+    "Mata Kuliah": "Perilaku Konsumen",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ir. Riovan Styx Roring, S.T., M.Kom",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514015",
+    "Mata Kuliah": "Pemrograman WEB",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Luh Made Wisnu Satyaninggrat, S.Kom., M.T.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514028",
+    "Mata Kuliah": "Kecerdasan Buatan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Khairunnisa Rahmah, S.E., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2515040",
+    "Mata Kuliah": "Manajemen Hubungan Pelanggan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Thorikul Huda, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514005",
+    "Mata Kuliah": "Elektromagnetika",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514005",
+    "Mata Kuliah": "Elektromagnetika",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Firilia Filiana, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514019",
+    "Mata Kuliah": "Elektronika Daya",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Risty Jayanti Yuniar, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2515022",
+    "Mata Kuliah": "Sistem Pengaturan Cerdas",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Darmansyah, S.Si., M.T.I",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514303",
+    "Mata Kuliah": "Sistem Operasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514506",
+    "Mata Kuliah": "Pemrograman Fungsional",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514003",
+    "Mata Kuliah": "Infrastruktur TI",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dwi Nur Amalia, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514035",
+    "Mata Kuliah": "Audit Sistem Informasi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Azka, S.Si., M.Sc.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514018",
+    "Mata Kuliah": "Pengantar Manajemen Risiko",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Winarni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515035",
+    "Mata Kuliah": "Aljabar Maxplus dan Penerapannya",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Kartika Nugraheni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515040",
+    "Mata Kuliah": "Sistem Dinamika Kontinu",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nur Qadri Bahar, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515051",
+    "Mata Kuliah": "Analisis Regresi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muh Ikhsan Alif. S. S.E., M.Sc.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514005",
+    "Mata Kuliah": "Analisis dan Visualisasi Data Bisnis",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yun Tonce Kusuma Priyanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514006",
+    "Mata Kuliah": "Persamaan Diferensial",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nur Fajri Azhar S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514503",
+    "Mata Kuliah": "Implementasi dan Pengujian Perangkat Lunak",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Bowo Nugroho, S.Kom., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514504",
+    "Mata Kuliah": "Manajemen Basis Data",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dwi Arief Prambudi M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514005",
+    "Mata Kuliah": "Kemampuan Interpersonal dan Kepemimpinan",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nurul Maqfirah Rauf, M.Mat.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514007",
+    "Mata Kuliah": "Teori Peluang",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Indrawan, S.Pd. M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514012",
+    "Mata Kuliah": "Model Linier",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Riki Herliansyah, S.Si., M.Stats., Ph.D.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514019",
+    "Mata Kuliah": "Analisis Survival",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Mega Silfiani, S.Si., M.Si., M.Sc.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514020",
+    "Mata Kuliah": "Analisis Runtun Waktu",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Fadli Robiandi, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514307",
+    "Mata Kuliah": "Mekanika Klasik 2",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Harrys Samosir, M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2515437",
+    "Mata Kuliah": "Mikrokontroler",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dr. Retno Wahyu Dewanti, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514008",
+    "Mata Kuliah": "Riset Operasi I",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Yanuar Bhakti Wira Tama, M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515037",
+    "Mata Kuliah": "Riset Operasi II",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Khairunnisa Rahmah, S.E., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514004",
+    "Mata Kuliah": "Manajemen Organisasi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muh Ikhsan Alif. S. S.E., M.Sc.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514022",
+    "Mata Kuliah": "Analisis Data Multivariat",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Deli Yansyah, S.E., M.Acc., Ak., CA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514025",
+    "Mata Kuliah": "Valuasi Bisnis",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Firilia Filiana, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514017",
+    "Mata Kuliah": "Sistem Tenaga Listrik",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Agung Nursyeha, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514029",
+    "Mata Kuliah": "Robotika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Happy Aprillia, S.ST., M.T., M.Eng.,Ph.D.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514030",
+    "Mata Kuliah": "Sistem Energi Baru dan Terbarukan",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Sri Rahayu Natasia, S. Komp., M.Si.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514015",
+    "Mata Kuliah": "Interaksi Manusia dan Komputer",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514020",
+    "Mata Kuliah": "Penggalian Data",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Yuyun Tri Wiranti, S.Kom., M.MT.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514023",
+    "Mata Kuliah": "Perencanaan Strategis Sistem Informasi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514002",
+    "Mata Kuliah": "Pengantar Bisnis Digital",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rahmania, S.Pd., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514523",
+    "Mata Kuliah": "Metodologi Penelitian",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Winarni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514006",
+    "Mata Kuliah": "Kalkulus Peubah Banyak",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muh Ikhsan Alif. S. S.E., M.Sc.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514005",
+    "Mata Kuliah": "Analisis dan Visualisasi Data Bisnis",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Luh Made Wisnu Satyaninggrat, S.Kom., M.T.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514016",
+    "Mata Kuliah": "Statistika Inferensial",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riza Hadi Saputra, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514008",
+    "Mata Kuliah": "Rangkaian Digital",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Andhika Giyantara, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514023",
+    "Mata Kuliah": "Manajemen Proyek dan Keselamatan Kerja",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nisa Rizqiya Fadhliana, S.Kom., M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514502",
+    "Mata Kuliah": "Interaksi Manusia dan Komputer",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Boby Mugi Pratama, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514601",
+    "Mata Kuliah": "Deep Learning",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Bima Prihasto, S.Si., M.Si., Ph.D.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515206",
+    "Mata Kuliah": "Pemrosesan Bahasa Alami",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rizky Amelia, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515404",
+    "Mata Kuliah": "Visi Komputer",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Arif Wicaksono Septyanto, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514016",
+    "Mata Kuliah": "Administrasi Basis Data",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yuyun Tri Wiranti, S.Kom., M.MT.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514023",
+    "Mata Kuliah": "Perencanaan Strategis Sistem Informasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aidil Saputra Kirsan, S.ST., M.Tr.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514027",
+    "Mata Kuliah": "Komputasi Awan",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Isti Kamila, S.Pd., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514005",
+    "Mata Kuliah": "Matematika Keuangan 1",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Azka, S.Si., M.Sc.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514027",
+    "Mata Kuliah": "Analisis Risiko Lingkungan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Surya Puspita Sari, S.Si., M.Si.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514001",
+    "Mata Kuliah": "Aljabar Linier",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Farida Nur Hayati, S.Si., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514006",
+    "Mata Kuliah": "Analisis Regresi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Mega Silfiani, S.Si., M.Si., M.Sc.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514022",
+    "Mata Kuliah": "Pengantar Ekonometrika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rahmania, S.Pd., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514308",
+    "Mata Kuliah": "Gelombang",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Agus Rifani, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514518",
+    "Mata Kuliah": "Fisika Statistik",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Nur Qadri Bahar, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514020",
+    "Mata Kuliah": "Metode Numerik",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514007",
+    "Mata Kuliah": "Bisnis Proses Manajemen",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Luh Made Wisnu Satyaninggrat, S.Kom., M.T.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514016",
+    "Mata Kuliah": "Statistika Inferensial",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Deli Yansyah, S.E., M.Acc., Ak., CA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514025",
+    "Mata Kuliah": "Valuasi Bisnis",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Khairunnisa Rahmah, S.E., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514026",
+    "Mata Kuliah": "Manajemen Sosial Media",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Risty Jayanti Yuniar, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514011",
+    "Mata Kuliah": "Sinyal dan Sistem",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Happy Aprillia, S.ST., M.T., M.Eng.,Ph.D.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514019",
+    "Mata Kuliah": "Elektronika Daya",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Amalia Rizqi Utami, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514021",
+    "Mata Kuliah": "Komunikasi Nirkabel",
+    "KELAS": "D",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rizky Amelia, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514505",
+    "Mata Kuliah": "Pengolahan Citra Digital",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514003",
+    "Mata Kuliah": "Infrastruktur TI",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514034",
+    "Mata Kuliah": "Perencanaan Keberlangsungan Bisnis",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Nurul Maqfirah Rauf, M.Mat.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514006",
+    "Mata Kuliah": "Metode Numerik",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Kevin Agung Fernanda Rifki, S.Stat, M.Stat",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2515007",
+    "Mata Kuliah": "Statistika Kebencanaan",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Fadli Robiandi, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2515213",
+    "Mata Kuliah": "Semikonduktor",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Meidi Arisalwadi S.Si. M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2515324",
+    "Mata Kuliah": "Fisika Batuan",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dr. Moh. Januar Ismail Burhan, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514002",
+    "Mata Kuliah": "Geometri Analitik",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Adam, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515029",
+    "Mata Kuliah": "Pengantar Geometri Diferensial",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Agung Prabowo, S.E,. M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2515052",
+    "Mata Kuliah": "Kepemimpinan dan Keahlian Interpersonal",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yun Tonce Kusuma Priyanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514006",
+    "Mata Kuliah": "Persamaan Diferensial",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yun Tonce Kusuma Priyanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514006",
+    "Mata Kuliah": "Persamaan Diferensial",
+    "KELAS": "D",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Agung Nursyeha, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514010",
+    "Mata Kuliah": "Rangkaian dan Piranti Semikonduktor",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riska Kurniyanto Abdullah, S.T., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514301",
+    "Mata Kuliah": "Arsitektur Komputer",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nur Fajri Azhar S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514702",
+    "Mata Kuliah": "Keprofesian Informatika",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dwi Arief Prambudi M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514005",
+    "Mata Kuliah": "Kemampuan Interpersonal dan Kepemimpinan",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rosa Eliviani, S.Kom., M.T.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514012",
+    "Mata Kuliah": "Pemrograman Lanjut",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aidil Saputra Kirsan, S.ST., M.Tr.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514027",
+    "Mata Kuliah": "Komputasi Awan",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Indrawan, S.Pd. M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514001",
+    "Mata Kuliah": "Logika dan Himpunan",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Putri Amalia, S.Si., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514009",
+    "Mata Kuliah": "Matematika Lanjut",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514024",
+    "Mata Kuliah": "Manajemen Rantai Pasok",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Diana Nurlaily, S.Si., M.Stat",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514021",
+    "Mata Kuliah": "Data Mining",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dr. Moh. Januar Ismail Burhan, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514016",
+    "Mata Kuliah": "Fungsi Peubah Kompleks",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Fegy Sukris Sri Andriany, M.Ak",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514001",
+    "Mata Kuliah": "Akuntansi Bisnis",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Deli Yansyah, S.E., M.Acc., Ak., CA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514012",
+    "Mata Kuliah": "Akuntansi Manajerial",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Agung Prabowo, S.E,. M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514013",
+    "Mata Kuliah": "Design Thinking Inovasi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muh Ikhsan Alif. S. S.E., M.Sc.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514022",
+    "Mata Kuliah": "Analisis Data Multivariat",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Thorikul Huda, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514016",
+    "Mata Kuliah": "Sistem Kontrol",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Amalia Rizqi Utami, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514021",
+    "Mata Kuliah": "Komunikasi Nirkabel",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Andhika Giyantara, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514023",
+    "Mata Kuliah": "Manajemen Proyek dan Keselamatan Kerja",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514302",
+    "Mata Kuliah": "Pengantar Kecerdasan Artifisial",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514305",
+    "Mata Kuliah": "Struktur Data",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Henokh Lugo Hariyanto, M.Sc.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514004",
+    "Mata Kuliah": "Matematika Diskrit 1",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Sri Rahayu Natasia, S. Komp., M.Si.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514015",
+    "Mata Kuliah": "Interaksi Manusia dan Komputer",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rosa Eliviani, S.Kom., M.T.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514019",
+    "Mata Kuliah": "Manajemen Risiko TI",
+    "KELAS": "D",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Alvianus Kristian Sumual,S.E.,M.E.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514002",
+    "Mata Kuliah": "Ekonomi Mikro",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514002",
+    "Mata Kuliah": "Pengantar Bisnis Digital",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Irma Fitria, S.Si, M.Si.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514007",
+    "Mata Kuliah": "Metode Numerik",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Magdalena Effendi, S.Stat., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2515008",
+    "Mata Kuliah": "Statistika Lingkungan",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Chairoh Ulfah, S.Si., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514103",
+    "Mata Kuliah": "Biologi Umum",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Febrian Dedi Sastrawan, S.Si., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514521",
+    "Mata Kuliah": "Eksperimen Fisika",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Chairoh Ulfah, S.Si., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2515434",
+    "Mata Kuliah": "Sensor dan Transduser",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Khairunnisa Rahmah, S.E., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514004",
+    "Mata Kuliah": "Manajemen Organisasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514102",
+    "Mata Kuliah": "Pengantar Informatika",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nisa Rizqiya Fadhliana, S.Kom., M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514502",
+    "Mata Kuliah": "Interaksi Manusia dan Komputer",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aninditya Anggari Nuryono, S.T., M.Eng.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514025",
+    "Mata Kuliah": "Wireless Sensor Networks dan Internet of Things",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Sri Rahayu Natasia, S. Komp., M.Si.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514001",
+    "Mata Kuliah": "Konsep Sistem Informasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yuyun Tri Wiranti, S.Kom., M.MT.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514002",
+    "Mata Kuliah": "Manajemen dan Organisasi",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Putri Amalia, S.Si., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2515007",
+    "Mata Kuliah": "Riset Operasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Kevin Agung Fernanda Rifki, S.Stat, M.Stat",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514027",
+    "Mata Kuliah": "Teknik Simulasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dian Mart Shoodiqin, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514101",
+    "Mata Kuliah": "Metode Pengukuran dan Analisis Data",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Menasita M, S.Si., M.T.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514309",
+    "Mata Kuliah": "Elektronika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Winarni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514006",
+    "Mata Kuliah": "Kalkulus Peubah Banyak",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Kartika Nugraheni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514026",
+    "Mata Kuliah": "Matematika Industri Lingkungan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Fegy Sukris Sri Andriany, M.Ak",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514001",
+    "Mata Kuliah": "Akuntansi Bisnis",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514007",
+    "Mata Kuliah": "Bisnis Proses Manajemen",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muh Ikhsan Alif. S. S.E., M.Sc.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514011",
+    "Mata Kuliah": "Manajemen Sumber Daya Manusia",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Boby Mugi Pratama, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514103",
+    "Mata Kuliah": "Sistem Digital",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ramadhan Paninggalih S.Si., M.Si., M.Sc.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514201",
+    "Mata Kuliah": "Aljabar Linier dan Geometri",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rizky Amelia, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514505",
+    "Mata Kuliah": "Pengolahan Citra Digital",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Riska Kurniyanto Abdullah, S.T., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514604",
+    "Mata Kuliah": "Sistem Paralel dan Terdistribusi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514003",
+    "Mata Kuliah": "Infrastruktur TI",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Henokh Lugo Hariyanto, M.Sc.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514009",
+    "Mata Kuliah": "Matematika Diskrit 2",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rosa Eliviani, S.Kom., M.T.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514019",
+    "Mata Kuliah": "Manajemen Risiko TI",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514034",
+    "Mata Kuliah": "Pengantar Manajemen Risiko",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Risty Jayanti Yuniar, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514011",
+    "Mata Kuliah": "Sinyal dan Sistem",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Amalia Rizqi Utami, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514015",
+    "Mata Kuliah": "Sistem Komunikasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Azka, S.Si., M.Sc.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514018",
+    "Mata Kuliah": "Pengantar Manajemen Risiko",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Harrys Samosir, M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514306",
+    "Mata Kuliah": "Fisika Matematika 1",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Febrian Dedi Sastrawan, S.Si., M.Sc.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2515325",
+    "Mata Kuliah": "Survey dan Pemetaan",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yanuar Bhakti Wira Tama, M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515065",
+    "Mata Kuliah": "Matematika Ekonomi dan Bisnis",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Luh Made Wisnu Satyaninggrat, S.Kom., M.T.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514005",
+    "Mata Kuliah": "Analisis dan Visualisasi Data Bisnis",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Agung Prabowo, S.E,. M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514026",
+    "Mata Kuliah": "Manajemen Sosial Media",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514037",
+    "Mata Kuliah": "Manajemen Strategi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aninditya Anggari Nuryono, S.T., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514301",
+    "Mata Kuliah": "Arsitektur Komputer",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Bowo Nugroho, S.Kom., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514305",
+    "Mata Kuliah": "Struktur Data",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nur Fajri Azhar S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514503",
+    "Mata Kuliah": "Implementasi dan Pengujian Perangkat Lunak",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Ramadhan Paninggalih S.Si., M.Si., M.Sc.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515403",
+    "Mata Kuliah": "Sains Data",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Hendy Indrawan Sunardi S.Kom, M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514026",
+    "Mata Kuliah": "Perencanaan Arsitektur Teknologi Informasi",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yun Tonce Kusuma Priyanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514006",
+    "Mata Kuliah": "Persamaan Diferensial",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Agung Nursyeha, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514007",
+    "Mata Kuliah": "Metode Numerik",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Amalia Rizqi Utami, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514015",
+    "Mata Kuliah": "Sistem Komunikasi",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514025",
+    "Mata Kuliah": "Wireless Sensor Networks dan Internet of Things",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Thorikul Huda, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514026",
+    "Mata Kuliah": "Metodologi Penelitian",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Alvianus Kristian Sumual,S.E., M.E",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514024",
+    "Mata Kuliah": "Akuntansi",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eli Zulkatri, M.Aktr",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2515006",
+    "Mata Kuliah": "Teori Dana Pensiun",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "BD2514002",
+    "Mata Kuliah": "Pengantar Bisnis Digital",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Arif Wicaksono Septyanto, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514010",
+    "Mata Kuliah": "Basis Data",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dwi Nur Amalia, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514014",
+    "Mata Kuliah": "Desain Proses Bisnis",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514019",
+    "Mata Kuliah": "Manajemen Risiko TI",
+    "KELAS": "W",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Hendy Indrawan Sunardi S.Kom, M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514030",
+    "Mata Kuliah": "Tata Kelola dan Manajemen TI",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Agung Nursyeha, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514010",
+    "Mata Kuliah": "Rangkaian dan Piranti Semikonduktor",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Thorikul Huda, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514016",
+    "Mata Kuliah": "Sistem Kontrol",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Firilia Filiana, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514017",
+    "Mata Kuliah": "Sistem Tenaga Listrik",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514003",
+    "Mata Kuliah": "Ekonomi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muh Ikhsan Alif. S. S.E., M.Sc.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514011",
+    "Mata Kuliah": "Manajemen Sumber Daya Manusia",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ramadhan Paninggalih S.Si., M.Si., M.Sc.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514101",
+    "Mata Kuliah": "Matematika Diskrit",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Boby Mugi Pratama, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514103",
+    "Mata Kuliah": "Sistem Digital",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514305",
+    "Mata Kuliah": "Struktur Data",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514506",
+    "Mata Kuliah": "Pemrograman Fungsional",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Kartika Nugraheni, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514001",
+    "Mata Kuliah": "Logika Matematika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Menasita M, S.Si., M.T.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514522",
+    "Mata Kuliah": "Fisika Instrumentasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Farida Nur Hayati, S.Si., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514021",
+    "Mata Kuliah": "Data Mining",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Nursanti Novi Arisa, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514013",
+    "Mata Kuliah": "Statistika Sistem Informasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Boby Mugi Pratama, S.Si., M.Han.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514103",
+    "Mata Kuliah": "Sistem Digital",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rizal Kusuma Putra, M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514501",
+    "Mata Kuliah": "Desain Web",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Darmansyah, S.Si., M.T.I",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515102",
+    "Mata Kuliah": "Keamanan Siber",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515203",
+    "Mata Kuliah": "Kecerdasan Web",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aninditya Anggari Nuryono, S.T., M.Eng.",
+    "Program Studi": "Rekayasa Keselamatan",
+    "Kode MK": "RK2514012",
+    "Mata Kuliah": "Dasar Simulasi dan Komputasi Keselamatan",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Thorikul Huda, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514004",
+    "Mata Kuliah": "Rangkaian Listrik DC",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riza Hadi Saputra, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514008",
+    "Mata Kuliah": "Rangkaian Digital",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Andhika Giyantara, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514020",
+    "Mata Kuliah": "Instrumentasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Happy Aprillia, S.ST., M.T., M.Eng.,Ph.D.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514030",
+    "Mata Kuliah": "Sistem Energi Baru dan Terbarukan",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514018",
+    "Mata Kuliah": "Manajemen Risiko",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Ir. Riovan Styx Roring, S.T., M.Kom",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2515042",
+    "Mata Kuliah": "Gamifikasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Aditya Putra Pratama, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514007",
+    "Mata Kuliah": "Struktur Aljabar I",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dr. Moh. Januar Ismail Burhan, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514002",
+    "Mata Kuliah": "Geometri Analitik",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dr. Swastya Rahastama, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514311",
+    "Mata Kuliah": "Fisika Fluida",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Alvianus Kristian Sumual, M.E",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514002",
+    "Mata Kuliah": "Ekonomi Mikro",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Lili Hernawati, M.Si",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2515015",
+    "Mata Kuliah": "Matematika Keuangan Syariah",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514004",
+    "Mata Kuliah": "Matematika Diskrit 1",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514011",
+    "Mata Kuliah": "Desain dan Manajemen Jaringan Komputer",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Aidil Saputra Kirsan, S.ST., M.Tr.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514027",
+    "Mata Kuliah": "Komputasi Awan",
+    "KELAS": "Z",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Hendy Indrawan Sunardi S.Kom, M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514030",
+    "Mata Kuliah": "Tata Kelola dan Manajemen TI",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dwi Nur Amalia, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514035",
+    "Mata Kuliah": "Audit Sistem Informasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ramadhan Paninggalih S.Si., M.Si., M.Sc.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514201",
+    "Mata Kuliah": "Aljabar Linier dan Geometri",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Darmansyah, S.Si., M.T.I",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514303",
+    "Mata Kuliah": "Sistem Operasi",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ramadhan Paninggalih S.Si., M.Si., M.Sc.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514701",
+    "Mata Kuliah": "Capstone Project",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514005",
+    "Mata Kuliah": "Elektromagnetika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Ridho Dewanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514018",
+    "Mata Kuliah": "Sistem Tertanam",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Amalia Rizqi Utami, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514021",
+    "Mata Kuliah": "Komunikasi Nirkabel",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ir. Riovan Styx Roring, S.T., M.Kom",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514038",
+    "Mata Kuliah": "Analisis Big Data",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Yanuar Bhakti Wira Tama, M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514019",
+    "Mata Kuliah": "Pengantar Statistika Matematika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Adam, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515028",
+    "Mata Kuliah": "Pengantar Analisis Fungsional",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Agus Rifani, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514519",
+    "Mata Kuliah": "Fisika Kuantum",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Isti Kamila, S.Pd., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514022",
+    "Mata Kuliah": "Proses Stokastik",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Eka Krisna Santoso, S.Si, MBA",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514013",
+    "Mata Kuliah": "Design Thinking Inovasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Yumna Aqila Kaltsum, S.Si., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514011",
+    "Mata Kuliah": "Desain Eksperimen",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Farida Nur Hayati, S.Si., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514011",
+    "Mata Kuliah": "Desain Eksperimen",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Magdalena Effendi, S.Stat., M.Stat.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514022",
+    "Mata Kuliah": "Pengantar Ekonometrika",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rosa Eliviani, S.Kom., M.T.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514001",
+    "Mata Kuliah": "Konsep Sistem Informasi",
+    "KELAS": "D",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dwi Arief Prambudi M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2515044",
+    "Mata Kuliah": "Manajemen Kualitas SI",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Bowo Nugroho, S.Kom., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514504",
+    "Mata Kuliah": "Manajemen Basis Data",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Darmansyah, S.Si., M.T.I",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514702",
+    "Mata Kuliah": "Keprofesian Informatika",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riza Hadi Saputra, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514007",
+    "Mata Kuliah": "Metode Numerik",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Ridho Dewanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514018",
+    "Mata Kuliah": "Sistem Tertanam",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514003",
+    "Mata Kuliah": "Ekonomi",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Ir. Riovan Styx Roring, S.T., M.Kom",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514027",
+    "Mata Kuliah": "Keamanan Sistem Informasi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Adam, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2515029",
+    "Mata Kuliah": "Pengantar Geometri Diferensial",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dr. Swastya Rahastama, S.Si., M.Si.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "FI2515101",
+    "Mata Kuliah": "Anatomi dan Fisiologi",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rahmania, S.Pd., M.Sc.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "FI2515331",
+    "Mata Kuliah": "Mitigasi Bencana",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dian Mart Shoodiqin, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514726",
+    "Mata Kuliah": "Fisika Energi",
+    "KELAS": "X",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ir. Riovan Styx Roring, S.T., M.Kom",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514038",
+    "Mata Kuliah": "Analisis Big Data",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Mega Silfiani, S.Si., M.Si., M.Sc.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514003",
+    "Mata Kuliah": "Komputasi Statistika Lanjut",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Prasis Damai Nursyam Hamijaya, S.P., M.M.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514036",
+    "Mata Kuliah": "Studi Kelayakan Bisnis",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yun Tonce Kusuma Priyanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514001",
+    "Mata Kuliah": "Aljabar Linear",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Ridho Dewanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514001",
+    "Mata Kuliah": "Aljabar Linear",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riza Hadi Saputra, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514004",
+    "Mata Kuliah": "Rangkaian Listrik DC",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rizal Kusuma Putra, M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514501",
+    "Mata Kuliah": "Desain Web",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riska Kurniyanto Abdullah, S.T., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515301",
+    "Mata Kuliah": "Manajemen Proyek TIK",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Rosa Eliviani, S.Kom., M.T.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514001",
+    "Mata Kuliah": "Konsep Sistem Informasi",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514004",
+    "Mata Kuliah": "Matematika Diskrit 1",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dwi Arief Prambudi M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514005",
+    "Mata Kuliah": "Kemampuan Interpersonal dan Kepemimpinan",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Arif Wicaksono Septyanto, M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514012",
+    "Mata Kuliah": "Pemrograman Lanjut",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Henokh Lugo Hariyanto, M.Sc.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514036",
+    "Mata Kuliah": "Etika Profesi Sistem Informasi",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Isti Kamila, S.Pd., M.Si.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2515008",
+    "Mata Kuliah": "Pemodelan Keuangan Derivatif",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Irma Fitria, S.Si, M.Si.",
+    "Program Studi": "Statistika",
+    "Kode MK": "ST2514010",
+    "Mata Kuliah": "Riset Operasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Meidi Arisalwadi S.Si. M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514520",
+    "Mata Kuliah": "Teknologi Fisika",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dr. Swastya Rahastama, S.Si., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2515103",
+    "Mata Kuliah": "Fisika Kesehatan dan Proteksi Radiasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Adam, S.Si., M.Si.",
+    "Program Studi": "Matematika",
+    "Kode MK": "MA2514014",
+    "Mata Kuliah": "Persamaan Diferensial Parsial",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Luh Made Wisnu Satyaninggrat, S.Kom., M.T.",
+    "Program Studi": "Bisnis Digital",
+    "Kode MK": "BD2514028",
+    "Mata Kuliah": "Kecerdasan Buatan",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Risty Jayanti Yuniar, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514011",
+    "Mata Kuliah": "Sinyal dan Sistem",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Amalia Rizqi Utami, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514021",
+    "Mata Kuliah": "Komunikasi Nirkabel",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Ramadhan Paninggalih S.Si., M.Si., M.Sc.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514101",
+    "Mata Kuliah": "Matematika Diskrit",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Aninditya Anggari Nuryono, S.T., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514301",
+    "Mata Kuliah": "Arsitektur Komputer",
+    "KELAS": "C",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Riska Kurniyanto Abdullah, S.T., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514604",
+    "Mata Kuliah": "Sistem Paralel dan Terdistribusi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Rizal Kusuma Putra, M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514704",
+    "Mata Kuliah": "Pengembangan Aplikasi Perangkat Bergerak",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom.",
+    "Program Studi": "Rekayasa Keselamatan",
+    "Kode MK": "RK2514012",
+    "Mata Kuliah": "Dasar Simulasi dan Komputasi Keselamatan",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Henokh Lugo Hariyanto, M.Sc.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514009",
+    "Mata Kuliah": "Matematika Diskrit 2",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Aidil Saputra Kirsan, S.ST., M.Tr.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514011",
+    "Mata Kuliah": "Desain dan Manajemen Jaringan Komputer",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Dwi Arief Prambudi M.Kom.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514017",
+    "Mata Kuliah": "Keamanan Sistem Informasi",
+    "KELAS": "A",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "Hendy Indrawan Sunardi S.Kom, M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514017",
+    "Mata Kuliah": "Keamanan Sistem Informasi",
+    "KELAS": "B",
+    "SKS": "3"
+  },
+  {
+    "Dosen Pengampu": "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514019",
+    "Mata Kuliah": "Manajemen Risiko TI",
+    "KELAS": "X",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Azka, S.Si., M.Sc.",
+    "Program Studi": "Ilmu Aktuaria",
+    "Kode MK": "AK2514029",
+    "Mata Kuliah": "Metodologi Penelitian",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Dr. Musyarofah, S.Pd., M.Si.",
+    "Program Studi": "Fisika",
+    "Kode MK": "FI2514415",
+    "Mata Kuliah": "Pengantar Fisika Kuantum",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Ridho Dewanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514007",
+    "Mata Kuliah": "Metode Numerik",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Riza Hadi Saputra, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514008",
+    "Mata Kuliah": "Rangkaian Digital",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Muhammad Ridho Dewanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2514024",
+    "Mata Kuliah": "Pengolahan Sinyal Digital",
+    "KELAS": "B",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Yun Tonce Kusuma Priyanto, S.T., M.T.",
+    "Program Studi": "Teknik Elektro",
+    "Kode MK": "TE2515010",
+    "Mata Kuliah": "Kualitas Daya Listrik",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nur Fajri Azhar S.Kom., M.Kom.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514503",
+    "Mata Kuliah": "Implementasi dan Pengujian Perangkat Lunak",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Bowo Nugroho, S.Kom., M.Eng.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2514504",
+    "Mata Kuliah": "Manajemen Basis Data",
+    "KELAS": "C",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Nisa Rizqiya Fadhliana, S.Kom., M.T.",
+    "Program Studi": "Informatika",
+    "Kode MK": "IF2515002",
+    "Mata Kuliah": "Kapita Selekta",
+    "KELAS": "A",
+    "SKS": "2"
+  },
+  {
+    "Dosen Pengampu": "Hendy Indrawan Sunardi S.Kom, M.Eng.",
+    "Program Studi": "Sistem Informasi",
+    "Kode MK": "SI2514026",
+    "Mata Kuliah": "Perencanaan Arsitektur Teknologi Informasi",
+    "KELAS": "A",
+    "SKS": "2"
+  }
+]

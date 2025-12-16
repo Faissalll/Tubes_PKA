@@ -1,0 +1,995 @@
+{
+  "fitness": 62,
+  "schedule": [
+    {
+      "matkul_id": "TE201403-1",
+      "ruang": "R18",
+      "day": "Rabu",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201403-2",
+      "ruang": "R6",
+      "day": "Kamis",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201403-3",
+      "ruang": "R3",
+      "day": "Senin",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201404-2",
+      "ruang": "R11",
+      "day": "Rabu",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201404-3",
+      "ruang": "R2",
+      "day": "Kamis",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201404-1",
+      "ruang": "R13",
+      "day": "Senin",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201412-1",
+      "ruang": "R18",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201412-2",
+      "ruang": "R15",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201413-1",
+      "ruang": "R12",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201413-2",
+      "ruang": "R8",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201414-1",
+      "ruang": "R12",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201414-2",
+      "ruang": "R8",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201415-1",
+      "ruang": "R1",
+      "day": "Senin",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201415-2",
+      "ruang": "R7",
+      "day": "Selasa",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201416-1",
+      "ruang": "R18",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201416-2",
+      "ruang": "R14",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201417-1",
+      "ruang": "R15",
+      "day": "Kamis",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201417-2",
+      "ruang": "R9",
+      "day": "Senin",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201423-2",
+      "ruang": "R11",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201423-1",
+      "ruang": "R10",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201424-1",
+      "ruang": "R6",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201424-2",
+      "ruang": "R9",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201425-1",
+      "ruang": "R12",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201425-2",
+      "ruang": "R7",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201426-1",
+      "ruang": "R18",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201426-2",
+      "ruang": "R12",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201427-1",
+      "ruang": "R13",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201427-2",
+      "ruang": "R15",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201428-2",
+      "ruang": "R8",
+      "day": "Senin",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201428-1",
+      "ruang": "R8",
+      "day": "Rabu",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201429-1",
+      "ruang": "R15",
+      "day": "Kamis",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201551-1",
+      "ruang": "R6",
+      "day": "Jumat",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201559-1",
+      "ruang": "R8",
+      "day": "Rabu",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201563-1",
+      "ruang": "R12",
+      "day": "Senin",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201566-1",
+      "ruang": "R10",
+      "day": "Selasa",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201567-1",
+      "ruang": "R11",
+      "day": "Senin",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201569-1",
+      "ruang": "R14",
+      "day": "Rabu",
+      "session": 4
+    },
+    {
+      "matkul_id": "TE201574-1",
+      "ruang": "R14",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201576-1",
+      "ruang": "R9",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201577-1",
+      "ruang": "R18",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201578-1",
+      "ruang": "R3",
+      "day": "Kamis",
+      "session": 2
+    },
+    {
+      "matkul_id": "TE201583-1",
+      "ruang": "R17",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "TE201731-1",
+      "ruang": "R9",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "TE201586-1",
+      "ruang": "R10",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201414-1",
+      "ruang": "R4",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201414-2",
+      "ruang": "R13",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201413-1",
+      "ruang": "R4",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201413-2",
+      "ruang": "R13",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201426-1",
+      "ruang": "R5",
+      "day": "Senin",
+      "session": 2
+    },
+    {
+      "matkul_id": "SI201426-2",
+      "ruang": "R17",
+      "day": "Selasa",
+      "session": 2
+    },
+    {
+      "matkul_id": "SI201424-1",
+      "ruang": "R16",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201424-2",
+      "ruang": "R18",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201411-1",
+      "ruang": "R15",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201411-2",
+      "ruang": "R6",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201550-1",
+      "ruang": "R8",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201632-1",
+      "ruang": "R3",
+      "day": "Jumat",
+      "session": 4
+    },
+    {
+      "matkul_id": "SI201540-1",
+      "ruang": "R3",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201403-1",
+      "ruang": "R17",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201403-2",
+      "ruang": "R18",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201425-1",
+      "ruang": "R9",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201425-2",
+      "ruang": "R5",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201535-1",
+      "ruang": "R13",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201404-1",
+      "ruang": "R4",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201404-2",
+      "ruang": "R17",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201412-1",
+      "ruang": "R9",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201412-2",
+      "ruang": "R16",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201545-1",
+      "ruang": "R14",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201423-1",
+      "ruang": "R9",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201423-2",
+      "ruang": "R15",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201416-1",
+      "ruang": "R6",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201416-2",
+      "ruang": "R9",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201546-1",
+      "ruang": "R4",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201733-1",
+      "ruang": "R11",
+      "day": "Jumat",
+      "session": 4
+    },
+    {
+      "matkul_id": "SI201415-1",
+      "ruang": "R16",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201415-2",
+      "ruang": "R1",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201422-1",
+      "ruang": "R11",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "SI201422-2",
+      "ruang": "R18",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "SI201734-1",
+      "ruang": "R14",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201402-1",
+      "ruang": "R14",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201402-2",
+      "ruang": "R12",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201402-3",
+      "ruang": "R16",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201403-1",
+      "ruang": "R4",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201403-3",
+      "ruang": "R18",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201403-2",
+      "ruang": "R15",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201404-1",
+      "ruang": "R15",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201404-2",
+      "ruang": "R11",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201404-3",
+      "ruang": "R4",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201410-1",
+      "ruang": "R16",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201410-2",
+      "ruang": "R11",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201411-1",
+      "ruang": "R18",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201411-2",
+      "ruang": "R3",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201412-2",
+      "ruang": "R11",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201412-1",
+      "ruang": "R2",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201413-1",
+      "ruang": "R3",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201413-2",
+      "ruang": "R10",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201413-3",
+      "ruang": "R9",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201414-1",
+      "ruang": "R2",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201414-2",
+      "ruang": "R8",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201415-1",
+      "ruang": "R17",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201415-2",
+      "ruang": "R13",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201416-2",
+      "ruang": "R17",
+      "day": "Selasa",
+      "session": 2
+    },
+    {
+      "matkul_id": "IF201416-1",
+      "ruang": "R16",
+      "day": "Jumat",
+      "session": 4
+    },
+    {
+      "matkul_id": "IF201423-1",
+      "ruang": "R1",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201423-2",
+      "ruang": "R2",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201424-1",
+      "ruang": "R8",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201424-2",
+      "ruang": "R18",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201425-1",
+      "ruang": "R4",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201425-2",
+      "ruang": "R17",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201426-1",
+      "ruang": "R14",
+      "day": "Rabu",
+      "session": 2
+    },
+    {
+      "matkul_id": "IF201426-2",
+      "ruang": "R15",
+      "day": "Rabu",
+      "session": 4
+    },
+    {
+      "matkul_id": "IF201505-1",
+      "ruang": "R15",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201514-1",
+      "ruang": "R13",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "IF201504-1",
+      "ruang": "R2",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201503-1",
+      "ruang": "R9",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201510-1",
+      "ruang": "R9",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201513-1",
+      "ruang": "R8",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201508-1",
+      "ruang": "R16",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201506-1",
+      "ruang": "R18",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201511-1",
+      "ruang": "R11",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "IF201512-1",
+      "ruang": "R17",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201410-1",
+      "ruang": "R11",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201410-2",
+      "ruang": "R5",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201410-3",
+      "ruang": "R12",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201432-1",
+      "ruang": "R2",
+      "day": "Rabu",
+      "session": 4
+    },
+    {
+      "matkul_id": "BD201432-2",
+      "ruang": "R18",
+      "day": "Selasa",
+      "session": 4
+    },
+    {
+      "matkul_id": "BD201433-1",
+      "ruang": "R16",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201433-2",
+      "ruang": "R1",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201422-1",
+      "ruang": "R7",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201422-2",
+      "ruang": "R2",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201421-1",
+      "ruang": "R9",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201421-2",
+      "ruang": "R5",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201406-1",
+      "ruang": "R2",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201406-2",
+      "ruang": "R6",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201406-3",
+      "ruang": "R7",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201409-1",
+      "ruang": "R14",
+      "day": "Senin",
+      "session": 2
+    },
+    {
+      "matkul_id": "BD201409-2",
+      "ruang": "R14",
+      "day": "Jumat",
+      "session": 2
+    },
+    {
+      "matkul_id": "BD201409-3",
+      "ruang": "R7",
+      "day": "Senin",
+      "session": 4
+    },
+    {
+      "matkul_id": "BD201423-1",
+      "ruang": "R12",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201423-2",
+      "ruang": "R18",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201434-1",
+      "ruang": "R6",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201434-2",
+      "ruang": "R7",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201419-1",
+      "ruang": "R7",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201419-2",
+      "ruang": "R7",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201506-1",
+      "ruang": "R5",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201430-1",
+      "ruang": "R9",
+      "day": "Jumat",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201430-2",
+      "ruang": "R17",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201429-1",
+      "ruang": "R3",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201429-2",
+      "ruang": "R6",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201431-1",
+      "ruang": "R18",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201431-2",
+      "ruang": "R10",
+      "day": "Senin",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201418-1",
+      "ruang": "R6",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201418-2",
+      "ruang": "R13",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201420-1",
+      "ruang": "R3",
+      "day": "Senin",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201420-2",
+      "ruang": "R9",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201411-1",
+      "ruang": "R5",
+      "day": "Kamis",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201411-2",
+      "ruang": "R8",
+      "day": "Rabu",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201411-3",
+      "ruang": "R17",
+      "day": "Selasa",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201407-1",
+      "ruang": "R4",
+      "day": "Rabu",
+      "session": 2
+    },
+    {
+      "matkul_id": "BD201407-2",
+      "ruang": "R6",
+      "day": "Kamis",
+      "session": 4
+    },
+    {
+      "matkul_id": "BD201407-3",
+      "ruang": "R2",
+      "day": "Kamis",
+      "session": 2
+    },
+    {
+      "matkul_id": "BD201408-1",
+      "ruang": "R17",
+      "day": "Rabu",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201408-2",
+      "ruang": "R4",
+      "day": "Jumat",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201408-3",
+      "ruang": "R14",
+      "day": "Selasa",
+      "session": 3
+    },
+    {
+      "matkul_id": "BD201601-1",
+      "ruang": "R11",
+      "day": "Kamis",
+      "session": 1
+    },
+    {
+      "matkul_id": "BD201507-1",
+      "ruang": "R12",
+      "day": "Senin",
+      "session": 3
+    }
+  ]
+}

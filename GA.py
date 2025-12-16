@@ -184,6 +184,50 @@ def mutate(individual, timeslots, ruang_list, matkul_list):
     return individual
 
 
+<<<<<<< HEAD
+=======
+# Cetak Jadwal 
+def print_schedule(individual, timeslots, ruang_list, matkul_list):
+    """Cetak jadwal dalam format manusiawi, diurutkan berdasarkan hari & sesi."""
+    records = []
+
+    for i, gene in enumerate(individual):
+        ts_index, room_index = gene
+        mk = matkul_list[i]
+        ts = timeslots[ts_index]
+        room = ruang_list[room_index]
+
+        records.append({
+            "day": ts["day"],
+            "session": ts["session"],
+            "start": ts["start"],
+            "end": ts["end"],
+            "room": room,
+            "kode_mk": mk["kode_mk"],
+            "nama": mk["nama"],
+            "kelas": mk["kelas"],
+            "sks": mk["sks"],
+            "dosen": ", ".join(mk["dosen"]),
+        })
+
+    day_order_map = {d: i for i, d in enumerate(DAY_ORDER)}
+    records.sort(key=lambda r: (day_order_map.get(r["day"], 99), r["session"], r["room"]))
+
+    current_day = None
+    for r in records:
+        if r["day"] != current_day:
+            current_day = r["day"]
+            print("\n==============================")
+            print(f"Hari: {current_day}")
+            print("==============================")
+
+        print(
+            f"Sesi {r['session']} ({r['start']}-{r['end']}) | "
+            f"Ruang {r['room']} | {r['kode_mk']} ({r['nama']}) "
+            f"Kelas {r['kelas']} | SKS {r['sks']} | Dosen: {r['dosen']}"
+        )
+
+>>>>>>> 2c91b92f8c3fde510e0fc9fbcc811645111d450b
 def export_to_csv(individual, timeslots, ruang_list, matkul_list, filename="jadwal_ga.csv"):
     """Export jadwal terbaik ke file CSV."""
     records = []
@@ -272,10 +316,18 @@ def run_ga():
         population = new_population
 
     # Cetak hasil jadwal setelah semua generasion
+<<<<<<< HEAD
     print("\n=== HASIL AKHIR GA ===")
+=======
+    print("\n=== HASIL AKHIR ===")
+>>>>>>> 2c91b92f8c3fde510e0fc9fbcc811645111d450b
     print(f"Fitness terbaik: {best_fitness:.6f}")
     print(f"Total penalty:   {best_penalty}")
     export_to_csv(best_individual, timeslots, ruang_list, matkul_list)
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     run_ga()
+=======
+    run_ga()
+>>>>>>> 2c91b92f8c3fde510e0fc9fbcc811645111d450b
