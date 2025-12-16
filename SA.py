@@ -9,17 +9,10 @@ from typing import List, Dict, Tuple
 
 
 # Parameter SA 
-<<<<<<< HEAD
-INITIAL_TEMPERATURE = 1000.0     
-FINAL_TEMPERATURE = 0.01        
-COOLING_RATE = 0.97          
-MAX_ITERATIONS = 1000            
-=======
 INITIAL_TEMPERATURE = 2000.0     
 FINAL_TEMPERATURE = 0.01         
 COOLING_RATE = 0.97              
 MAX_ITERATIONS = 2000            
->>>>>>> 2c91b92f8c3fde510e0fc9fbcc811645111d450b
 MAX_NO_IMPROVEMENT = 500         
 
 # Hari
