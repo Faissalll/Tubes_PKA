@@ -1,12 +1,40 @@
 [
     {
-        "id": "TE201403-1",
-        "kode_mk": "TE201403",
-        "nama": "Matematika Diskrit",
+        "id": "AK2514001-1",
+        "kode_mk": "AK2514001",
+        "nama": "Logika dan Himpunan",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Indrawan, S.Pd., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514001-2",
+        "kode_mk": "AK2514001",
+        "nama": "Logika dan Himpunan",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Indrawan, S.Pd. M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514002-1",
+        "kode_mk": "AK2514002",
+        "nama": "Ekonomi Mikro",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Oscar"
+            "Alvianus Kristian Sumual, M.E"
         ],
         "allowed_sessions": [
             2,
@@ -14,13 +42,13 @@
         ]
     },
     {
-        "id": "TE201403-2",
-        "kode_mk": "TE201403",
-        "nama": "Matematika Diskrit",
+        "id": "AK2514002-2",
+        "kode_mk": "AK2514002",
+        "nama": "Ekonomi Mikro",
         "kelas": "B",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Oscar"
+            "Alvianus Kristian Sumual, S.E., M.E."
         ],
         "allowed_sessions": [
             2,
@@ -28,13 +56,27 @@
         ]
     },
     {
-        "id": "TE201403-3",
-        "kode_mk": "TE201403",
-        "nama": "Matematika Diskrit",
-        "kelas": "C",
+        "id": "AK2514005-1",
+        "kode_mk": "AK2514005",
+        "nama": "Matematika Keuangan 1",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Isti Kamila, S.Pd., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514006-1",
+        "kode_mk": "AK2514006",
+        "nama": "Metode Numerik",
+        "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Oscar"
+            "Nurul Maqfirah Rauf, M.Mat."
         ],
         "allowed_sessions": [
             2,
@@ -42,13 +84,69 @@
         ]
     },
     {
-        "id": "TE201404-2",
-        "kode_mk": "TE201404",
-        "nama": "Material Teknik Elektro",
-        "kelas": "B",
+        "id": "AK2514007-1",
+        "kode_mk": "AK2514007",
+        "nama": "Teori Peluang",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Nurul Maqfirah Rauf, M.Mat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514009-1",
+        "kode_mk": "AK2514009",
+        "nama": "Matematika Lanjut",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Putri Amalia, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514011-1",
+        "kode_mk": "AK2514011",
+        "nama": "Pengantar Analisis Real",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Putri Amalia, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514012-1",
+        "kode_mk": "AK2514012",
+        "nama": "Model Linier",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Indrawan, S.Pd. M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2514018-1",
+        "kode_mk": "AK2514018",
+        "nama": "Pengantar Manajemen Risiko",
+        "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Delta"
+            "Muhammad Azka, S.Si., M.Sc."
         ],
         "allowed_sessions": [
             2,
@@ -56,13 +154,13 @@
         ]
     },
     {
-        "id": "TE201404-3",
-        "kode_mk": "TE201404",
-        "nama": "Material Teknik Elektro",
-        "kelas": "C",
+        "id": "AK2514018-2",
+        "kode_mk": "AK2514018",
+        "nama": "Pengantar Manajemen Risiko",
+        "kelas": "B",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Delta"
+            "Muhammad Azka, S.Si., M.Sc."
         ],
         "allowed_sessions": [
             2,
@@ -70,13 +168,13 @@
         ]
     },
     {
-        "id": "TE201404-1",
-        "kode_mk": "TE201404",
-        "nama": "Material Teknik Elektro",
+        "id": "AK2514019-1",
+        "kode_mk": "AK2514019",
+        "nama": "Ilmu Data",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Delta"
+            "Wahyu Dwi Lesmono, S.Si, M.Si"
         ],
         "allowed_sessions": [
             2,
@@ -84,13 +182,13 @@
         ]
     },
     {
-        "id": "TE201412-1",
-        "kode_mk": "TE201412",
-        "nama": "Rangkaian Listrik II",
+        "id": "AK2514022-1",
+        "kode_mk": "AK2514022",
+        "nama": "Proses Stokastik",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-November"
+            "Isti Kamila, S.Pd., M.Si."
         ],
         "allowed_sessions": [
             1,
@@ -98,55 +196,13 @@
         ]
     },
     {
-        "id": "TE201412-2",
-        "kode_mk": "TE201412",
-        "nama": "Rangkaian Listrik II",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-November"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201413-1",
-        "kode_mk": "TE201413",
-        "nama": "Medan Elektromagnetik",
-        "kelas": "A",
-        "sks": 4,
-        "dosen": [
-            "Dosen TE-November"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201413-2",
-        "kode_mk": "TE201413",
-        "nama": "Medan Elektromagnetik",
-        "kelas": "B",
-        "sks": 4,
-        "dosen": [
-            "Dosen TE-November"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201414-1",
-        "kode_mk": "TE201414",
-        "nama": "Rangkaian Elektronika II",
+        "id": "AK2514023-1",
+        "kode_mk": "AK2514023",
+        "nama": "Matematika Aktuaria 2",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-Uniform"
+            "Eli Zulkatri, M.Aktr"
         ],
         "allowed_sessions": [
             1,
@@ -154,27 +210,13 @@
         ]
     },
     {
-        "id": "TE201414-2",
-        "kode_mk": "TE201414",
-        "nama": "Rangkaian Elektronika II",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Uniform"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201415-1",
-        "kode_mk": "TE201415",
-        "nama": "Arsitektur dan Organisasi Sistem Komputer",
+        "id": "AK2514024-1",
+        "kode_mk": "AK2514024",
+        "nama": "Akuntansi",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Charlie"
+            "Alvianus Kristian Sumual, S.E., M.E."
         ],
         "allowed_sessions": [
             2,
@@ -182,27 +224,27 @@
         ]
     },
     {
-        "id": "TE201415-2",
-        "kode_mk": "TE201415",
-        "nama": "Arsitektur dan Organisasi Sistem Komputer",
-        "kelas": "B",
-        "sks": 2,
+        "id": "AK2514024-2",
+        "kode_mk": "AK2514024",
+        "nama": "Akuntansi",
+        "kelas": "X",
+        "sks": 3,
         "dosen": [
-            "Dosen TE-Charlie"
+            "Alvianus Kristian Sumual, S.E., M.E"
         ],
         "allowed_sessions": [
-            2,
-            4
+            1,
+            3
         ]
     },
     {
-        "id": "TE201416-1",
-        "kode_mk": "TE201416",
-        "nama": "Sinyal dan Sistem",
+        "id": "AK2514025-1",
+        "kode_mk": "AK2514025",
+        "nama": "Teori Risiko Aktuaria 2",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-Romeo"
+            "Muhammad Azka, S.Si., M.Sc."
         ],
         "allowed_sessions": [
             1,
@@ -210,69 +252,13 @@
         ]
     },
     {
-        "id": "TE201416-2",
-        "kode_mk": "TE201416",
-        "nama": "Sinyal dan Sistem",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Romeo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201417-1",
-        "kode_mk": "TE201417",
-        "nama": "Komunikasi Data",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Mike"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201417-2",
-        "kode_mk": "TE201417",
-        "nama": "Komunikasi Data",
-        "kelas": "B",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Mike"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201423-2",
-        "kode_mk": "TE201423",
-        "nama": "Teknologi Transduser",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-November"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201423-1",
-        "kode_mk": "TE201423",
-        "nama": "Teknologi Transduser",
+        "id": "AK2514027-1",
+        "kode_mk": "AK2514027",
+        "nama": "Analisis Risiko Lingkungan",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-November"
+            "Muhammad Azka, S.Si., M.Sc."
         ],
         "allowed_sessions": [
             1,
@@ -280,153 +266,13 @@
         ]
     },
     {
-        "id": "TE201424-1",
-        "kode_mk": "TE201424",
-        "nama": "Konversi Energi Listrik",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Victor"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201424-2",
-        "kode_mk": "TE201424",
-        "nama": "Konversi Energi Listrik",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Victor"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201425-1",
-        "kode_mk": "TE201425",
-        "nama": "Desain Sistem Pengaturan",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Juliet"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201425-2",
-        "kode_mk": "TE201425",
-        "nama": "Desain Sistem Pengaturan",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Juliet"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201426-1",
-        "kode_mk": "TE201426",
-        "nama": "Sistem Komunikasi",
-        "kelas": "A",
-        "sks": 4,
-        "dosen": [
-            "Dosen TE-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201426-2",
-        "kode_mk": "TE201426",
-        "nama": "Sistem Komunikasi",
-        "kelas": "B",
-        "sks": 4,
-        "dosen": [
-            "Dosen TE-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201427-1",
-        "kode_mk": "TE201427",
-        "nama": "Sistem Mikroprosesor dan Mikrokontroler",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201427-2",
-        "kode_mk": "TE201427",
-        "nama": "Sistem Mikroprosesor dan Mikrokontroler",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201428-2",
-        "kode_mk": "TE201428",
-        "nama": "Kecerdasan Buatan",
-        "kelas": "B",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Victor"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201428-1",
-        "kode_mk": "TE201428",
-        "nama": "Kecerdasan Buatan",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Victor"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201429-1",
-        "kode_mk": "TE201429",
+        "id": "AK2514029-1",
+        "kode_mk": "AK2514029",
         "nama": "Metodologi Penelitian",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Quebec"
+            "Muhammad Azka, S.Si., M.Sc."
         ],
         "allowed_sessions": [
             2,
@@ -434,97 +280,13 @@
         ]
     },
     {
-        "id": "TE201551-1",
-        "kode_mk": "TE201551",
-        "nama": "Kapita Selekta",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Bravo"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201559-1",
-        "kode_mk": "TE201559",
-        "nama": "Kualitas Daya Listrik",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Juliet"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201563-1",
-        "kode_mk": "TE201563",
-        "nama": "Teknik Tegangan Tinggi",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Papa"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201566-1",
-        "kode_mk": "TE201566",
-        "nama": "Manajemen Proyek",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Kilo"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201567-1",
-        "kode_mk": "TE201567",
-        "nama": "Otomasi Industri",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Victor"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201569-1",
-        "kode_mk": "TE201569",
-        "nama": "Sistem Pengendalian Mesin Listrik",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen TE-Foxtrot"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "TE201574-1",
-        "kode_mk": "TE201574",
-        "nama": "Elektronika Pencegahan Bencana",
+        "id": "AK2515006-1",
+        "kode_mk": "AK2515006",
+        "nama": "Teori Dana Pensiun",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-Romeo"
+            "Eli Zulkatri, M.Aktr"
         ],
         "allowed_sessions": [
             1,
@@ -532,13 +294,13 @@
         ]
     },
     {
-        "id": "TE201576-1",
-        "kode_mk": "TE201576",
-        "nama": "Teknologi Kendaraan Cerdas",
+        "id": "AK2515007-1",
+        "kode_mk": "AK2515007",
+        "nama": "Riset Operasi",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-Bravo"
+            "Putri Amalia, S.Si., M.Si."
         ],
         "allowed_sessions": [
             1,
@@ -546,13 +308,13 @@
         ]
     },
     {
-        "id": "TE201577-1",
-        "kode_mk": "TE201577",
-        "nama": "Jaringan Akses Nirkabel",
+        "id": "AK2515008-1",
+        "kode_mk": "AK2515008",
+        "nama": "Pemodelan Keuangan Derivatif",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-Foxtrot"
+            "Isti Kamila, S.Pd., M.Si."
         ],
         "allowed_sessions": [
             1,
@@ -560,13 +322,27 @@
         ]
     },
     {
-        "id": "TE201578-1",
-        "kode_mk": "TE201578",
-        "nama": "Sistem Komunikasi Serat Optik",
+        "id": "AK2515011-1",
+        "kode_mk": "AK2515011",
+        "nama": "Pembelajaran Mesin",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Wahyu Dwi Lesmono, S.Si, M.Si"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "AK2515015-1",
+        "kode_mk": "AK2515015",
+        "nama": "Matematika Keuangan Syariah",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen TE-Kilo"
+            "Lili Hernawati, M.Si"
         ],
         "allowed_sessions": [
             2,
@@ -574,13 +350,13 @@
         ]
     },
     {
-        "id": "TE201583-1",
-        "kode_mk": "TE201583",
-        "nama": "Aplikasi Komputer Bergerak",
+        "id": "BD2514001-1",
+        "kode_mk": "BD2514001",
+        "nama": "Akuntansi Bisnis",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen TE-Hotel"
+            "Fegy Sukris Sri Andriany, M.Ak"
         ],
         "allowed_sessions": [
             1,
@@ -588,112 +364,13 @@
         ]
     },
     {
-        "id": "TE201731-1",
-        "kode_mk": "TE201731",
-        "nama": "Tugas Akhir",
-        "kelas": "A",
-        "sks": 6,
-        "dosen": [
-            "Dosen TE-Golf",
-            "Dosen TE-Papa"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "TE201586-1",
-        "kode_mk": "TE201586",
-        "nama": "Visi Komputer",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen TE-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201414-1",
-        "kode_mk": "SI201414",
-        "nama": "Desain dan Manajemen Jaringan Komputer",
-        "kelas": "A",
-        "sks": 4,
-        "dosen": [
-            "Dosen SI-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201414-2",
-        "kode_mk": "SI201414",
-        "nama": "Desain dan Manajemen Jaringan Komputer",
-        "kelas": "B",
-        "sks": 4,
-        "dosen": [
-            "Dosen SI-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201413-1",
-        "kode_mk": "SI201413",
-        "nama": "Desain Interaksi Antarmuka dan Pengalaman Pengguna",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Lima"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201413-2",
-        "kode_mk": "SI201413",
-        "nama": "Desain Interaksi Antarmuka dan Pengalaman Pengguna",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Lima"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201426-1",
-        "kode_mk": "SI201426",
-        "nama": "Inovasi dan Transformasi Digital",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen SI-Kilo"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "SI201426-2",
-        "kode_mk": "SI201426",
-        "nama": "Inovasi dan Transformasi Digital",
+        "id": "BD2514001-2",
+        "kode_mk": "BD2514001",
+        "nama": "Akuntansi Bisnis",
         "kelas": "B",
         "sks": 2,
         "dosen": [
-            "Dosen SI-Kilo"
+            "Fegy Sukris Sri Andriany, M.Ak"
         ],
         "allowed_sessions": [
             2,
@@ -701,13 +378,13 @@
         ]
     },
     {
-        "id": "SI201424-1",
-        "kode_mk": "SI201424",
-        "nama": "Keamanan Sistem Informasi",
-        "kelas": "A",
+        "id": "BD2514001-3",
+        "kode_mk": "BD2514001",
+        "nama": "Akuntansi Bisnis",
+        "kelas": "C",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Charlie"
+            "Fegy Sukris Sri Andriany, M.Ak"
         ],
         "allowed_sessions": [
             1,
@@ -715,69 +392,13 @@
         ]
     },
     {
-        "id": "SI201424-2",
-        "kode_mk": "SI201424",
-        "nama": "Keamanan Sistem Informasi",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201411-1",
-        "kode_mk": "SI201411",
-        "nama": "Kecerdasan Bisnis",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Oscar"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201411-2",
-        "kode_mk": "SI201411",
-        "nama": "Kecerdasan Bisnis",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Oscar"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201550-1",
-        "kode_mk": "SI201550",
-        "nama": "Kecerdasan Proses Bisnis",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Lima"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201632-1",
-        "kode_mk": "SI201632",
-        "nama": "Kerja Praktek",
+        "id": "BD2514002-1",
+        "kode_mk": "BD2514002",
+        "nama": "Pengantar Bisnis Digital",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen SI-Hotel"
+            "Eka Krisna Santoso, S.Si, MBA"
         ],
         "allowed_sessions": [
             2,
@@ -785,13 +406,27 @@
         ]
     },
     {
-        "id": "SI201540-1",
-        "kode_mk": "SI201540",
-        "nama": "Komputasi Awan",
-        "kelas": "A",
+        "id": "BD2514002-2",
+        "kode_mk": "BD2514002",
+        "nama": "Pengantar Bisnis Digital",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Eka Krisna Santoso, S.Si, MBA"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514002-3",
+        "kode_mk": "BD2514002",
+        "nama": "Pengantar Bisnis Digital",
+        "kelas": "C",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Echo"
+            "Eka Krisna Santoso, S.Si, MBA"
         ],
         "allowed_sessions": [
             1,
@@ -799,13 +434,13 @@
         ]
     },
     {
-        "id": "SI201403-1",
-        "kode_mk": "SI201403",
-        "nama": "Manajemen dan Organisasi",
+        "id": "BD2514003-1",
+        "kode_mk": "BD2514003",
+        "nama": "Ekonomi",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Hotel"
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
         ],
         "allowed_sessions": [
             1,
@@ -813,13 +448,13 @@
         ]
     },
     {
-        "id": "SI201403-2",
-        "kode_mk": "SI201403",
-        "nama": "Manajemen dan Organisasi",
+        "id": "BD2514003-2",
+        "kode_mk": "BD2514003",
+        "nama": "Ekonomi",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Hotel"
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
         ],
         "allowed_sessions": [
             1,
@@ -827,27 +462,41 @@
         ]
     },
     {
-        "id": "SI201425-1",
-        "kode_mk": "SI201425",
-        "nama": "Manajemen Layanan Teknologi Informasi",
-        "kelas": "A",
-        "sks": 3,
+        "id": "BD2514003-3",
+        "kode_mk": "BD2514003",
+        "nama": "Ekonomi",
+        "kelas": "C",
+        "sks": 2,
         "dosen": [
-            "Dosen SI-India"
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
         ],
         "allowed_sessions": [
-            1,
-            3
+            2,
+            4
         ]
     },
     {
-        "id": "SI201425-2",
-        "kode_mk": "SI201425",
-        "nama": "Manajemen Layanan Teknologi Informasi",
+        "id": "BD2514004-1",
+        "kode_mk": "BD2514004",
+        "nama": "Manajemen Organisasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Khairunnisa Rahmah, S.E., M.M."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514004-2",
+        "kode_mk": "BD2514004",
+        "nama": "Manajemen Organisasi",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-India"
+            "Khairunnisa Rahmah, S.E., M.M."
         ],
         "allowed_sessions": [
             1,
@@ -855,13 +504,97 @@
         ]
     },
     {
-        "id": "SI201535-1",
-        "kode_mk": "SI201535",
+        "id": "BD2514004-3",
+        "kode_mk": "BD2514004",
+        "nama": "Manajemen Organisasi",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Khairunnisa Rahmah, S.E., M.M."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514005-1",
+        "kode_mk": "BD2514005",
+        "nama": "Analisis dan Visualisasi Data Bisnis",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514005-2",
+        "kode_mk": "BD2514005",
+        "nama": "Analisis dan Visualisasi Data Bisnis",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Muh Ikhsan Alif. S. S.E., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514005-3",
+        "kode_mk": "BD2514005",
+        "nama": "Analisis dan Visualisasi Data Bisnis",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Muh Ikhsan Alif. S. S.E., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514007-1",
+        "kode_mk": "BD2514007",
+        "nama": "Bisnis Proses Manajemen",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514007-2",
+        "kode_mk": "BD2514007",
+        "nama": "Bisnis Proses Manajemen",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514011-1",
+        "kode_mk": "BD2514011",
         "nama": "Manajemen Sumber Daya Manusia",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Foxtrot"
+            "Muh Ikhsan Alif. S. S.E., M.Sc."
         ],
         "allowed_sessions": [
             1,
@@ -869,27 +602,13 @@
         ]
     },
     {
-        "id": "SI201404-1",
-        "kode_mk": "SI201404",
-        "nama": "Pemrograman Terstruktur",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Mike"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201404-2",
-        "kode_mk": "SI201404",
-        "nama": "Pemrograman Terstruktur",
+        "id": "BD2514011-2",
+        "kode_mk": "BD2514011",
+        "nama": "Manajemen Sumber Daya Manusia",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Mike"
+            "Muh Ikhsan Alif. S. S.E., M.Sc."
         ],
         "allowed_sessions": [
             1,
@@ -897,13 +616,27 @@
         ]
     },
     {
-        "id": "SI201412-1",
-        "kode_mk": "SI201412",
-        "nama": "Pemrograman Web",
+        "id": "BD2514012-1",
+        "kode_mk": "BD2514012",
+        "nama": "Akuntansi Manajerial",
+        "kelas": "X",
+        "sks": 3,
+        "dosen": [
+            "Deli Yansyah, S.E., M.Acc., Ak., CA"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514013-1",
+        "kode_mk": "BD2514013",
+        "nama": "Design Thinking Inovasi",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Juliet"
+            "Eka Krisna Santoso, S.Si, MBA"
         ],
         "allowed_sessions": [
             1,
@@ -911,13 +644,13 @@
         ]
     },
     {
-        "id": "SI201412-2",
-        "kode_mk": "SI201412",
-        "nama": "Pemrograman Web",
+        "id": "BD2514013-2",
+        "kode_mk": "BD2514013",
+        "nama": "Design Thinking Inovasi",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Juliet"
+            "Agung Prabowo, S.E, . M.M."
         ],
         "allowed_sessions": [
             1,
@@ -925,13 +658,13 @@
         ]
     },
     {
-        "id": "SI201545-1",
-        "kode_mk": "SI201545",
-        "nama": "Penggalian Sosial Media",
+        "id": "BD2514014-1",
+        "kode_mk": "BD2514014",
+        "nama": "Perilaku Konsumen",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Hotel"
+            "Agung Prabowo, S.E, . M.M."
         ],
         "allowed_sessions": [
             1,
@@ -939,27 +672,13 @@
         ]
     },
     {
-        "id": "SI201423-1",
-        "kode_mk": "SI201423",
-        "nama": "Perencanaan Arsitektur Teknologi Informasi",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201423-2",
-        "kode_mk": "SI201423",
-        "nama": "Perencanaan Arsitektur Teknologi Informasi",
+        "id": "BD2514014-2",
+        "kode_mk": "BD2514014",
+        "nama": "Perilaku Konsumen",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-India"
+            "Agung Prabowo, S.E, . M.M."
         ],
         "allowed_sessions": [
             1,
@@ -967,13 +686,13 @@
         ]
     },
     {
-        "id": "SI201416-1",
-        "kode_mk": "SI201416",
-        "nama": "Perencanaan Manajemen Proyek Teknologi Informasi",
+        "id": "BD2514015-1",
+        "kode_mk": "BD2514015",
+        "nama": "Pemrograman WEB",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Alpha"
+            "Ir. Riovan Styx Roring, S.T., M.Kom"
         ],
         "allowed_sessions": [
             1,
@@ -981,13 +700,13 @@
         ]
     },
     {
-        "id": "SI201416-2",
-        "kode_mk": "SI201416",
-        "nama": "Perencanaan Manajemen Proyek Teknologi Informasi",
+        "id": "BD2514015-2",
+        "kode_mk": "BD2514015",
+        "nama": "Pemrograman WEB",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Alpha"
+            "Ir. Riovan Styx Roring, S.T., M.Kom"
         ],
         "allowed_sessions": [
             1,
@@ -995,27 +714,13 @@
         ]
     },
     {
-        "id": "SI201546-1",
-        "kode_mk": "SI201546",
-        "nama": "Perencanaan Sumberdaya Perusahaan",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201733-1",
-        "kode_mk": "SI201733",
-        "nama": "Proposal Tugas Akhir",
+        "id": "BD2514016-1",
+        "kode_mk": "BD2514016",
+        "nama": "Statistika Inferensial",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen SI-Papa"
+            "Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
         ],
         "allowed_sessions": [
             2,
@@ -1023,55 +728,13 @@
         ]
     },
     {
-        "id": "SI201415-1",
-        "kode_mk": "SI201415",
-        "nama": "Rekayasa Perangkat Lunak",
-        "kelas": "A",
-        "sks": 4,
-        "dosen": [
-            "Dosen SI-Mike"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201415-2",
-        "kode_mk": "SI201415",
-        "nama": "Rekayasa Perangkat Lunak",
-        "kelas": "B",
-        "sks": 4,
-        "dosen": [
-            "Dosen SI-Mike"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201422-1",
-        "kode_mk": "SI201422",
-        "nama": "Sistem Cerdas Pendukung Keputusan",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen SI-Foxtrot"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "SI201422-2",
-        "kode_mk": "SI201422",
-        "nama": "Sistem Cerdas Pendukung Keputusan",
+        "id": "BD2514016-2",
+        "kode_mk": "BD2514016",
+        "nama": "Statistika Inferensial",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen SI-Foxtrot"
+            "Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
         ],
         "allowed_sessions": [
             1,
@@ -1079,335 +742,13 @@
         ]
     },
     {
-        "id": "SI201734-1",
-        "kode_mk": "SI201734",
-        "nama": "Tugas Akhir",
+        "id": "BD2514018-1",
+        "kode_mk": "BD2514018",
+        "nama": "Manajemen Risiko",
         "kelas": "A",
-        "sks": 4,
-        "dosen": [
-            "Dosen SI-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201402-1",
-        "kode_mk": "IF201402",
-        "nama": "Matematika Diskrit",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201402-2",
-        "kode_mk": "IF201402",
-        "nama": "Matematika Diskrit",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201402-3",
-        "kode_mk": "IF201402",
-        "nama": "Matematika Diskrit",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201403-1",
-        "kode_mk": "IF201403",
-        "nama": "Sistem Digital",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Kilo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201403-3",
-        "kode_mk": "IF201403",
-        "nama": "Sistem Digital",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Kilo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201403-2",
-        "kode_mk": "IF201403",
-        "nama": "Sistem Digital",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Kilo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201404-1",
-        "kode_mk": "IF201404",
-        "nama": "Pemrograman Berorientasi Objek",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201404-2",
-        "kode_mk": "IF201404",
-        "nama": "Pemrograman Berorientasi Objek",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201404-3",
-        "kode_mk": "IF201404",
-        "nama": "Pemrograman Berorientasi Objek",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201410-1",
-        "kode_mk": "IF201410",
-        "nama": "Perancangan dan Analisis Algoritme",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201410-2",
-        "kode_mk": "IF201410",
-        "nama": "Perancangan dan Analisis Algoritme",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201411-1",
-        "kode_mk": "IF201411",
-        "nama": "Jaringan Komputer",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Lima"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201411-2",
-        "kode_mk": "IF201411",
-        "nama": "Jaringan Komputer",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Lima"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201412-2",
-        "kode_mk": "IF201412",
-        "nama": "Teori Graf dan Otomata",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Foxtrot"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201412-1",
-        "kode_mk": "IF201412",
-        "nama": "Teori Graf dan Otomata",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Foxtrot"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201413-1",
-        "kode_mk": "IF201413",
-        "nama": "Sistem Basis Data",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201413-2",
-        "kode_mk": "IF201413",
-        "nama": "Sistem Basis Data",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201413-3",
-        "kode_mk": "IF201413",
-        "nama": "Sistem Basis Data",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201414-1",
-        "kode_mk": "IF201414",
-        "nama": "Grafika Komputer",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Kilo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201414-2",
-        "kode_mk": "IF201414",
-        "nama": "Grafika Komputer",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Kilo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201415-1",
-        "kode_mk": "IF201415",
-        "nama": "Analisis dan Perancangan Perangkat Lunak",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201415-2",
-        "kode_mk": "IF201415",
-        "nama": "Analisis dan Perancangan Perangkat Lunak",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201416-2",
-        "kode_mk": "IF201416",
-        "nama": "Wawasan Umum dan Gagasan Informatika",
-        "kelas": "B",
         "sks": 2,
         "dosen": [
-            "Dosen IF-Alpha"
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
         ],
         "allowed_sessions": [
             2,
@@ -1415,13 +756,41 @@
         ]
     },
     {
-        "id": "IF201416-1",
-        "kode_mk": "IF201416",
-        "nama": "Wawasan Umum dan Gagasan Informatika",
+        "id": "BD2514022-1",
+        "kode_mk": "BD2514022",
+        "nama": "Analisis Data Multivariat",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Muh Ikhsan Alif. S. S.E., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514022-2",
+        "kode_mk": "BD2514022",
+        "nama": "Analisis Data Multivariat",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Muh Ikhsan Alif. S. S.E., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514024-1",
+        "kode_mk": "BD2514024",
+        "nama": "Manajemen Rantai Pasok",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen IF-Alpha"
+            "Eka Krisna Santoso, S.Si, MBA"
         ],
         "allowed_sessions": [
             2,
@@ -1429,13 +798,1049 @@
         ]
     },
     {
-        "id": "IF201423-1",
-        "kode_mk": "IF201423",
+        "id": "BD2514024-2",
+        "kode_mk": "BD2514024",
+        "nama": "Manajemen Rantai Pasok",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Eka Krisna Santoso, S.Si, MBA"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514025-1",
+        "kode_mk": "BD2514025",
+        "nama": "Valuasi Bisnis",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Deli Yansyah, S.E., M.Acc., Ak., CA"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514025-2",
+        "kode_mk": "BD2514025",
+        "nama": "Valuasi Bisnis",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Deli Yansyah, S.E., M.Acc., Ak., CA"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514026-1",
+        "kode_mk": "BD2514026",
+        "nama": "Manajemen Sosial Media",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Agung Prabowo, S.E, . M.M."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514026-2",
+        "kode_mk": "BD2514026",
+        "nama": "Manajemen Sosial Media",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Khairunnisa Rahmah, S.E., M.M."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514027-1",
+        "kode_mk": "BD2514027",
+        "nama": "Keamanan Sistem Informasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Ir. Riovan Styx Roring, S.T., M.Kom"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514028-1",
+        "kode_mk": "BD2514028",
+        "nama": "Kecerdasan Buatan",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514028-2",
+        "kode_mk": "BD2514028",
+        "nama": "Kecerdasan Buatan",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Luh Made Wisnu Satyaninggrat, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514036-1",
+        "kode_mk": "BD2514036",
+        "nama": "Studi Kelayakan Bisnis",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Eka Krisna Santoso, S.Si, MBA"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514036-2",
+        "kode_mk": "BD2514036",
+        "nama": "Studi Kelayakan Bisnis",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514037-1",
+        "kode_mk": "BD2514037",
+        "nama": "Manajemen Strategi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Prasis Damai Nursyam Hamijaya, S.P., M.M."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2514038-1",
+        "kode_mk": "BD2514038",
+        "nama": "Analisis Big Data",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Ir. Riovan Styx Roring, S.T., M.Kom"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2514038-2",
+        "kode_mk": "BD2514038",
+        "nama": "Analisis Big Data",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Ir. Riovan Styx Roring, S.T., M.Kom"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2515040-1",
+        "kode_mk": "BD2515040",
+        "nama": "Manajemen Hubungan Pelanggan",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Khairunnisa Rahmah, S.E., M.M."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "BD2515042-1",
+        "kode_mk": "BD2515042",
+        "nama": "Gamifikasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Ir. Riovan Styx Roring, S.T., M.Kom"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "BD2515052-1",
+        "kode_mk": "BD2515052",
+        "nama": "Kepemimpinan dan Keahlian Interpersonal",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Agung Prabowo, S.E, . M.M."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514101-1",
+        "kode_mk": "FI2514101",
+        "nama": "Metode Pengukuran dan Analisis Data",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dian Mart Shoodiqin, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514102-1",
+        "kode_mk": "FI2514102",
+        "nama": "Aljabar Linier Elementer",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Rahmania, S.Pd., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514103-1",
+        "kode_mk": "FI2514103",
+        "nama": "Biologi Umum",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Chairoh Ulfah, S.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514306-1",
+        "kode_mk": "FI2514306",
+        "nama": "Fisika Matematika 1",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Harrys Samosir, M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514307-1",
+        "kode_mk": "FI2514307",
+        "nama": "Mekanika Klasik 2",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Fadli Robiandi, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514308-1",
+        "kode_mk": "FI2514308",
+        "nama": "Gelombang",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Rahmania, S.Pd., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514309-1",
+        "kode_mk": "FI2514309",
+        "nama": "Elektronika",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Menasita M, S.Si., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514310-1",
+        "kode_mk": "FI2514310",
+        "nama": "Fisika Modern",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dr. Musyarofah, S.Pd., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514311-1",
+        "kode_mk": "FI2514311",
+        "nama": "Fisika Fluida",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Dr. Swastya Rahastama, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514415-1",
+        "kode_mk": "FI2514415",
+        "nama": "Pengantar Fisika Kuantum",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Dr. Musyarofah, S.Pd., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514417-1",
+        "kode_mk": "FI2514417",
+        "nama": "Optik",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Meidi Arisalwadi S.Si. M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514518-1",
+        "kode_mk": "FI2514518",
+        "nama": "Fisika Statistik",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Agus Rifani, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514519-1",
+        "kode_mk": "FI2514519",
+        "nama": "Fisika Kuantum",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Agus Rifani, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514520-1",
+        "kode_mk": "FI2514520",
+        "nama": "Teknologi Fisika",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Meidi Arisalwadi S.Si. M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514521-1",
+        "kode_mk": "FI2514521",
+        "nama": "Eksperimen Fisika",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Febrian Dedi Sastrawan, S.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514522-1",
+        "kode_mk": "FI2514522",
+        "nama": "Fisika Instrumentasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Menasita M, S.Si., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2514523-1",
+        "kode_mk": "FI2514523",
+        "nama": "Metodologi Penelitian",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Rahmania, S.Pd., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2514726-1",
+        "kode_mk": "FI2514726",
+        "nama": "Fisika Energi",
+        "kelas": "X",
+        "sks": 3,
+        "dosen": [
+            "Dian Mart Shoodiqin, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2515101-1",
+        "kode_mk": "FI2515101",
+        "nama": "Anatomi dan Fisiologi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Dr. Swastya Rahastama, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2515103-1",
+        "kode_mk": "FI2515103",
+        "nama": "Fisika Kesehatan dan Proteksi Radiasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dr. Swastya Rahastama, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "FI2515213-1",
+        "kode_mk": "FI2515213",
+        "nama": "Semikonduktor",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Fadli Robiandi, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2515324-1",
+        "kode_mk": "FI2515324",
+        "nama": "Fisika Batuan",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Meidi Arisalwadi S.Si. M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2515325-1",
+        "kode_mk": "FI2515325",
+        "nama": "Survey dan Pemetaan",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Febrian Dedi Sastrawan, S.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2515331-1",
+        "kode_mk": "FI2515331",
+        "nama": "Mitigasi Bencana",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Rahmania, S.Pd., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2515434-1",
+        "kode_mk": "FI2515434",
+        "nama": "Sensor dan Transduser",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Chairoh Ulfah, S.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "FI2515437-1",
+        "kode_mk": "FI2515437",
+        "nama": "Mikrokontroler",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Harrys Samosir, M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514101-1",
+        "kode_mk": "IF2514101",
+        "nama": "Matematika Diskrit",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514101-2",
+        "kode_mk": "IF2514101",
+        "nama": "Matematika Diskrit",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514102-1",
+        "kode_mk": "IF2514102",
+        "nama": "Pengantar Informatika",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514102-2",
+        "kode_mk": "IF2514102",
+        "nama": "Pengantar Informatika",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514103-1",
+        "kode_mk": "IF2514103",
+        "nama": "Sistem Digital",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Boby Mugi Pratama, S.Si., M.Han."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514103-2",
+        "kode_mk": "IF2514103",
+        "nama": "Sistem Digital",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Boby Mugi Pratama, S.Si., M.Han."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514103-3",
+        "kode_mk": "IF2514103",
+        "nama": "Sistem Digital",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Boby Mugi Pratama, S.Si., M.Han."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514201-1",
+        "kode_mk": "IF2514201",
+        "nama": "Aljabar Linier dan Geometri",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514201-2",
+        "kode_mk": "IF2514201",
+        "nama": "Aljabar Linier dan Geometri",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514301-1",
+        "kode_mk": "IF2514301",
+        "nama": "Arsitektur Komputer",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Aninditya Anggari Nuryono, S.T., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514301-2",
+        "kode_mk": "IF2514301",
+        "nama": "Arsitektur Komputer",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Riska Kurniyanto Abdullah, S.T., M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514301-3",
+        "kode_mk": "IF2514301",
+        "nama": "Arsitektur Komputer",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Aninditya Anggari Nuryono, S.T., M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514302-1",
+        "kode_mk": "IF2514302",
+        "nama": "Pengantar Kecerdasan Artifisial",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Bima Prihasto, S.Si., M.Si., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514302-2",
+        "kode_mk": "IF2514302",
+        "nama": "Pengantar Kecerdasan Artifisial",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514302-3",
+        "kode_mk": "IF2514302",
+        "nama": "Pengantar Kecerdasan Artifisial",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Bima Prihasto, S.Si., M.Si., Ph.D."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514303-1",
+        "kode_mk": "IF2514303",
+        "nama": "Sistem Operasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Darmansyah, S.Si., M.T.I"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514303-2",
+        "kode_mk": "IF2514303",
+        "nama": "Sistem Operasi",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Darmansyah, S.Si., M.T.I"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514303-3",
+        "kode_mk": "IF2514303",
+        "nama": "Sistem Operasi",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Darmansyah, S.Si., M.T.I"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514305-1",
+        "kode_mk": "IF2514305",
+        "nama": "Struktur Data",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514305-2",
+        "kode_mk": "IF2514305",
+        "nama": "Struktur Data",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514305-3",
+        "kode_mk": "IF2514305",
+        "nama": "Struktur Data",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Bowo Nugroho, S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514501-1",
+        "kode_mk": "IF2514501",
+        "nama": "Desain Web",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Rizal Kusuma Putra, M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514501-2",
+        "kode_mk": "IF2514501",
+        "nama": "Desain Web",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Rizal Kusuma Putra, M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514502-1",
+        "kode_mk": "IF2514502",
+        "nama": "Interaksi Manusia dan Komputer",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Nisa Rizqiya Fadhliana, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514502-2",
+        "kode_mk": "IF2514502",
+        "nama": "Interaksi Manusia dan Komputer",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Nisa Rizqiya Fadhliana, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514502-3",
+        "kode_mk": "IF2514502",
+        "nama": "Interaksi Manusia dan Komputer",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Nisa Rizqiya Fadhliana, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514503-1",
+        "kode_mk": "IF2514503",
+        "nama": "Implementasi dan Pengujian Perangkat Lunak",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Nur Fajri Azhar S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514503-2",
+        "kode_mk": "IF2514503",
+        "nama": "Implementasi dan Pengujian Perangkat Lunak",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Nur Fajri Azhar S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514503-3",
+        "kode_mk": "IF2514503",
+        "nama": "Implementasi dan Pengujian Perangkat Lunak",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Nur Fajri Azhar S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514504-1",
+        "kode_mk": "IF2514504",
+        "nama": "Manajemen Basis Data",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Bowo Nugroho, S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514504-2",
+        "kode_mk": "IF2514504",
+        "nama": "Manajemen Basis Data",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Bowo Nugroho, S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514504-3",
+        "kode_mk": "IF2514504",
+        "nama": "Manajemen Basis Data",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Bowo Nugroho, S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514505-1",
+        "kode_mk": "IF2514505",
         "nama": "Pengolahan Citra Digital",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen IF-India"
+            "Rizky Amelia, S.Si., M.Han."
         ],
         "allowed_sessions": [
             1,
@@ -1443,13 +1848,13 @@
         ]
     },
     {
-        "id": "IF201423-2",
-        "kode_mk": "IF201423",
+        "id": "IF2514505-2",
+        "kode_mk": "IF2514505",
         "nama": "Pengolahan Citra Digital",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen IF-India"
+            "Rizky Amelia, S.Si., M.Han."
         ],
         "allowed_sessions": [
             1,
@@ -1457,13 +1862,13 @@
         ]
     },
     {
-        "id": "IF201424-1",
-        "kode_mk": "IF201424",
-        "nama": "Pengembangan Aplikasi Berbasis Web",
+        "id": "IF2514506-1",
+        "kode_mk": "IF2514506",
+        "nama": "Pemrograman Fungsional",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen IF-Bravo"
+            "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
         ],
         "allowed_sessions": [
             1,
@@ -1471,13 +1876,13 @@
         ]
     },
     {
-        "id": "IF201424-2",
-        "kode_mk": "IF201424",
-        "nama": "Pengembangan Aplikasi Berbasis Web",
+        "id": "IF2514506-2",
+        "kode_mk": "IF2514506",
+        "nama": "Pemrograman Fungsional",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen IF-Bravo"
+            "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
         ],
         "allowed_sessions": [
             1,
@@ -1485,69 +1890,27 @@
         ]
     },
     {
-        "id": "IF201425-1",
-        "kode_mk": "IF201425",
-        "nama": "Pemelajaran Mesin",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Hotel"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201425-2",
-        "kode_mk": "IF201425",
-        "nama": "Pemelajaran Mesin",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Hotel"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201426-1",
-        "kode_mk": "IF201426",
-        "nama": "Startup Digital Lanjut",
-        "kelas": "A",
-        "sks": 2,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "IF201426-2",
-        "kode_mk": "IF201426",
-        "nama": "Startup Digital Lanjut",
-        "kelas": "B",
-        "sks": 2,
-        "dosen": [
-            "Dosen IF-Delta"
-        ],
-        "allowed_sessions": [
-            2,
-            4
-        ]
-    },
-    {
-        "id": "IF201505-1",
-        "kode_mk": "IF201505",
+        "id": "IF2514601-1",
+        "kode_mk": "IF2514601",
         "nama": "Deep Learning",
         "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Boby Mugi Pratama, S.Si., M.Han."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514604-1",
+        "kode_mk": "IF2514604",
+        "nama": "Sistem Paralel dan Terdistribusi",
+        "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen IF-Alpha"
+            "Riska Kurniyanto Abdullah, S.T., M.Kom."
         ],
         "allowed_sessions": [
             1,
@@ -1555,181 +1918,167 @@
         ]
     },
     {
-        "id": "IF201514-1",
-        "kode_mk": "IF201514",
+        "id": "IF2514604-2",
+        "kode_mk": "IF2514604",
+        "nama": "Sistem Paralel dan Terdistribusi",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Riska Kurniyanto Abdullah, S.T., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514701-1",
+        "kode_mk": "IF2514701",
+        "nama": "Capstone Project",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Ramadhan Paninggalih S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514702-1",
+        "kode_mk": "IF2514702",
+        "nama": "Keprofesian Informatika",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Nur Fajri Azhar S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514702-2",
+        "kode_mk": "IF2514702",
+        "nama": "Keprofesian Informatika",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Darmansyah, S.Si., M.T.I"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2514704-1",
+        "kode_mk": "IF2514704",
+        "nama": "Pengembangan Aplikasi Perangkat Bergerak",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Rizal Kusuma Putra, M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2514704-2",
+        "kode_mk": "IF2514704",
+        "nama": "Pengembangan Aplikasi Perangkat Bergerak",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Rizal Kusuma Putra, M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "IF2515002-1",
+        "kode_mk": "IF2515002",
         "nama": "Kapita Selekta",
         "kelas": "A",
-        "sks": 3,
+        "sks": 2,
         "dosen": [
-            "Dosen IF-Alpha"
+            "Nisa Rizqiya Fadhliana, S.Kom., M.T."
         ],
         "allowed_sessions": [
-            1,
-            3
+            2,
+            4
         ]
     },
     {
-        "id": "IF201504-1",
-        "kode_mk": "IF201504",
+        "id": "IF2515102-1",
+        "kode_mk": "IF2515102",
+        "nama": "Keamanan Siber",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "Darmansyah, S.Si., M.T.I"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "IF2515203-1",
+        "kode_mk": "IF2515203",
         "nama": "Kecerdasan Web",
         "kelas": "A",
-        "sks": 3,
+        "sks": 2,
         "dosen": [
-            "Dosen IF-Bravo"
+            "Gusti Ahmad Fanshuri Alfarisy, S.Kom., M.Kom."
         ],
         "allowed_sessions": [
-            1,
-            3
+            2,
+            4
         ]
     },
     {
-        "id": "IF201503-1",
-        "kode_mk": "IF201503",
-        "nama": "Komputasi Evolusioner",
+        "id": "IF2515206-1",
+        "kode_mk": "IF2515206",
+        "nama": "Pemrosesan Bahasa Alami",
         "kelas": "A",
-        "sks": 3,
+        "sks": 2,
         "dosen": [
-            "Dosen IF-Golf"
+            "Bima Prihasto, S.Si., M.Si., Ph.D."
         ],
         "allowed_sessions": [
-            1,
-            3
+            2,
+            4
         ]
     },
     {
-        "id": "IF201510-1",
-        "kode_mk": "IF201510",
+        "id": "IF2515301-1",
+        "kode_mk": "IF2515301",
         "nama": "Manajemen Proyek TIK",
         "kelas": "A",
-        "sks": 3,
+        "sks": 2,
         "dosen": [
-            "Dosen IF-Alpha"
+            "Riska Kurniyanto Abdullah, S.T., M.Kom."
         ],
         "allowed_sessions": [
-            1,
-            3
+            2,
+            4
         ]
     },
     {
-        "id": "IF201513-1",
-        "kode_mk": "IF201513",
-        "nama": "Pemrograman Permainan Digital",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Golf"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201508-1",
-        "kode_mk": "IF201508",
-        "nama": "Penjaminan Mutu Perangkat Lunak",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201506-1",
-        "kode_mk": "IF201506",
+        "id": "IF2515403-1",
+        "kode_mk": "IF2515403",
         "nama": "Sains Data",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Mike"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201511-1",
-        "kode_mk": "IF201511",
-        "nama": "Tata Kelola Teknologi Informasi",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Foxtrot"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "IF201512-1",
-        "kode_mk": "IF201512",
-        "nama": "Teknologi IoT",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen IF-Kilo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201410-1",
-        "kode_mk": "BD201410",
-        "nama": "Akuntansi Manajemen",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201410-2",
-        "kode_mk": "BD201410",
-        "nama": "Akuntansi Manajemen",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201410-3",
-        "kode_mk": "BD201410",
-        "nama": "Akuntansi Manajemen",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Echo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201432-1",
-        "kode_mk": "BD201432",
-        "nama": "Information Security",
-        "kelas": "A",
+        "kelas": "X",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Alpha"
+            "Ramadhan Paninggalih S.Si., M.Si., M.Sc."
         ],
         "allowed_sessions": [
             2,
@@ -1737,13 +2086,13 @@
         ]
     },
     {
-        "id": "BD201432-2",
-        "kode_mk": "BD201432",
-        "nama": "Information Security",
-        "kelas": "B",
+        "id": "IF2515404-1",
+        "kode_mk": "IF2515404",
+        "nama": "Visi Komputer",
+        "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Alpha"
+            "Rizky Amelia, S.Si., M.Han."
         ],
         "allowed_sessions": [
             2,
@@ -1751,13 +2100,13 @@
         ]
     },
     {
-        "id": "BD201433-1",
-        "kode_mk": "BD201433",
-        "nama": "Kecerdasan Bisnis",
+        "id": "MA2514001-1",
+        "kode_mk": "MA2514001",
+        "nama": "Logika Matematika",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen BD-Charlie"
+            "Kartika Nugraheni, S.Si., M.Si."
         ],
         "allowed_sessions": [
             1,
@@ -1765,125 +2114,13 @@
         ]
     },
     {
-        "id": "BD201433-2",
-        "kode_mk": "BD201433",
-        "nama": "Kecerdasan Bisnis",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201422-1",
-        "kode_mk": "BD201422",
-        "nama": "Manajemen Bisnis Proses",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201422-2",
-        "kode_mk": "BD201422",
-        "nama": "Manajemen Bisnis Proses",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201421-1",
-        "kode_mk": "BD201421",
-        "nama": "Manajemen Keuangan",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201421-2",
-        "kode_mk": "BD201421",
-        "nama": "Manajemen Keuangan",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201406-1",
-        "kode_mk": "BD201406",
-        "nama": "Manajemen Pemasaran",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201406-2",
-        "kode_mk": "BD201406",
-        "nama": "Manajemen Pemasaran",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201406-3",
-        "kode_mk": "BD201406",
-        "nama": "Manajemen Pemasaran",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-India"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201409-1",
-        "kode_mk": "BD201409",
-        "nama": "Manajemen Perubahan dan Transformasi Digital",
+        "id": "MA2514002-1",
+        "kode_mk": "MA2514002",
+        "nama": "Geometri Analitik",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Foxtrot"
+            "Dr. Moh. Januar Ismail Burhan, S.Si., M.Si."
         ],
         "allowed_sessions": [
             2,
@@ -1891,13 +2128,13 @@
         ]
     },
     {
-        "id": "BD201409-2",
-        "kode_mk": "BD201409",
-        "nama": "Manajemen Perubahan dan Transformasi Digital",
-        "kelas": "B",
+        "id": "MA2514002-2",
+        "kode_mk": "MA2514002",
+        "nama": "Geometri Analitik",
+        "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Foxtrot"
+            "Dr. Moh. Januar Ismail Burhan, S.Si., M.Si."
         ],
         "allowed_sessions": [
             2,
@@ -1905,13 +2142,13 @@
         ]
     },
     {
-        "id": "BD201409-3",
-        "kode_mk": "BD201409",
-        "nama": "Manajemen Perubahan dan Transformasi Digital",
-        "kelas": "C",
+        "id": "MA2514006-1",
+        "kode_mk": "MA2514006",
+        "nama": "Kalkulus Peubah Banyak",
+        "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Foxtrot"
+            "Winarni, S.Si., M.Si."
         ],
         "allowed_sessions": [
             2,
@@ -1919,13 +2156,13 @@
         ]
     },
     {
-        "id": "BD201423-1",
-        "kode_mk": "BD201423",
-        "nama": "Manajemen Produk",
+        "id": "MA2514006-2",
+        "kode_mk": "MA2514006",
+        "nama": "Kalkulus Peubah Banyak",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen BD-Charlie"
+            "Winarni, S.Si., M.Si."
         ],
         "allowed_sessions": [
             1,
@@ -1933,279 +2170,13 @@
         ]
     },
     {
-        "id": "BD201423-2",
-        "kode_mk": "BD201423",
-        "nama": "Manajemen Produk",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Charlie"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201434-1",
-        "kode_mk": "BD201434",
-        "nama": "Manajemen Proyek",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201434-2",
-        "kode_mk": "BD201434",
-        "nama": "Manajemen Proyek",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201419-1",
-        "kode_mk": "BD201419",
-        "nama": "Manajemen Rantai Pasok",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Alpha"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201419-2",
-        "kode_mk": "BD201419",
-        "nama": "Manajemen Rantai Pasok",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Alpha"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201506-1",
-        "kode_mk": "BD201506",
-        "nama": "Manajemen Risiko Bisnis",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201430-1",
-        "kode_mk": "BD201430",
-        "nama": "Manajemen Sosial Media",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Alpha"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201430-2",
-        "kode_mk": "BD201430",
-        "nama": "Manajemen Sosial Media",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Alpha"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201429-1",
-        "kode_mk": "BD201429",
-        "nama": "Manajemen Strategi",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201429-2",
-        "kode_mk": "BD201429",
-        "nama": "Manajemen Strategi",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Delta"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201431-1",
-        "kode_mk": "BD201431",
-        "nama": "Metodologi Penelitian Bisnis Umum",
-        "kelas": "A",
-        "sks": 4,
-        "dosen": [
-            "Dosen BD-Golf"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201431-2",
-        "kode_mk": "BD201431",
-        "nama": "Metodologi Penelitian Bisnis Umum",
-        "kelas": "B",
-        "sks": 4,
-        "dosen": [
-            "Dosen BD-Golf"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201418-1",
-        "kode_mk": "BD201418",
-        "nama": "Pemasaran Digital",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Hotel"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201418-2",
-        "kode_mk": "BD201418",
-        "nama": "Pemasaran Digital",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Hotel"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201420-1",
-        "kode_mk": "BD201420",
-        "nama": "Pemrograman Aplikasi Perangkat Bergerak",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Golf"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201420-2",
-        "kode_mk": "BD201420",
-        "nama": "Pemrograman Aplikasi Perangkat Bergerak",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Golf"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201411-1",
-        "kode_mk": "BD201411",
-        "nama": "Pengembangan UI/UX",
-        "kelas": "A",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201411-2",
-        "kode_mk": "BD201411",
-        "nama": "Pengembangan UI/UX",
-        "kelas": "B",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201411-3",
-        "kode_mk": "BD201411",
-        "nama": "Pengembangan UI/UX",
-        "kelas": "C",
-        "sks": 3,
-        "dosen": [
-            "Dosen BD-Bravo"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201407-1",
-        "kode_mk": "BD201407",
-        "nama": "Sistem Basis Data",
+        "id": "MA2514007-1",
+        "kode_mk": "MA2514007",
+        "nama": "Struktur Aljabar I",
         "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Alpha"
+            "Aditya Putra Pratama, S.Si., M.Si."
         ],
         "allowed_sessions": [
             2,
@@ -2213,13 +2184,27 @@
         ]
     },
     {
-        "id": "BD201407-2",
-        "kode_mk": "BD201407",
-        "nama": "Sistem Basis Data",
-        "kelas": "B",
+        "id": "MA2514008-1",
+        "kode_mk": "MA2514008",
+        "nama": "Riset Operasi I",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dr. Retno Wahyu Dewanti, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2514009-1",
+        "kode_mk": "MA2514009",
+        "nama": "Persamaan Diferensial Biasa",
+        "kelas": "A",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Alpha"
+            "Dr. Retno Wahyu Dewanti, S.Si., M.Si."
         ],
         "allowed_sessions": [
             2,
@@ -2227,13 +2212,307 @@
         ]
     },
     {
-        "id": "BD201407-3",
-        "kode_mk": "BD201407",
-        "nama": "Sistem Basis Data",
+        "id": "MA2514014-1",
+        "kode_mk": "MA2514014",
+        "nama": "Persamaan Diferensial Parsial",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Adam, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2514016-1",
+        "kode_mk": "MA2514016",
+        "nama": "Fungsi Peubah Kompleks",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dr. Moh. Januar Ismail Burhan, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2514017-1",
+        "kode_mk": "MA2514017",
+        "nama": "Aljabar Linier",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "Aditya Putra Pratama, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "MA2514018-1",
+        "kode_mk": "MA2514018",
+        "nama": "Analisis Real II",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Adam, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2514019-1",
+        "kode_mk": "MA2514019",
+        "nama": "Pengantar Statistika Matematika",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Yanuar Bhakti Wira Tama, M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2514020-1",
+        "kode_mk": "MA2514020",
+        "nama": "Metode Numerik",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Nur Qadri Bahar, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2514026-1",
+        "kode_mk": "MA2514026",
+        "nama": "Matematika Industri Lingkungan",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Kartika Nugraheni, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2515028-1",
+        "kode_mk": "MA2515028",
+        "nama": "Pengantar Analisis Fungsional",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Adam, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2515029-1",
+        "kode_mk": "MA2515029",
+        "nama": "Pengantar Geometri Diferensial",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Adam, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "MA2515029-2",
+        "kode_mk": "MA2515029",
+        "nama": "Pengantar Geometri Diferensial",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Adam, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "MA2515033-1",
+        "kode_mk": "MA2515033",
+        "nama": "Pengantar Logika Fuzzy",
+        "kelas": "X",
+        "sks": 3,
+        "dosen": [
+            "Aditya Putra Pratama, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2515035-1",
+        "kode_mk": "MA2515035",
+        "nama": "Aljabar Maxplus dan Penerapannya",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Winarni, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "MA2515037-1",
+        "kode_mk": "MA2515037",
+        "nama": "Riset Operasi II",
+        "kelas": "X",
+        "sks": 3,
+        "dosen": [
+            "Yanuar Bhakti Wira Tama, M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2515040-1",
+        "kode_mk": "MA2515040",
+        "nama": "Sistem Dinamika Kontinu",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Kartika Nugraheni, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "MA2515040-2",
+        "kode_mk": "MA2515040",
+        "nama": "Sistem Dinamika Kontinu",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Kartika Nugraheni, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "MA2515051-1",
+        "kode_mk": "MA2515051",
+        "nama": "Analisis Regresi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Nur Qadri Bahar, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "MA2515065-1",
+        "kode_mk": "MA2515065",
+        "nama": "Matematika Ekonomi dan Bisnis",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "Yanuar Bhakti Wira Tama, M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "RK2514012-1",
+        "kode_mk": "RK2514012",
+        "nama": "Dasar Simulasi dan Komputasi Keselamatan",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Muchammad Chandra Cahyo Utomo, S. Kom., M. Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "RK2514012-2",
+        "kode_mk": "RK2514012",
+        "nama": "Dasar Simulasi dan Komputasi Keselamatan",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Aninditya Anggari Nuryono, S.T., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514001-1",
+        "kode_mk": "SI2514001",
+        "nama": "Konsep Sistem Informasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Sri Rahayu Natasia, S. Komp., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514001-2",
+        "kode_mk": "SI2514001",
+        "nama": "Konsep Sistem Informasi",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Sri Rahayu Natasia, S. Komp., M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514001-3",
+        "kode_mk": "SI2514001",
+        "nama": "Konsep Sistem Informasi",
         "kelas": "C",
         "sks": 2,
         "dosen": [
-            "Dosen BD-Alpha"
+            "Rosa Eliviani, S.Kom., M.T."
         ],
         "allowed_sessions": [
             2,
@@ -2241,13 +2520,69 @@
         ]
     },
     {
-        "id": "BD201408-1",
-        "kode_mk": "BD201408",
-        "nama": "Sistem Informasi Akuntansi",
+        "id": "SI2514001-4",
+        "kode_mk": "SI2514001",
+        "nama": "Konsep Sistem Informasi",
+        "kelas": "D",
+        "sks": 2,
+        "dosen": [
+            "Rosa Eliviani, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514002-1",
+        "kode_mk": "SI2514002",
+        "nama": "Manajemen dan Organisasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Yuyun Tri Wiranti, S.Kom., M.MT."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514002-2",
+        "kode_mk": "SI2514002",
+        "nama": "Manajemen dan Organisasi",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Yuyun Tri Wiranti, S.Kom., M.MT."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514002-3",
+        "kode_mk": "SI2514002",
+        "nama": "Manajemen dan Organisasi",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Nursanti Novi Arisa, M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514003-1",
+        "kode_mk": "SI2514003",
+        "nama": "Infrastruktur TI",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen BD-Charlie"
+            "M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom."
         ],
         "allowed_sessions": [
             1,
@@ -2255,13 +2590,13 @@
         ]
     },
     {
-        "id": "BD201408-2",
-        "kode_mk": "BD201408",
-        "nama": "Sistem Informasi Akuntansi",
+        "id": "SI2514003-2",
+        "kode_mk": "SI2514003",
+        "nama": "Infrastruktur TI",
         "kelas": "B",
         "sks": 3,
         "dosen": [
-            "Dosen BD-Charlie"
+            "M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom."
         ],
         "allowed_sessions": [
             1,
@@ -2269,13 +2604,13 @@
         ]
     },
     {
-        "id": "BD201408-3",
-        "kode_mk": "BD201408",
-        "nama": "Sistem Informasi Akuntansi",
+        "id": "SI2514003-3",
+        "kode_mk": "SI2514003",
+        "nama": "Infrastruktur TI",
         "kelas": "C",
         "sks": 3,
         "dosen": [
-            "Dosen BD-Charlie"
+            "M. Ihsan Alfani Putera, S.Tr.Kom., M.Kom."
         ],
         "allowed_sessions": [
             1,
@@ -2283,27 +2618,1707 @@
         ]
     },
     {
-        "id": "BD201601-1",
-        "kode_mk": "BD201601",
-        "nama": "Tugas Akhir",
-        "kelas": "A",
-        "sks": 6,
-        "dosen": [
-            "Dosen BD-Foxtrot"
-        ],
-        "allowed_sessions": [
-            1,
-            3
-        ]
-    },
-    {
-        "id": "BD201507-1",
-        "kode_mk": "BD201507",
-        "nama": "Internet of Things",
+        "id": "SI2514004-1",
+        "kode_mk": "SI2514004",
+        "nama": "Matematika Diskrit 1",
         "kelas": "A",
         "sks": 3,
         "dosen": [
-            "Dosen BD-Charlie"
+            "Henokh Lugo Hariyanto, M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514004-2",
+        "kode_mk": "SI2514004",
+        "nama": "Matematika Diskrit 1",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514004-3",
+        "kode_mk": "SI2514004",
+        "nama": "Matematika Diskrit 1",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514005-1",
+        "kode_mk": "SI2514005",
+        "nama": "Kemampuan Interpersonal dan Kepemimpinan",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Dwi Arief Prambudi M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514005-2",
+        "kode_mk": "SI2514005",
+        "nama": "Kemampuan Interpersonal dan Kepemimpinan",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Dwi Arief Prambudi M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514005-3",
+        "kode_mk": "SI2514005",
+        "nama": "Kemampuan Interpersonal dan Kepemimpinan",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Dwi Arief Prambudi M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514009-1",
+        "kode_mk": "SI2514009",
+        "nama": "Matematika Diskrit 2",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Henokh Lugo Hariyanto, M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514009-2",
+        "kode_mk": "SI2514009",
+        "nama": "Matematika Diskrit 2",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Henokh Lugo Hariyanto, M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514010-1",
+        "kode_mk": "SI2514010",
+        "nama": "Basis Data",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Arif Wicaksono Septyanto, M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514010-2",
+        "kode_mk": "SI2514010",
+        "nama": "Basis Data",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Arif Wicaksono Septyanto, M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514011-1",
+        "kode_mk": "SI2514011",
+        "nama": "Desain dan Manajemen Jaringan Komputer",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514011-2",
+        "kode_mk": "SI2514011",
+        "nama": "Desain dan Manajemen Jaringan Komputer",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514012-1",
+        "kode_mk": "SI2514012",
+        "nama": "Pemrograman Lanjut",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Rosa Eliviani, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514012-2",
+        "kode_mk": "SI2514012",
+        "nama": "Pemrograman Lanjut",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Arif Wicaksono Septyanto, M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514013-1",
+        "kode_mk": "SI2514013",
+        "nama": "Statistika Sistem Informasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Nursanti Novi Arisa, M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514014-1",
+        "kode_mk": "SI2514014",
+        "nama": "Desain Proses Bisnis",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dwi Nur Amalia, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514014-2",
+        "kode_mk": "SI2514014",
+        "nama": "Desain Proses Bisnis",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Dwi Nur Amalia, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514015-1",
+        "kode_mk": "SI2514015",
+        "nama": "Interaksi Manusia dan Komputer",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Sri Rahayu Natasia, S. Komp., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514015-2",
+        "kode_mk": "SI2514015",
+        "nama": "Interaksi Manusia dan Komputer",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Sri Rahayu Natasia, S. Komp., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514016-1",
+        "kode_mk": "SI2514016",
+        "nama": "Administrasi Basis Data",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Arif Wicaksono Septyanto, M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514016-2",
+        "kode_mk": "SI2514016",
+        "nama": "Administrasi Basis Data",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Arif Wicaksono Septyanto, M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514017-1",
+        "kode_mk": "SI2514017",
+        "nama": "Keamanan Sistem Informasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dwi Arief Prambudi M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514017-2",
+        "kode_mk": "SI2514017",
+        "nama": "Keamanan Sistem Informasi",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Hendy Indrawan Sunardi S.Kom, M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514019-1",
+        "kode_mk": "SI2514019",
+        "nama": "Manajemen Risiko TI",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Rosa Eliviani, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514019-2",
+        "kode_mk": "SI2514019",
+        "nama": "Manajemen Risiko TI",
+        "kelas": "D",
+        "sks": 3,
+        "dosen": [
+            "Rosa Eliviani, S.Kom., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514019-3",
+        "kode_mk": "SI2514019",
+        "nama": "Manajemen Risiko TI",
+        "kelas": "W",
+        "sks": 3,
+        "dosen": [
+            "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514019-4",
+        "kode_mk": "SI2514019",
+        "nama": "Manajemen Risiko TI",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514020-1",
+        "kode_mk": "SI2514020",
+        "nama": "Penggalian Data",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514020-2",
+        "kode_mk": "SI2514020",
+        "nama": "Penggalian Data",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Vika Fitratunnany Insanittaqwa, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514023-1",
+        "kode_mk": "SI2514023",
+        "nama": "Perencanaan Strategis Sistem Informasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Yuyun Tri Wiranti, S.Kom., M.MT."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514023-2",
+        "kode_mk": "SI2514023",
+        "nama": "Perencanaan Strategis Sistem Informasi",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Yuyun Tri Wiranti, S.Kom., M.MT."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514026-1",
+        "kode_mk": "SI2514026",
+        "nama": "Perencanaan Arsitektur Teknologi Informasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Hendy Indrawan Sunardi S.Kom, M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514026-2",
+        "kode_mk": "SI2514026",
+        "nama": "Perencanaan Arsitektur Teknologi Informasi",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Hendy Indrawan Sunardi S.Kom, M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514027-1",
+        "kode_mk": "SI2514027",
+        "nama": "Komputasi Awan",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514027-2",
+        "kode_mk": "SI2514027",
+        "nama": "Komputasi Awan",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2514027-3",
+        "kode_mk": "SI2514027",
+        "nama": "Komputasi Awan",
+        "kelas": "Z",
+        "sks": 3,
+        "dosen": [
+            "Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514030-1",
+        "kode_mk": "SI2514030",
+        "nama": "Tata Kelola dan Manajemen TI",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Hendy Indrawan Sunardi S.Kom, M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514030-2",
+        "kode_mk": "SI2514030",
+        "nama": "Tata Kelola dan Manajemen TI",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Hendy Indrawan Sunardi S.Kom, M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514034-1",
+        "kode_mk": "SI2514034",
+        "nama": "Pengantar Manajemen Risiko",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514034-2",
+        "kode_mk": "SI2514034",
+        "nama": "Perencanaan Keberlangsungan Bisnis",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "I Putu Deny Arthawan Sugih Prabowo S.Kom., M.Eng."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514035-1",
+        "kode_mk": "SI2514035",
+        "nama": "Audit Sistem Informasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Dwi Nur Amalia, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514035-2",
+        "kode_mk": "SI2514035",
+        "nama": "Audit Sistem Informasi",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Dwi Nur Amalia, S.Kom., M.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "SI2514036-1",
+        "kode_mk": "SI2514036",
+        "nama": "Etika Profesi Sistem Informasi",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Henokh Lugo Hariyanto, M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2515044-1",
+        "kode_mk": "SI2515044",
+        "nama": "Manajemen Kualitas SI",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "Dwi Arief Prambudi M.Kom."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "SI2515045-1",
+        "kode_mk": "SI2515045",
+        "nama": "Pemrograman Mobile",
+        "kelas": "X",
+        "sks": 3,
+        "dosen": [
+            "Aidil Saputra Kirsan, S.ST., M.Tr.Kom."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514001-1",
+        "kode_mk": "ST2514001",
+        "nama": "Aljabar Linier",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Surya Puspita Sari, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514001-2",
+        "kode_mk": "ST2514001",
+        "nama": "Aljabar Linier",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Magdalena Effendi, S.Stat., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514002-1",
+        "kode_mk": "ST2514002",
+        "nama": "Komputasi Statistika",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Farida Nur Hayati, S.Si., M.Stat."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "ST2514002-2",
+        "kode_mk": "ST2514002",
+        "nama": "Komputasi Statistika",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Diana Nurlaily, S.Si., M.Stat"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "ST2514003-1",
+        "kode_mk": "ST2514003",
+        "nama": "Komputasi Statistika Lanjut",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Mega Silfiani, S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "ST2514004-1",
+        "kode_mk": "ST2514004",
+        "nama": "Statistika Matematika 1",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Surya Puspita Sari, S.Si., M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514006-1",
+        "kode_mk": "ST2514006",
+        "nama": "Analisis Regresi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Farida Nur Hayati, S.Si., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514007-1",
+        "kode_mk": "ST2514007",
+        "nama": "Metode Numerik",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Irma Fitria, S.Si, M.Si."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "ST2514008-1",
+        "kode_mk": "ST2514008",
+        "nama": "Official Statistics",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Kevin Agung Fernanda Rifki, S.Stat, M.Stat"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514010-1",
+        "kode_mk": "ST2514010",
+        "nama": "Riset Operasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Irma Fitria, S.Si, M.Si."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514011-1",
+        "kode_mk": "ST2514011",
+        "nama": "Desain Eksperimen",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Yumna Aqila Kaltsum, S.Si., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514011-2",
+        "kode_mk": "ST2514011",
+        "nama": "Desain Eksperimen",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Farida Nur Hayati, S.Si., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514019-1",
+        "kode_mk": "ST2514019",
+        "nama": "Analisis Survival",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Riki Herliansyah, S.Si., M.Stats., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514019-2",
+        "kode_mk": "ST2514019",
+        "nama": "Analisis Survival",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Riki Herliansyah, S.Si., M.Stats., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514020-1",
+        "kode_mk": "ST2514020",
+        "nama": "Analisis Runtun Waktu",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Mega Silfiani, S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514021-1",
+        "kode_mk": "ST2514021",
+        "nama": "Data Mining",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Farida Nur Hayati, S.Si., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514021-2",
+        "kode_mk": "ST2514021",
+        "nama": "Data Mining",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Diana Nurlaily, S.Si., M.Stat"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514022-1",
+        "kode_mk": "ST2514022",
+        "nama": "Pengantar Ekonometrika",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Mega Silfiani, S.Si., M.Si., M.Sc."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514022-2",
+        "kode_mk": "ST2514022",
+        "nama": "Pengantar Ekonometrika",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Magdalena Effendi, S.Stat., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514023-1",
+        "kode_mk": "ST2514023",
+        "nama": "Matematika Keuangan",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Yumna Aqila Kaltsum, S.Si., M.Stat."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514024-1",
+        "kode_mk": "ST2514024",
+        "nama": "Analisis Data Statistik",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Diana Nurlaily, S.Si., M.Stat"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2514027-1",
+        "kode_mk": "ST2514027",
+        "nama": "Teknik Simulasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Kevin Agung Fernanda Rifki, S.Stat, M.Stat"
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "ST2515007-1",
+        "kode_mk": "ST2515007",
+        "nama": "Statistika Kebencanaan",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "Kevin Agung Fernanda Rifki, S.Stat, M.Stat"
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "ST2515008-1",
+        "kode_mk": "ST2515008",
+        "nama": "Statistika Lingkungan",
+        "kelas": "X",
+        "sks": 2,
+        "dosen": [
+            "Magdalena Effendi, S.Stat., M.Stat."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514001-1",
+        "kode_mk": "TE2514001",
+        "nama": "Aljabar Linear",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Yun Tonce Kusuma Priyanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514001-2",
+        "kode_mk": "TE2514001",
+        "nama": "Aljabar Linear",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Ridho Dewanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514004-1",
+        "kode_mk": "TE2514004",
+        "nama": "Rangkaian Listrik DC",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Aninditya Anggari Nuryono, S.T., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514004-2",
+        "kode_mk": "TE2514004",
+        "nama": "Rangkaian Listrik DC",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Riza Hadi Saputra, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514004-3",
+        "kode_mk": "TE2514004",
+        "nama": "Rangkaian Listrik DC",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Thorikul Huda, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514005-1",
+        "kode_mk": "TE2514005",
+        "nama": "Elektromagnetika",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514005-2",
+        "kode_mk": "TE2514005",
+        "nama": "Elektromagnetika",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Thorikul Huda, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514005-3",
+        "kode_mk": "TE2514005",
+        "nama": "Elektromagnetika",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514006-1",
+        "kode_mk": "TE2514006",
+        "nama": "Persamaan Diferensial",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Yun Tonce Kusuma Priyanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514006-2",
+        "kode_mk": "TE2514006",
+        "nama": "Persamaan Diferensial",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Yun Tonce Kusuma Priyanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514006-3",
+        "kode_mk": "TE2514006",
+        "nama": "Persamaan Diferensial",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Yun Tonce Kusuma Priyanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514006-4",
+        "kode_mk": "TE2514006",
+        "nama": "Persamaan Diferensial",
+        "kelas": "D",
+        "sks": 2,
+        "dosen": [
+            "Yun Tonce Kusuma Priyanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514007-1",
+        "kode_mk": "TE2514007",
+        "nama": "Metode Numerik",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Agung Nursyeha, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514007-2",
+        "kode_mk": "TE2514007",
+        "nama": "Metode Numerik",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Ridho Dewanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514007-3",
+        "kode_mk": "TE2514007",
+        "nama": "Metode Numerik",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Riza Hadi Saputra, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514008-1",
+        "kode_mk": "TE2514008",
+        "nama": "Rangkaian Digital",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Riza Hadi Saputra, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514008-2",
+        "kode_mk": "TE2514008",
+        "nama": "Rangkaian Digital",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Riza Hadi Saputra, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514008-3",
+        "kode_mk": "TE2514008",
+        "nama": "Rangkaian Digital",
+        "kelas": "C",
+        "sks": 2,
+        "dosen": [
+            "Riza Hadi Saputra, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514010-1",
+        "kode_mk": "TE2514010",
+        "nama": "Rangkaian dan Piranti Semikonduktor",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Muhammad Agung Nursyeha, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514010-2",
+        "kode_mk": "TE2514010",
+        "nama": "Rangkaian dan Piranti Semikonduktor",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Agung Nursyeha, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514010-3",
+        "kode_mk": "TE2514010",
+        "nama": "Rangkaian dan Piranti Semikonduktor",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Muhammad Agung Nursyeha, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514011-1",
+        "kode_mk": "TE2514011",
+        "nama": "Sinyal dan Sistem",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Risty Jayanti Yuniar, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514011-2",
+        "kode_mk": "TE2514011",
+        "nama": "Sinyal dan Sistem",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Risty Jayanti Yuniar, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514011-3",
+        "kode_mk": "TE2514011",
+        "nama": "Sinyal dan Sistem",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Risty Jayanti Yuniar, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514015-1",
+        "kode_mk": "TE2514015",
+        "nama": "Sistem Komunikasi",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Amalia Rizqi Utami, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514015-2",
+        "kode_mk": "TE2514015",
+        "nama": "Sistem Komunikasi",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Amalia Rizqi Utami, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514016-1",
+        "kode_mk": "TE2514016",
+        "nama": "Sistem Kontrol",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Thorikul Huda, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514016-2",
+        "kode_mk": "TE2514016",
+        "nama": "Sistem Kontrol",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Thorikul Huda, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514017-1",
+        "kode_mk": "TE2514017",
+        "nama": "Sistem Tenaga Listrik",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Firilia Filiana, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514017-2",
+        "kode_mk": "TE2514017",
+        "nama": "Sistem Tenaga Listrik",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Firilia Filiana, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514018-1",
+        "kode_mk": "TE2514018",
+        "nama": "Sistem Tertanam",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Ridho Dewanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514018-2",
+        "kode_mk": "TE2514018",
+        "nama": "Sistem Tertanam",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Muhammad Ridho Dewanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514019-1",
+        "kode_mk": "TE2514019",
+        "nama": "Elektronika Daya",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Happy Aprillia, S.ST., M.T., M.Eng., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514019-2",
+        "kode_mk": "TE2514019",
+        "nama": "Elektronika Daya",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Firilia Filiana, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514020-1",
+        "kode_mk": "TE2514020",
+        "nama": "Instrumentasi",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Andhika Giyantara, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514021-1",
+        "kode_mk": "TE2514021",
+        "nama": "Komunikasi Nirkabel",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Amalia Rizqi Utami, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514021-2",
+        "kode_mk": "TE2514021",
+        "nama": "Komunikasi Nirkabel",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Amalia Rizqi Utami, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514021-3",
+        "kode_mk": "TE2514021",
+        "nama": "Komunikasi Nirkabel",
+        "kelas": "C",
+        "sks": 3,
+        "dosen": [
+            "Amalia Rizqi Utami, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514021-4",
+        "kode_mk": "TE2514021",
+        "nama": "Komunikasi Nirkabel",
+        "kelas": "D",
+        "sks": 3,
+        "dosen": [
+            "Amalia Rizqi Utami, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514023-1",
+        "kode_mk": "TE2514023",
+        "nama": "Manajemen Proyek dan Keselamatan Kerja",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Andhika Giyantara, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514023-2",
+        "kode_mk": "TE2514023",
+        "nama": "Manajemen Proyek dan Keselamatan Kerja",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Andhika Giyantara, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514023-3",
+        "kode_mk": "TE2514023",
+        "nama": "Manajemen Proyek dan Keselamatan Kerja",
+        "kelas": "X",
+        "sks": 3,
+        "dosen": [
+            "Andhika Giyantara, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514024-1",
+        "kode_mk": "TE2514024",
+        "nama": "Pengolahan Sinyal Digital",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Agung Nursyeha, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514024-2",
+        "kode_mk": "TE2514024",
+        "nama": "Pengolahan Sinyal Digital",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Muhammad Ridho Dewanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514025-1",
+        "kode_mk": "TE2514025",
+        "nama": "Wireless Sensor Networks dan Internet of Things",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Adi Mahmud Jaya Marindra, S.T., M.Eng., Ph.D."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514025-2",
+        "kode_mk": "TE2514025",
+        "nama": "Wireless Sensor Networks dan Internet of Things",
+        "kelas": "B",
+        "sks": 2,
+        "dosen": [
+            "Aninditya Anggari Nuryono, S.T., M.Eng."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514026-1",
+        "kode_mk": "TE2514026",
+        "nama": "Metodologi Penelitian",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Thorikul Huda, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514029-1",
+        "kode_mk": "TE2514029",
+        "nama": "Robotika",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Muhammad Agung Nursyeha, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514029-2",
+        "kode_mk": "TE2514029",
+        "nama": "Robotika",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Thorikul Huda, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2514030-1",
+        "kode_mk": "TE2514030",
+        "nama": "Sistem Energi Baru dan Terbarukan",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Happy Aprillia, S.ST., M.T., M.Eng., Ph.D."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2514030-2",
+        "kode_mk": "TE2514030",
+        "nama": "Sistem Energi Baru dan Terbarukan",
+        "kelas": "B",
+        "sks": 3,
+        "dosen": [
+            "Happy Aprillia, S.ST., M.T., M.Eng., Ph.D."
+        ],
+        "allowed_sessions": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": "TE2515010-1",
+        "kode_mk": "TE2515010",
+        "nama": "Kualitas Daya Listrik",
+        "kelas": "A",
+        "sks": 2,
+        "dosen": [
+            "Yun Tonce Kusuma Priyanto, S.T., M.T."
+        ],
+        "allowed_sessions": [
+            2,
+            4
+        ]
+    },
+    {
+        "id": "TE2515022-1",
+        "kode_mk": "TE2515022",
+        "nama": "Sistem Pengaturan Cerdas",
+        "kelas": "A",
+        "sks": 3,
+        "dosen": [
+            "Risty Jayanti Yuniar, S.T., M.T."
         ],
         "allowed_sessions": [
             1,
