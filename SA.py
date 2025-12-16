@@ -10,14 +10,14 @@ from typing import List, Dict, Tuple
 
 # Parameter SA 
 NUM_TRIALS = 10                   # Jumlah percobaan
-INITIAL_TEMPERATURE = 2000.0      # Lebih tinggi = lebih eksplorasi
+INITIAL_TEMPERATURE = 1000.0      # Lebih tinggi = lebih eksplorasi
 FINAL_TEMPERATURE = 0.1           # Lebih rendah = lebih eksploitasi
-COOLING_RATE = 0.98               # Lebih lambat = lebih banyak iterasi
+COOLING_RATE = 0.99               # Lebih lambat = lebih banyak iterasi
 ACCEPTANCE_THRESHOLD = 0.8        # Kriteria penerimaan
 TARGET_FITNESS = 0.0              # Target fitness (0 = penalty minimum)
 MAX_NO_IMPROVEMENT = 100          # Lebih sabar
 MAX_RETRY = 3                     # Batas mengulang iterasi
-MAX_ITERATIONS = 5000             # Lebih banyak iterasi
+MAX_ITERATIONS = 1000             # Lebih banyak iterasi
 
 # Hari
 DAY_ORDER = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"]
@@ -283,7 +283,7 @@ def simulated_annealing(timeslots, ruang_list, matkul_list):
     
     while temperature > FINAL_TEMPERATURE and iteration < MAX_ITERATIONS:
         if best_penalty == 0:
-            print(f"\n [SUCCESS] Solusi OPTIMAL (penalty=0) ditemukan di iterasi {iteration}!")
+            print(f"\n[SUCCESS] Solusi OPTIMAL (penalty=0) ditemukan di iterasi {iteration}!")
             break
         
         neighbor_solution = generate_neighbor(current_solution, timeslots, ruang_list, matkul_list)
@@ -315,7 +315,7 @@ def simulated_annealing(timeslots, ruang_list, matkul_list):
             print(f"Iterasi {iteration:4d} | Fitness: {best_fitness:.5f} | Penalty: {best_penalty} | Temp: {temperature:.2f}")
         
         if no_improvement_count >= MAX_NO_IMPROVEMENT:
-            print(f"\n⚠ [EARLY STOP] Tidak ada perbaikan setelah {MAX_NO_IMPROVEMENT} iterasi")
+            print(f"\n[EARLY STOP] Tidak ada perbaikan setelah {MAX_NO_IMPROVEMENT} iterasi")
             break
     
     print("\n" + "=" * 50)
@@ -326,7 +326,7 @@ def simulated_annealing(timeslots, ruang_list, matkul_list):
     print(f"Penalty Terbaik: {best_penalty}")
     
     # Sebelum return, jalankan local search
-    print("\n🔍 Menjalankan Local Search untuk perbaikan akhir...")
+    print("\nMenjalankan Local Search untuk perbaikan akhir...")
     best_solution = local_search(best_solution, timeslots, ruang_list, matkul_list)
     best_fitness, best_penalty = calculate_fitness(best_solution, timeslots, ruang_list, matkul_list)
     
@@ -451,35 +451,49 @@ def export_to_csv(solution, timeslots, ruang_list, matkul_list, filename="jadwal
         writer.writeheader()
         writer.writerows(records)
 
-    print(f"\n✓ File CSV berhasil dibuat: {filepath}")
+    print(f"\nFile CSV berhasil dibuat: {filepath}")
 
 
 # Run fn
 
 def main():
-    """Main function untuk menjalankan Simulated Annealing"""
-    
-    # Load data
+    # Load data terlebih dahulu
     timeslots, ruang_list, matkul_list = load_data()
     
-    print(f"\n📊 Data yang dimuat:")
-    print(f"  - Jumlah Timeslot: {len(timeslots)}")
-    print(f"  - Jumlah Ruang: {len(ruang_list)}")
-    print(f"  - Jumlah Mata Kuliah: {len(matkul_list)}")
+    all_results = []
     
-    # run Simulated Annealing
-    best_solution, best_penalty, best_fitness = simulated_annealing(
-        timeslots, ruang_list, matkul_list
-    )
+    for trial in range(NUM_TRIALS):
+        print(f"\n{'='*50}")
+        print(f"PERCOBAAN {trial + 1}/{NUM_TRIALS}")
+        print(f"{'='*50}")
+        
+        best_solution, best_penalty, best_fitness = simulated_annealing(
+            timeslots, ruang_list, matkul_list
+        )
+        
+        all_results.append({
+            'trial': trial + 1,
+            'solution': best_solution,
+            'penalty': best_penalty,
+            'fitness': best_fitness
+        })
     
-    # Print jadwal 
-    print("\n" + "=" * 80)
-    print("JADWAL HASIL SIMULATED ANNEALING")
-    print("=" * 80)
-    print_schedule(best_solution, timeslots, ruang_list, matkul_list)
+    # Pilih hasil terbaik dari semua percobaan
+    best_result = min(all_results, key=lambda x: x['penalty'])
     
-    # Export CSV
-    export_to_csv(best_solution, timeslots, ruang_list, matkul_list)
+    print(f"\n{'='*80}")
+    print(f"RINGKASAN {NUM_TRIALS} PERCOBAAN")
+    print(f"{'='*80}")
+    for r in all_results:
+        print(f"Percobaan {r['trial']}: Penalty = {r['penalty']}, Fitness = {r['fitness']:.6f}")
+    
+    print(f"\nHASIL TERBAIK: Percobaan {best_result['trial']}")
+    print(f"   Penalty: {best_result['penalty']}")
+    print(f"   Fitness: {best_result['fitness']:.6f}")
+    
+    # Print & export hasil terbaik
+    print_schedule(best_result['solution'], timeslots, ruang_list, matkul_list)
+    export_to_csv(best_result['solution'], timeslots, ruang_list, matkul_list)
 
 
 if __name__ == "__main__":
